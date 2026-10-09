@@ -64,11 +64,42 @@ theme = 'ananke'
     url = "/mika-on-pitkahuilu/rakennusohjeita/"
     weight = 7
 
-  [[menu.main]]
+    [[menu.main]]
     identifier = "soitto-opas"
     name = "Soitto-opas ˅"
     url = "/soitto-opas/"
     weight = 3
+
+  [[menu.main]]
+    parent = "soitto-opas"
+    name = "Soittoasento seisten"
+    url = "/soitto-opas/soittoasento-seisten/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "soitto-opas"
+    name = "Sormitusmerkinnät"
+    url = "/soitto-opas/sormitusmerkinnat/"
+    weight = 2
+
+  [[menu.main]]
+    parent = "soitto-opas"
+    name = "Hengitys"
+    url = "/soitto-opas/hengitys/"
+    weight = 3
+
+  [[menu.main]]
+    parent = "soitto-opas"
+    name = "Harjoitukset"
+    url = "/soitto-opas/harjoitukset/"
+    weight = 4
+
+  [[menu.main]]
+    parent = "soitto-opas"
+    name = "Kappaleita pitkähuilulle"
+    url = "/soitto-opas/kappaleita-pitkahuilulle/"
+    weight = 5
+
 
   [[menu.main]]
     identifier = "opetus"
