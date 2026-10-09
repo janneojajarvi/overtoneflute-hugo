@@ -1,0 +1,79 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 center mw8">
+    
+    <!-- Iso otsikko -->
+    <h1 class="f1 fw3 lh-title white ma0 mb4">Etusivu</h1>
+
+    <!-- Yläbannerikuva -->
+    <div class="tc pv2">
+      <img src="{{ "images/banner.jpg" | relURL }}" alt="Pitkähuilun suukappale" style="max-width: 100%; height: auto; border-radius: 2px;">
+    </div>
+
+    <!-- Sitaatti -->
+    <p style="font-style: italic; color: #a0aec0; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+      “Pitkähuilu, yläsävelhuilu, overtoneflute, willow flute, sälgflöjt, seljefløyte, pikkvile…”
+    </p>
+
+    <!-- Leipäteksti 1 -->
+    <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+      Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteineen ja ääninäytteineen) sekä kuunteluvinkkejä soittimesta jota kutsutaan muun muassa nimillä pitkähuilu ja yläsävelhuilu. Tässä tapauksessa yläsävelhuilusta puhuttaessa viitataan sormiaukottomaan sivusta tai päästä puhallettavaan huiluun.
+    </p>
+
+    <!-- Nosto: Video of the week -->
+    <h3 style="margin-top: 2rem; margin-bottom: 1rem;">
+      <a href="{{ "posts/video-of-the-week-1-10-2026/" | relURL }}" style="color: #ffffff !important; text-decoration: underline;">Video of the week 1/10 (2026)</a>
+    </h3>
+
+    <!-- Leipäteksti 2 -->
+    <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+      Sivuston materiaaleja voi hyödyntää eri sävellajeihin rakennetuilla huiluilla, vaikkakin suurin osa sivuston ääninäytteistä on soitettu D-vireisellä pitkähuilulla. Vaikka kappaleet ja harjoitukset ovatkin sivustolla nuotteina, ei niiden soittoon tarvitse kuitenkaan välttämättä nuotinlukutaitoa. Riittää kun soitat ääninäytteiden mukana ja katsot nuottilapuista sormitukset (auki/kiinni). Onnittelut sinulle joka olet löytänyt tämän marginaalisen ja ensi kuulemalta mahdollisesti oudon kuuloisen soittimen pariin! Pitkähuiluissa piilee potentiaalia, josta suurinta osaa ei ole vielä hyödynnetty. Tervetuloa oppimaan pitkähuilun soittoa!
+    </p>
+
+    <!-- Tukilinkki -->
+    <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2.5rem;">
+      Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan "Traditional Folk Tunes for Willow Flute" täältä.
+    </p>
+
+    <!-- Soitinkuvat ja kuvatekstit -->
+    <div style="display: flex; flex-direction: column; gap: 2.5rem; margin-top: 2rem; margin-bottom: 2.5rem;">
+      <div>
+        <img src="{{ "images/bassopitkahuilu.jpg" | relURL }}" alt="Bassopitkähuilu" style="max-width: 100%; height: auto;">
+        <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 0.5rem;">Bassopitkähuilu (Rakentanut Vladiswar Nadishana)</p>
+      </div>
+
+      <div>
+        <img src="{{ "images/d-pitkahuilu.jpg" | relURL }}" alt="D-pitkähuilu" style="max-width: 100%; height: auto;">
+        <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 0.5rem;">D-pitkähuilu (Rakentanut Kirsi Vinkki)</p>
+      </div>
+
+      <div>
+        <img src="{{ "images/erilaisia-pitkahuiluja.jpg" | relURL }}" alt="Erilaisia pitkähuiluja" style="max-width: 100%; height: auto;">
+        <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 0.5rem;">Erilaisia pitkähuiluja</p>
+      </div>
+    </div>
+
+    <!-- Kielilinkit alhaalla -->
+    <div style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #2d3748; font-size: 0.95rem;">
+      <span>Overtoneflute.fi muilla kielillä: </span>
+      <a href="#" style="color: #f0c040 !important; margin-right: 0.5rem;">Auf Deutsch</a> 
+      <a href="#" style="color: #f0c040 !important; margin-right: 0.5rem;">En Français</a> 
+      <a href="#" style="color: #f0c040 !important; margin-right: 0.5rem;">柳笛</a> 
+      <a href="#" style="color: #f0c040 !important; margin-right: 0.5rem;">English</a> 
+      <a href="#" style="color: #f0c040 !important;">日本語</a>
+    </div>
+
+    <!-- Viimeisimmät blogipostaukset -->
+    <section class="mt5 pt4 bt b--dark-gray">
+      <h2 class="f3 white fw4 mb4">Viimeisimmät blogipostaukset</h2>
+      <div class="flex flex-column gap3">
+        {{ range first 5 (where .Site.RegularPages "Type" "in" (slice "posts" "post")) }}
+          <div class="mb3">
+            <a href="{{ .RelPermalink }}" class="f4 gold db underline hover-white">{{ .Title }}</a>
+            <span class="f6 light-gray" style="color: #a0aec0; display: block; margin-top: 0.2rem;">{{ .Date.Format "2.1.2006" }}</span>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+
+  </article>
+{{ end }}

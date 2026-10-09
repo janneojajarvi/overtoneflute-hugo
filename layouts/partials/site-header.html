@@ -1,0 +1,46 @@
+<header class="pv3 ph3 ph5-l bg-near-black">
+  <div class="mw8 center tc">
+    <!-- Ylärivi: Otsikko + Kuvaus -->
+    <div class="mb2">
+      <a href="{{ "/" | relURL }}" class="f4 fw6 white link dib mr2">OVERTONEFLUTE.FI</a>
+      <span class="f6 light-gray">Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources</span>
+    </div>
+
+    <!-- Kielilinkit -->
+    <div class="mb3 f6">
+      <a href="{{ "/" | relURL }}" class="gold link mr3 underline">Suomeksi</a>
+      <a href="{{ "/en/" | relURL }}" class="gold link mr3 underline">English</a>
+      <a href="{{ "/ja/" | relURL }}" class="gold link underline">日本語</a>
+    </div>
+
+    <!-- Päävalikko -->
+    <nav class="pv2">
+      <ul class="custom-nav-menu">
+        {{ range .Site.Menus.main }}
+          {{ if not .HasChildren }}
+            <li class="custom-nav-item">
+              <a href="{{ .URL | relURL }}" class="gold-link">
+                {{ .Name }}
+              </a>
+            </li>
+          {{ else }}
+            <li class="custom-nav-item has-dropdown">
+              <a href="{{ .URL | relURL }}" class="gold-link">
+                {{ .Name }}
+              </a>
+              <ul class="custom-dropdown">
+                {{ range .Children }}
+                  <li>
+                    <a href="{{ .URL | relURL }}">
+                      {{ .Name }}
+                    </a>
+                  </li>
+                {{ end }}
+              </ul>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>

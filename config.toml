@@ -1,34 +1,101 @@
-baseURL = 'https://www.overtoneflute.fi/'
+baseURL = 'https://janneojajarvi.github.io/overtoneflute-hugo/'
 languageCode = 'fi-fi'
-title = 'Overtone Flute'
+title = 'OVERTONEFLUTE.FI'
 theme = 'ananke'
 
-# Määritetään artikkelien URL-rakenne samaksi kuin WordPressissä
-[permalinks]
-  posts = '/:slug/'
-
-# Navigaatiovalikko yläpalkkiin
-[[menu.main]]
-  name = 'Home'
-  url = '/'
-  weight = 1
-
-[[menu.main]]
-  name = 'Articles'
-  url = '/posts/'
-  weight = 2
-
-# Lisää tähän tarvittaessa muita WordPress-sivujasi:
-# [[menu.main]]
-#   name = 'About'
-#   url = '/about/'
-#   weight = 3
-
 [params]
-  description = 'Overtone flute music, tutorials and resources'
-  # Yläpalkin taustaväri
-  background_color_class = 'bg-dark-gray'
-  # Voit lisätä yläpalkin taustakuvan suhteellisella polulla (static/images/banner.jpg -> /images/banner.jpg)
-  # featured_image = '/images/banner.jpg'
-  
-  buildFuture = true
+  site_description = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
+  background_color_class = "bg-near-black"
+  recent_posts_number = 5
+  custom_css = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Etusivu"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "mika-on-pitkahuilu"
+    name = "Mikä on pitkähuilu ˅"
+    url = "/mika-on-pitkahuilu/"
+    weight = 2
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Pitkähuilumusiikki"
+    url = "/mika-on-pitkahuilu/pitkahuilumusiikki/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Pitkähuilun historia Suomessa"
+    url = "/mika-on-pitkahuilu/historia-suomessa/"
+    weight = 2
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Pitkähuilun rakenne"
+    url = "/mika-on-pitkahuilu/rakenne/"
+    weight = 3
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Yläsävelsarja"
+    url = "/mika-on-pitkahuilu/ylasavelsarja/"
+    weight = 4
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Pitkähuilun asteikko"
+    url = "/mika-on-pitkahuilu/asteikko/"
+    weight = 5
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Pitkähuilun hankinta"
+    url = "/mika-on-pitkahuilu/hankinta/"
+    weight = 6
+
+  [[menu.main]]
+    parent = "mika-on-pitkahuilu"
+    name = "Rakennusohjeita"
+    url = "/mika-on-pitkahuilu/rakennusohjeita/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "soitto-opas"
+    name = "Soitto-opas ˅"
+    url = "/soitto-opas/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "opetus"
+    name = "Pitkähuilun opetus"
+    url = "/opetus/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "julkaisut"
+    name = "Pitkähuilujulkaisut"
+    url = "/julkaisut/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "tekijasta"
+    name = "Tekijästä & kontakti"
+    url = "/tekijasta/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "linkit"
+    name = "Linkit"
+    url = "/linkit/"
+    weight = 7
+
+  [[menu.main]]
+    identifier = "lahteet"
+    name = "Lähteet"
+    url = "/lahteet/"
+    weight = 8

@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 center mw8">
+    <header class="pv3">
+      <h1 class="f1 fw3 lh-title white ma0 mb4">{{ .Title }}</h1>
+    </header>
+
+    <!-- Etusivun oma teksti ja kuvat -->
+    <div class="lh-copy f4 white">
+      {{ .Content }}
+    </div>
+
+    <!-- Viimeisimmät blogipostaukset alhaalla -->
+    <section class="mt5 pt4 bt b--dark-gray">
+      <h2 class="f3 white fw4 mb4">Viimeisimmät blogipostaukset</h2>
+      <div class="flex flex-column gap3">
+        {{ range first 5 (where .Site.RegularPages "Type" "in" (slice "posts" "post")) }}
+          <div class="mb3">
+            <a href="{{ .RelPermalink }}" class="f4 gold db underline hover-white">{{ .Title }}</a>
+            <span class="f6 light-gray" style="color: #a0aec0;">{{ .Date.Format "2.1.2006" }}</span>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  </article>
+{{ end }}

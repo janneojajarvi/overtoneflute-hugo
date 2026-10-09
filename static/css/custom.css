@@ -1,0 +1,78 @@
+/* Tummansininen taustaväri koko sivustolle */
+body, main, header, article, footer, .bg-near-black {
+  background-color: #15222e !important;
+  color: #e2e8f0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+h1, .f1 {
+  font-weight: 300 !important;
+  color: #ffffff !important;
+}
+
+/* Navigaatiovalikko */
+.custom-nav-menu {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+  gap: 1.2rem !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.custom-nav-item {
+  position: relative !important;
+  display: inline-block !important;
+}
+
+/* Keltaiset linkit */
+a.gold-link, .gold-link, .gold {
+  color: #f0c040 !important;
+  text-decoration: underline !important;
+  font-size: 1.05rem !important;
+  font-weight: 500 !important;
+}
+
+a.gold-link:hover {
+  color: #ffffff !important;
+}
+
+/* Dropdown-alavalikko */
+.custom-dropdown {
+  display: none !important;
+  position: absolute !important;
+  top: 100% !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  background-color: #ffffff !important;
+  min-width: 250px !important;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.4) !important;
+  padding: 12px 16px !important;
+  z-index: 9999 !important;
+  list-style: none !important;
+  text-align: left !important;
+  border-radius: 4px !important;
+}
+
+.custom-nav-item.has-dropdown:hover .custom-dropdown {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+}
+
+.custom-dropdown li a {
+  color: #d69e2e !important;
+  font-size: 1rem !important;
+  text-decoration: underline !important;
+  font-weight: 500 !important;
+  display: block !important;
+}
+
+.custom-dropdown li a:hover {
+  color: #b7791f !important;
+}
+
+.mw8 {
+  max-width: 900px !important;
+}

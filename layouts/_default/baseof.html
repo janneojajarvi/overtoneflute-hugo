@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+</head>
+<body class="bg-near-black white sans-serif">
+
+  <!-- Mukautettu yläpalkki -->
+  {{ partial "site-header.html" . }}
+
+  <!-- Pääsisältö -->
+  <main class="pb5" role="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+</body>
+</html>
