@@ -16,7 +16,7 @@
       <!-- Mikä on pitkähuilu -->
       <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
         <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white hover-silver">Mikä on pitkähuilu ▾</a>
-        <ul class="dropdown-menu list pl0 absolute bg-near-black ba b--dark-gray pa2 dn">
+        <ul class="dropdown-menu list pl0 static absolute-ns bg-near-black ba-ns b--dark-gray pa2 dn block-ns ml3 ml0-ns mt1 mt0-ns">
           <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/" class="link white hover-silver f6">Rakenne</a></li>
           <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/" class="link white hover-silver f6">Historia</a></li>
           <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/" class="link white hover-silver f6">Musiikki</a></li>
@@ -30,9 +30,9 @@
       <!-- Soitto-opas -->
       <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
         <a href="/overtoneflute-hugo/soitto-opas/" class="link white hover-silver">Soitto-opas ▾</a>
-        <ul class="dropdown-menu list pl0 absolute bg-near-black ba b--dark-gray pa2 dn">
+        <ul class="dropdown-menu list pl0 static absolute-ns bg-near-black ba-ns b--dark-gray pa2 dn block-ns ml3 ml0-ns mt1 mt0-ns">
           <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/" class="link white hover-silver f6">Soittoasento seisten</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnat/" class="link white hover-silver f6">Sormitusmerkinnat</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnat/" class="link white hover-silver f6">Sormitusmerkinnät</a></li>
           <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/hengitys/" class="link white hover-silver f6">Hengitys</a></li>
           <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/" class="link white hover-silver f6">Harjoitukset</a></li>
           <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkahuilulle/" class="link white hover-silver f6">Kappaleita pitkähuilulle</a></li>
@@ -45,10 +45,13 @@
   </nav>
 </header>
 
-<!-- Tyylit ja skripti hampurilaisvalikolle -->
+<!-- Tyylit: mobiilissa valikko ja alamenut auki, tietokoneella hoverilla -->
 <style>
   @media screen and (max-width: 768px) {
     .main-nav.active {
+      display: block !important;
+    }
+    .main-nav.active .dropdown-menu {
       display: block !important;
     }
   }
