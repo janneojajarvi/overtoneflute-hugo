@@ -1,4 +1,5 @@
 baseURL = 'https://janneojajarvi.github.io/overtoneflute-hugo/'
+relativeURLs = true
 defaultContentLanguage = 'fi'
 theme = 'ananke'
 
