@@ -1,134 +1,200 @@
 baseURL = 'https://janneojajarvi.github.io/overtoneflute-hugo/'
-languageCode = 'fi-fi'
-title = 'OVERTONEFLUTE.FI'
+defaultContentLanguage = 'fi'
 theme = 'ananke'
 
-[params]
-  site_description = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
-  background_color_class = "bg-near-black"
-  recent_posts_number = 5
-  custom_css = ["css/custom.css"]
+# --- SUOMI ---
+[languages.fi]
+  languageCode = 'fi-fi'
+  languageName = 'Suomeksi'
+  weight = 1
+  title = 'OVERTONEFLUTE.FI'
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Etusivu"
-    url = "/"
-    weight = 1
+  [languages.fi.params]
+    site_description = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
+    background_color_class = "bg-near-black"
+    recent_posts_number = 5
+    custom_css = ["css/custom.css"]
 
-  [[menu.main]]
-    identifier = "mika-on-pitkahuilu"
-    name = "Mikä on pitkähuilu ˅"
-    url = "/mika-on-pitkahuilu/"
-    weight = 2
+  [languages.fi.menus]
+    [[languages.fi.menus.main]]
+      identifier = "home"
+      name = "Etusivu"
+      url = "/"
+      weight = 1
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Pitkähuilumusiikki"
-    url = "/mika-on-pitkahuilu/pitkahuilumusiikki/"
-    weight = 1
+    [[languages.fi.menus.main]]
+      identifier = "mika-on-pitkahuilu"
+      name = "Mikä on pitkähuilu ˅"
+      url = "/mika-on-pitkahuilu/"
+      weight = 2
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Pitkähuilun historia Suomessa"
-    url = "/mika-on-pitkahuilu/historia-suomessa/"
-    weight = 2
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Pitkähuilumusiikki"
+      url = "/mika-on-pitkahuilu/pitkahuilumusiikki/"
+      weight = 1
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Pitkähuilun rakenne"
-    url = "/mika-on-pitkahuilu/rakenne/"
-    weight = 3
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Pitkähuilun historia Suomessa"
+      url = "/mika-on-pitkahuilu/historia-suomessa/"
+      weight = 2
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Yläsävelsarja"
-    url = "/mika-on-pitkahuilu/ylasavelsarja/"
-    weight = 4
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Pitkähuilun rakenne"
+      url = "/mika-on-pitkahuilu/rakenne/"
+      weight = 3
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Pitkähuilun asteikko"
-    url = "/mika-on-pitkahuilu/asteikko/"
-    weight = 5
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Yläsävelsarja"
+      url = "/mika-on-pitkahuilu/ylasavelsarja/"
+      weight = 4
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Pitkähuilun hankinta"
-    url = "/mika-on-pitkahuilu/hankinta/"
-    weight = 6
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Pitkähuilun asteikko"
+      url = "/mika-on-pitkahuilu/asteikko/"
+      weight = 5
 
-  [[menu.main]]
-    parent = "mika-on-pitkahuilu"
-    name = "Rakennusohjeita"
-    url = "/mika-on-pitkahuilu/rakennusohjeita/"
-    weight = 7
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Pitkähuilun hankinta"
+      url = "/mika-on-pitkahuilu/hankinta/"
+      weight = 6
 
-      [[menu.main]]
-    identifier = "soitto-opas"
-    name = "Soitto-opas ˅"
-    url = "/soitto-opas/"
-    weight = 3
+    [[languages.fi.menus.main]]
+      parent = "mika-on-pitkahuilu"
+      name = "Rakennusohjeita"
+      url = "/mika-on-pitkahuilu/rakennusohjeita/"
+      weight = 7
 
-    [[menu.main]]
-    parent = "soitto-opas"
-    name = "Soittoasento seisten"
-    url = "/overtoneflute-hugo/soitto-opas/soittoasento-seisten/"
-    weight = 1
+    [[languages.fi.menus.main]]
+      identifier = "soitto-opas"
+      name = "Soitto-opas ˅"
+      url = "/soitto-opas/"
+      weight = 3
 
-  [[menu.main]]
-    parent = "soitto-opas"
-    name = "Sormitusmerkinnät"
-    url = "/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/"
-    weight = 2
+    [[languages.fi.menus.main]]
+      parent = "soitto-opas"
+      name = "Soittoasento seisten"
+      url = "/soitto-opas/soittoasento-seisten/"
+      weight = 1
+
+    [[languages.fi.menus.main]]
+      parent = "soitto-opas"
+      name = "Sormitusmerkinnät"
+      url = "/soitto-opas/sormitusmerkinnät/"
+      weight = 2
+
+    [[languages.fi.menus.main]]
+      parent = "soitto-opas"
+      name = "Hengitys"
+      url = "/soitto-opas/hengitys/"
+      weight = 3
+
+    [[languages.fi.menus.main]]
+      parent = "soitto-opas"
+      name = "Harjoitukset"
+      url = "/soitto-opas/harjoitukset/"
+      weight = 4
+
+    [[languages.fi.menus.main]]
+      parent = "soitto-opas"
+      name = "Kappaleita pitkähuilulle"
+      url = "/soitto-opas/kappaleita-pitkähuilulle/"
+      weight = 5
+
+    [[languages.fi.menus.main]]
+      identifier = "opetus"
+      name = "Pitkähuilun opetus"
+      url = "/opetus/"
+      weight = 4
+
+    [[languages.fi.menus.main]]
+      identifier = "julkaisut"
+      name = "Pitkähuilujulkaisut"
+      url = "/julkaisut/"
+      weight = 5
+
+    [[languages.fi.menus.main]]
+      identifier = "tekijasta"
+      name = "Tekijästä & kontakti"
+      url = "/tekijasta/"
+      weight = 6
+
+    [[languages.fi.menus.main]]
+      identifier = "linkit"
+      name = "Linkit"
+      url = "/linkit/"
+      weight = 7
+
+    [[languages.fi.menus.main]]
+      identifier = "lahteet"
+      name = "Lähteet"
+      url = "/lahteet/"
+      weight = 8
 
 
-  [[menu.main]]
-    parent = "soitto-opas"
-    name = "Hengitys"
-    url = "/soitto-opas/hengitys/"
-    weight = 3
+# --- ENGLISH ---
+[languages.en]
+  languageCode = 'en-us'
+  languageName = 'English'
+  weight = 2
+  title = 'OVERTONEFLUTE.FI'
 
-  [[menu.main]]
-    parent = "soitto-opas"
-    name = "Harjoitukset"
-    url = "/soitto-opas/harjoitukset/"
-    weight = 4
+  [languages.en.params]
+    site_description = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
+    background_color_class = "bg-near-black"
+    recent_posts_number = 5
+    custom_css = ["css/custom.css"]
 
-  [[menu.main]]
-    parent = "soitto-opas"
-    name = "Kappaleita pitkähuilulle"
-    url = "/soitto-opas/kappaleita-pitkähuilulle/"
-    weight = 5
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      identifier = "home_en"
+      name = "Home"
+      url = "/en/"
+      weight = 1
 
+    [[languages.en.menus.main]]
+      identifier = "mika-on-pitkahuilu_en"
+      name = "What is overtone flute"
+      url = "/en/mika-on-pitkahuilu/"
+      weight = 2
 
+    [[languages.en.menus.main]]
+      identifier = "soitto-opas_en"
+      name = "How to play"
+      url = "/en/soitto-opas/"
+      weight = 3
 
-  [[menu.main]]
-    identifier = "opetus"
-    name = "Pitkähuilun opetus"
-    url = "/opetus/"
-    weight = 4
+    [[languages.en.menus.main]]
+      identifier = "julkaisut_en"
+      name = "Publications"
+      url = "/en/julkaisut/"
+      weight = 4
 
-  [[menu.main]]
-    identifier = "julkaisut"
-    name = "Pitkähuilujulkaisut"
-    url = "/julkaisut/"
-    weight = 5
+    [[languages.en.menus.main]]
+      identifier = "opetus_en"
+      name = "Teachers and lessons"
+      url = "/en/opetus/"
+      weight = 5
 
-  [[menu.main]]
-    identifier = "tekijasta"
-    name = "Tekijästä & kontakti"
-    url = "/tekijasta/"
-    weight = 6
+    [[languages.en.menus.main]]
+      identifier = "tekijasta_en"
+      name = "About me and contact"
+      url = "/en/tekijasta/"
+      weight = 6
 
-  [[menu.main]]
-    identifier = "linkit"
-    name = "Linkit"
-    url = "/linkit/"
-    weight = 7
+    [[languages.en.menus.main]]
+      identifier = "linkit_en"
+      name = "Links"
+      url = "/en/linkit/"
+      weight = 7
 
-  [[menu.main]]
-    identifier = "lahteet"
-    name = "Lähteet"
-    url = "/lahteet/"
-    weight = 8
+    [[languages.en.menus.main]]
+      identifier = "lahteet_en"
+      name = "Sources"
+      url = "/en/lahteet/"
+      weight = 8
