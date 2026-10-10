@@ -1,5 +1,6 @@
 ---
 title: "Soitto-opas"
+featured_image: ""
 ---
 
 Miten pitkähuilu toimii?
