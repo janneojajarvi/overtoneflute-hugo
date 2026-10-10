@@ -64,22 +64,22 @@ theme = 'ananke'
     url = "/mika-on-pitkahuilu/rakennusohjeita/"
     weight = 7
 
-    [[menu.main]]
+      [[menu.main]]
     identifier = "soitto-opas"
     name = "Soitto-opas ˅"
     url = "/soitto-opas/"
     weight = 3
 
   [[menu.main]]
-  parent = "soitto-opas"
-  name = "Soittoasento seisten"
-  url = "/overtoneflute-hugo/soitto-opas/soittoasento-seisten/"
-  weight = 1
+    parent = "soitto-opas"
+    name = "Soittoasento seisten"
+    url = "/soitto-opas/soittoasento-seisten/"
+    weight = 1
 
   [[menu.main]]
     parent = "soitto-opas"
     name = "Sormitusmerkinnät"
-    url = "/soitto-opas/sormitusmerkinnat/"
+    url = "/soitto-opas/sormitusmerkinnät/"
     weight = 2
 
   [[menu.main]]
@@ -97,8 +97,9 @@ theme = 'ananke'
   [[menu.main]]
     parent = "soitto-opas"
     name = "Kappaleita pitkähuilulle"
-    url = "/soitto-opas/kappaleita-pitkahuilulle/"
+    url = "/soitto-opas/kappaleita-pitkähuilulle/"
     weight = 5
+
 
 
   [[menu.main]]
