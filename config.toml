@@ -71,10 +71,10 @@ theme = 'ananke'
     weight = 3
 
   [[menu.main]]
-    parent = "soitto-opas"
-    name = "Soittoasento seisten"
-    url = "/soitto-opas/soittoasento-seisten/"
-    weight = 1
+  parent = "soitto-opas"
+  name = "Soittoasento seisten"
+  url = "/overtoneflute-hugo/soitto-opas/soittoasento-seisten/"
+  weight = 1
 
   [[menu.main]]
     parent = "soitto-opas"
