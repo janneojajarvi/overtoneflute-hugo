@@ -15,10 +15,17 @@
     ☰
   </button>
 
-  <!-- Navigaatiovalikko -->
-  <nav id="main-nav" class="main-nav w-100 w-auto-ns db-ns dn">
-    <ul class="list pl0 ma0 flex flex-column flex-row-ns items-center-ns">
-      <li class="mr3-ns mb2 mb0-ns"><a href="/overtoneflute-hugo/" class="link white hover-silver">Etusivu</a></li>
+  <!-- Navigointivalikko -->
+<nav id="main-nav" class="main-nav w-100 w-auto-ns">
+  <ul class="list pl0 ma0 flex flex-column flex-row-ns">
+    {{ range .Site.Menus.main }}
+      <li class="mr3-ns mb2 mb0-ns">
+        <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
+
       
       <!-- Mikä on pitkähuilu -->
       <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
