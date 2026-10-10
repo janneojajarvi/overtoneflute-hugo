@@ -1,46 +1,67 @@
-<header class="pv3 ph3 ph5-l bg-near-black">
-  <div class="mw8 center tc">
-    <!-- Ylärivi: Otsikko + Kuvaus -->
-    <div class="mb2">
-      <a href="{{ "/" | relURL }}" class="f4 fw6 white link dib mr2">OVERTONEFLUTE.FI</a>
-      <span class="f6 light-gray">Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources</span>
-    </div>
-
-    <!-- Kielilinkit -->
-    <div class="mb3 f6">
-      <a href="{{ "/" | relURL }}" class="gold link mr3 underline">Suomeksi</a>
-      <a href="{{ "/en/" | relURL }}" class="gold link mr3 underline">English</a>
-      <a href="{{ "/ja/" | relURL }}" class="gold link underline">日本語</a>
-    </div>
-
-    <!-- Päävalikko -->
-    <nav class="pv2">
-      <ul class="custom-nav-menu">
-        {{ range .Site.Menus.main }}
-          {{ if not .HasChildren }}
-            <li class="custom-nav-item">
-              <a href="{{ .URL | relURL }}" class="gold-link">
-                {{ .Name }}
-              </a>
-            </li>
-          {{ else }}
-            <li class="custom-nav-item has-dropdown">
-              <a href="{{ .URL | relURL }}" class="gold-link">
-                {{ .Name }}
-              </a>
-              <ul class="custom-dropdown">
-                {{ range .Children }}
-                  <li>
-                    <a href="{{ .URL | relURL }}">
-                      {{ .Name }}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
-            </li>
-          {{ end }}
-        {{ end }}
-      </ul>
-    </nav>
+<header class="site-header pv3 ph4 bg-near-black white flex items-center justify-between flex-wrap">
+  <div class="site-title">
+    <a href="/overtoneflute-hugo/" class="link white b f4">OVERTONEFLUTE.FI</a>
   </div>
+
+  <!-- Hampurilaispainike mobiilille -->
+  <button id="menu-toggle" class="db dn-ns bg-transparent bn white f3 pointer" aria-label="Valikko">
+    ☰
+  </button>
+
+  <!-- Navigaatiovalikko -->
+  <nav id="main-nav" class="main-nav w-100 w-auto-ns db-ns dn">
+    <ul class="list pl0 ma0 flex flex-column flex-row-ns items-center-ns">
+      <li class="mr3-ns mb2 mb0-ns"><a href="/overtoneflute-hugo/" class="link white hover-silver">Etusivu</a></li>
+      
+      <!-- Mikä on pitkähuilu -->
+      <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
+        <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white hover-silver">Mikä on pitkähuilu ▾</a>
+        <ul class="dropdown-menu list pl0 absolute bg-near-black ba b--dark-gray pa2 dn">
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/" class="link white hover-silver f6">Rakenne</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/" class="link white hover-silver f6">Historia</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/" class="link white hover-silver f6">Musiikki</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/ylasavelsarja/" class="link white hover-silver f6">Yläsävelsarja</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/asteikko/" class="link white hover-silver f6">Asteikko</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/hankinta/" class="link white hover-silver f6">Hankinta</a></li>
+          <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakennusohjeita/" class="link white hover-silver f6">Rakennusohjeita</a></li>
+        </ul>
+      </li>
+
+      <!-- Soitto-opas -->
+      <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
+        <a href="/overtoneflute-hugo/soitto-opas/" class="link white hover-silver">Soitto-opas ▾</a>
+        <ul class="dropdown-menu list pl0 absolute bg-near-black ba b--dark-gray pa2 dn">
+          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/" class="link white hover-silver f6">Soittoasento seisten</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnat/" class="link white hover-silver f6">Sormitusmerkinnat</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/hengitys/" class="link white hover-silver f6">Hengitys</a></li>
+          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/" class="link white hover-silver f6">Harjoitukset</a></li>
+          <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkahuilulle/" class="link white hover-silver f6">Kappaleita pitkähuilulle</a></li>
+        </ul>
+      </li>
+
+      <li class="mr3-ns mb2 mb0-ns"><a href="/overtoneflute-hugo/pitkahuilun-opetus/" class="link white hover-silver">Pitkähuilun opetus</a></li>
+      <li><a href="/overtoneflute-hugo/tekijasta-kontaktikin/" class="link white hover-silver">Tekijästä & kontaktit</a></li>
+    </ul>
+  </nav>
 </header>
+
+<!-- Tyylit ja skripti hampurilaisvalikolle -->
+<style>
+  @media screen and (max-width: 768px) {
+    .main-nav.active {
+      display: block !important;
+    }
+  }
+  @media screen and (min-width: 769px) {
+    .dropdown-container:hover .dropdown-menu {
+      display: block !important;
+    }
+  }
+</style>
+
+<script>
+  document.getElementById('menu-toggle').addEventListener('click', function() {
+    var nav = document.getElementById('main-nav');
+    nav.classList.toggle('active');
+  });
+</script>
