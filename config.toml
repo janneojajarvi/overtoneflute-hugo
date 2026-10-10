@@ -70,17 +70,18 @@ theme = 'ananke'
     url = "/soitto-opas/"
     weight = 3
 
-  [[menu.main]]
+    [[menu.main]]
     parent = "soitto-opas"
     name = "Soittoasento seisten"
-    url = "/soitto-opas/soittoasento-seisten/"
+    url = "/overtoneflute-hugo/soitto-opas/soittoasento-seisten/"
     weight = 1
 
   [[menu.main]]
     parent = "soitto-opas"
     name = "Sormitusmerkinnät"
-    url = "/soitto-opas/sormitusmerkinnät/"
+    url = "/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/"
     weight = 2
+
 
   [[menu.main]]
     parent = "soitto-opas"
