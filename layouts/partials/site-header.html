@@ -1,15 +1,14 @@
 <header class="site-header pv3 ph4 bg-near-black white">
   <div class="site-title mb2">
-    <a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">
+    <a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">
       {{ .Site.Title }}
     </a>
   </div>
 
-  <!-- Kielivalikko (näkyy varmasti kaikilla sivuilla) -->
+  <!-- Kielivalikko -->
   <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem;">
-    {{ range .Site.Home.AllTranslations }}
-      <a href="{{ .Permalink }}" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">{{ .Language.LanguageName }}</a>
-    {{ end }}
+    <a href="/overtoneflute-hugo/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">Suomeksi</a>
+    <a href="/overtoneflute-hugo/en/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">English</a>
   </div>
 
   <!-- Navigointivalikko ja alavalikot -->
@@ -17,47 +16,47 @@
     <ul class="custom-nav-menu">
       {{ if eq .Lang "fi" }}
         <!-- SUOMI -->
-        <li class="custom-nav-item"><a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
-          <a href="{{ "/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
+          <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
           <ul class="custom-dropdown">
-            <li><a href="{{ "/mika-on-pitkahuilu/pitkahuilumusiikki/" | absURL }}">Pitkähuilumusiikki</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/historia-suomessa/" | absURL }}">Pitkähuilun historia Suomessa</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/rakenne/" | absURL }}">Pitkähuilun rakenne</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/ylasavelsarja/" | absURL }}">Yläsävelsarja</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/asteikko/" | absURL }}">Pitkähuilun asteikko</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/hankinta/" | absURL }}">Pitkähuilun hankinta</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/rakennusohjeita/" | absURL }}">Rakennusohjeita</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/">Pitkähuilumusiikki</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/">Pitkähuilun historia Suomessa</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/">Pitkähuilun rakenne</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/ylasavelsarja/">Yläsävelsarja</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/asteikko/">Pitkähuilun asteikko</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/hankinta/">Pitkähuilun hankinta</a></li>
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakennusohjeita/">Rakennusohjeita</a></li>
           </ul>
         </li>
 
         <li class="custom-nav-item has-dropdown">
-          <a href="{{ "/soitto-opas/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
+          <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
           <ul class="custom-dropdown">
-            <li><a href="{{ "/soitto-opas/soittoasento-seisten/" | absURL }}">Soittoasento seisten</a></li>
-            <li><a href="{{ "/soitto-opas/sormitusmerkinnät/" | absURL }}">Sormitusmerkinnät</a></li>
-            <li><a href="{{ "/soitto-opas/hengitys/" | absURL }}">Hengitys</a></li>
-            <li><a href="{{ "/soitto-opas/harjoitukset/" | absURL }}">Harjoitukset</a></li>
-            <li><a href="{{ "/soitto-opas/kappaleita-pitkähuilulle/" | absURL }}">Kappaleita pitkähuilulle</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/hengitys/">Hengitys</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/">Harjoitukset</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkähuilulle/">Kappaleita pitkähuilulle</a></li>
           </ul>
         </li>
 
-        <li class="custom-nav-item"><a href="{{ "/opetus/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
-        <li class="custom-nav-item"><a href="{{ "/julkaisut/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
-        <li class="custom-nav-item"><a href="{{ "/tekijasta/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
-        <li class="custom-nav-item"><a href="{{ "/linkit/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
-        <li class="custom-nav-item"><a href="{{ "/lahteet/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/opetus/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/tekijasta/" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/linkit/" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/lahteet/" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
       {{ else }}
         <!-- ENGLISH -->
-        <li class="custom-nav-item"><a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/soitto-opas/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/julkaisut/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/opetus/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/tekijasta/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/linkit/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/lahteet/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/opetus/" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/tekijasta/" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/linkit/" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
+        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/lahteet/" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
       {{ end }}
     </ul>
   </nav>
