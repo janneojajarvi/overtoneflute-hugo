@@ -1,6 +1,6 @@
 <header class="site-header pv3 ph4 bg-near-black white">
   <div class="site-title mb2">
-    <a href="{{ "/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">
+    <a href="{{ "/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">
       {{ .Site.Title }}
     </a>
   </div>
@@ -17,47 +17,47 @@
     <ul class="custom-nav-menu">
       {{ if eq .Lang "fi" }}
         <!-- SUOMI -->
-        <li class="custom-nav-item"><a href="{{ "/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
+        <li class="custom-nav-item"><a href="{{ "/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
-          <a href="{{ "/mika-on-pitkahuilu/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
+          <a href="{{ "/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
           <ul class="custom-dropdown">
-            <li><a href="{{ "/mika-on-pitkahuilu/pitkahuilumusiikki/" | relURL }}">Pitkähuilumusiikki</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/historia-suomessa/" | relURL }}">Pitkähuilun historia Suomessa</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/rakenne/" | relURL }}">Pitkähuilun rakenne</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/ylasavelsarja/" | relURL }}">Yläsävelsarja</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/asteikko/" | relURL }}">Pitkähuilun asteikko</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/hankinta/" | relURL }}">Pitkähuilun hankinta</a></li>
-            <li><a href="{{ "/mika-on-pitkahuilu/rakennusohjeita/" | relURL }}">Rakennusohjeita</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/pitkahuilumusiikki/" | absURL }}">Pitkähuilumusiikki</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/historia-suomessa/" | absURL }}">Pitkähuilun historia Suomessa</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/rakenne/" | absURL }}">Pitkähuilun rakenne</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/ylasavelsarja/" | absURL }}">Yläsävelsarja</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/asteikko/" | absURL }}">Pitkähuilun asteikko</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/hankinta/" | absURL }}">Pitkähuilun hankinta</a></li>
+            <li><a href="{{ "/mika-on-pitkahuilu/rakennusohjeita/" | absURL }}">Rakennusohjeita</a></li>
           </ul>
         </li>
 
         <li class="custom-nav-item has-dropdown">
-          <a href="{{ "/soitto-opas/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
+          <a href="{{ "/soitto-opas/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
           <ul class="custom-dropdown">
-            <li><a href="{{ "/soitto-opas/soittoasento-seisten/" | relURL }}">Soittoasento seisten</a></li>
-            <li><a href="{{ "/soitto-opas/sormitusmerkinnät/" | relURL }}">Sormitusmerkinnät</a></li>
-            <li><a href="{{ "/soitto-opas/hengitys/" | relURL }}">Hengitys</a></li>
-            <li><a href="{{ "/soitto-opas/harjoitukset/" | relURL }}">Harjoitukset</a></li>
-            <li><a href="{{ "/soitto-opas/kappaleita-pitkähuilulle/" | relURL }}">Kappaleita pitkähuilulle</a></li>
+            <li><a href="{{ "/soitto-opas/soittoasento-seisten/" | absURL }}">Soittoasento seisten</a></li>
+            <li><a href="{{ "/soitto-opas/sormitusmerkinnät/" | absURL }}">Sormitusmerkinnät</a></li>
+            <li><a href="{{ "/soitto-opas/hengitys/" | absURL }}">Hengitys</a></li>
+            <li><a href="{{ "/soitto-opas/harjoitukset/" | absURL }}">Harjoitukset</a></li>
+            <li><a href="{{ "/soitto-opas/kappaleita-pitkähuilulle/" | absURL }}">Kappaleita pitkähuilulle</a></li>
           </ul>
         </li>
 
-        <li class="custom-nav-item"><a href="{{ "/opetus/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
-        <li class="custom-nav-item"><a href="{{ "/julkaisut/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
-        <li class="custom-nav-item"><a href="{{ "/tekijasta/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
-        <li class="custom-nav-item"><a href="{{ "/linkit/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
-        <li class="custom-nav-item"><a href="{{ "/lahteet/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
+        <li class="custom-nav-item"><a href="{{ "/opetus/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
+        <li class="custom-nav-item"><a href="{{ "/julkaisut/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
+        <li class="custom-nav-item"><a href="{{ "/tekijasta/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
+        <li class="custom-nav-item"><a href="{{ "/linkit/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
+        <li class="custom-nav-item"><a href="{{ "/lahteet/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
       {{ else }}
         <!-- ENGLISH -->
-        <li class="custom-nav-item"><a href="{{ "/en/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/mika-on-pitkahuilu/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/soitto-opas/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/julkaisut/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/opetus/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/tekijasta/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/linkit/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
-        <li class="custom-nav-item"><a href="{{ "/en/lahteet/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/soitto-opas/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/julkaisut/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/opetus/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/tekijasta/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/linkit/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
+        <li class="custom-nav-item"><a href="{{ "/en/lahteet/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
       {{ end }}
     </ul>
   </nav>
@@ -67,27 +67,19 @@
 <script>
   document.querySelectorAll('.custom-nav-item.has-dropdown > a').forEach(function(item) {
     item.addEventListener('click', function(e) {
-      // Jos laitteessa ei ole hiirtä (kosketusnäyttö/mobiili)
       if (window.matchMedia('(hover: none)').matches) {
         const parentLi = this.parentElement;
-        
-        // Jos alavalikko ei ole vielä auki, avataan se ja estetään sivulle siirtyminen
         if (!parentLi.classList.contains('open')) {
           e.preventDefault();
-          
-          // Suljetaan muut mahdollisesti auki olevat alavalikot ensin
           document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
             if (li !== parentLi) li.classList.remove('open');
           });
-          
           parentLi.classList.add('open');
         }
-        // Jos alavalikko on jo auki, toinen napautus vie normaalisti kyseiselle sivulle
       }
     });
   });
 
-  // Sulje alavalikko, jos käyttäjä klikkaa valikon ulkopuolelle
   document.addEventListener('click', function(e) {
     if (!e.target.closest('.custom-nav-item.has-dropdown')) {
       document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
