@@ -18,7 +18,7 @@
   <!-- Navigointivalikko -->
 <nav id="main-nav" class="main-nav w-100 w-auto-ns">
   <ul class="list pl0 ma0 flex flex-column flex-row-ns">
-    {{ range .Site.Menus.main }}
+    {{ range .Menus.main }}
       <li class="mr3-ns mb2 mb0-ns">
         <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
       </li>
