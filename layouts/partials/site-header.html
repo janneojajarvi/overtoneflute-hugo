@@ -1,32 +1,32 @@
 <header class="site-header pv3 ph4 bg-near-black white">
-  <div class="site-title">
-    <a href="{{ "/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">
-      {{ .Site.Title }}
-    </a>
+  <div class="flex justify-between items-center">
+    <div class="site-title">
+      <a href="{{ "/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">
+        {{ .Site.Title }}
+      </a>
+    </div>
+
+    <!-- Mobiilin hampurilaispainike suoralla klikkaustoiminnolla -->
+    <button id="menu-toggle" class="db dn-ns bg-transparent border-0 white pointer pa2" aria-label="Menu" onclick="document.getElementById('main-nav').classList.toggle('dn')">
+      <svg class="w2 h2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+    </button>
   </div>
 
-  <!-- Automaattinen kielivalikko -->
+  <!-- Kielivalikko -->
   <div style="margin-top: 8px; margin-bottom: 12px; font-size: 0.85rem;">
     {{ range .AllTranslations }}
       <a href="{{ .Permalink }}" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">{{ .Language.LanguageName }}</a>
     {{ end }}
   </div>
 
-  <div class="flex-ns flex-row-ns justify-between items-center">
-    <!-- Mobiilin hampurilaispainike (Ananken vaatima ID ja luokat) -->
-    <button id="menu-toggle" class="db dn-ns bg-transparent border-0 white pointer pa2" aria-label="Menu">
-      <svg class="w2 h2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
-    </button>
-
-    <!-- Navigointivalikko -->
-    <nav id="main-nav" class="main-nav w-100 w-auto-ns dn db-ns">
-      <ul class="list pl0 ma0 flex flex-column flex-row-ns">
-        {{ range .Site.Menus.main }}
-          <li class="mr3-ns mb2 mb0-ns">
-            <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      </ul>
-    </nav>
-  </div>
+  <!-- Navigointivalikko: oletuksena piilossa mobiilissa (dn), näkyy isolla ruudulla (db-ns) -->
+  <nav id="main-nav" class="main-nav w-100 w-auto-ns dn db-ns">
+    <ul class="list pl0 ma0 flex flex-column flex-row-ns">
+      {{ range .Menus.main }}
+        <li class="mr3-ns mb2 mb0-ns">
+          <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
 </header>
