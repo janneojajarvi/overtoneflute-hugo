@@ -1,5 +1,6 @@
 ---
 title: "Home"
+translationKey: "home"
 draft: false
 ---
 
