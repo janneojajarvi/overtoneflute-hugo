@@ -1,84 +1,32 @@
-<header class="site-header pv3 ph4 bg-near-black white flex items-center justify-between flex-wrap">
+<header class="site-header pv3 ph4 bg-near-black white">
   <div class="site-title">
-    <a href="/overtoneflute-hugo/" class="link white b f4">OVERTONEFLUTE.FI</a>
+    <a href="{{ "/" | relURL }}" class="link white-90 hover-silver fs-6 fw7">
+      {{ .Site.Title }}
+    </a>
   </div>
-<div style="margin-top: 8px; margin-bottom: 16px; font-size: 0.9rem;">
-  <a href="/overtoneflute-hugo/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">Suomeksi</a>
-  <a href="/overtoneflute-hugo/en/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">English</a>
-  <a href="/overtoneflute-hugo/ja/" style="color: #ed8936; text-decoration: underline;">日本語</a>
-</div>
 
-
-
-  <!-- Hampurilaispainike mobiilille -->
-  <button id="menu-toggle" class="db dn-ns bg-transparent bn white f3 pointer" aria-label="Valikko">
-    ☰
-  </button>
-
-  <!-- Navigointivalikko -->
-<nav id="main-nav" class="main-nav w-100 w-auto-ns">
-  <ul class="list pl0 ma0 flex flex-column flex-row-ns">
-    {{ range .Menus.main }}
-      <li class="mr3-ns mb2 mb0-ns">
-        <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
-      </li>
+  <!-- Automaattinen kielivalikko -->
+  <div style="margin-top: 8px; margin-bottom: 12px; font-size: 0.85rem;">
+    {{ range .AllTranslations }}
+      <a href="{{ .Permalink }}" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">{{ .Language.LanguageName }}</a>
     {{ end }}
-  </ul>
-</nav>
+  </div>
 
-      
-      <!-- Mikä on pitkähuilu -->
-      <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
-        <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white hover-silver">Mikä on pitkähuilu ▾</a>
-        <ul class="dropdown-menu list pl0 static absolute-ns bg-near-black ba-ns b--dark-gray pa2 dn block-ns ml3 ml0-ns mt1 mt0-ns">
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/" class="link white hover-silver f6">Rakenne</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/" class="link white hover-silver f6">Historia</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/" class="link white hover-silver f6">Musiikki</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/ylasavelsarja/" class="link white hover-silver f6">Yläsävelsarja</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/asteikko/" class="link white hover-silver f6">Asteikko</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/mika-on-pitkahuilu/hankinta/" class="link white hover-silver f6">Hankinta</a></li>
-          <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakennusohjeita/" class="link white hover-silver f6">Rakennusohjeita</a></li>
-        </ul>
-      </li>
+  <div class="flex-ns flex-row-ns justify-between items-center">
+    <!-- Mobiilin hampurilaispainike (Ananken vaatima ID ja luokat) -->
+    <button id="menu-toggle" class="db dn-ns bg-transparent border-0 white pointer pa2" aria-label="Menu">
+      <svg class="w2 h2" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+    </button>
 
-      <!-- Soitto-opas -->
-      <li class="mr3-ns mb2 mb0-ns relative dropdown-container">
-        <a href="/overtoneflute-hugo/soitto-opas/" class="link white hover-silver">Soitto-opas ▾</a>
-        <ul class="dropdown-menu list pl0 static absolute-ns bg-near-black ba-ns b--dark-gray pa2 dn block-ns ml3 ml0-ns mt1 mt0-ns">
-          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/" class="link white hover-silver f6">Soittoasento seisten</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnat/" class="link white hover-silver f6">Sormitusmerkinnät</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/hengitys/" class="link white hover-silver f6">Hengitys</a></li>
-          <li class="mb1"><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/" class="link white hover-silver f6">Harjoitukset</a></li>
-          <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkahuilulle/" class="link white hover-silver f6">Kappaleita pitkähuilulle</a></li>
-        </ul>
-      </li>
-
-      <li class="mr3-ns mb2 mb0-ns"><a href="/overtoneflute-hugo/pitkahuilun-opetus/" class="link white hover-silver">Pitkähuilun opetus</a></li>
-      <li><a href="/overtoneflute-hugo/tekijasta-kontaktikin/" class="link white hover-silver">Tekijästä & kontaktit</a></li>
-    </ul>
-  </nav>
+    <!-- Navigointivalikko -->
+    <nav id="main-nav" class="main-nav w-100 w-auto-ns dn db-ns">
+      <ul class="list pl0 ma0 flex flex-column flex-row-ns">
+        {{ range .Site.Menus.main }}
+          <li class="mr3-ns mb2 mb0-ns">
+            <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
 </header>
-
-<!-- Tyylit: mobiilissa valikko ja alamenut auki, tietokoneella hoverilla -->
-<style>
-  @media screen and (max-width: 768px) {
-    .main-nav.active {
-      display: block !important;
-    }
-    .main-nav.active .dropdown-menu {
-      display: block !important;
-    }
-  }
-  @media screen and (min-width: 769px) {
-    .dropdown-container:hover .dropdown-menu {
-      display: block !important;
-    }
-  }
-</style>
-
-<script>
-  document.getElementById('menu-toggle').addEventListener('click', function() {
-    var nav = document.getElementById('main-nav');
-    nav.classList.toggle('active');
-  });
-</script>
