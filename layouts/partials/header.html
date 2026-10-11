@@ -62,3 +62,37 @@
     </ul>
   </nav>
 </header>
+
+<!-- JavaScript mobiililaitteiden alavalikoille -->
+<script>
+  document.querySelectorAll('.custom-nav-item.has-dropdown > a').forEach(function(item) {
+    item.addEventListener('click', function(e) {
+      // Jos laitteessa ei ole hiirtä (kosketusnäyttö/mobiili)
+      if (window.matchMedia('(hover: none)').matches) {
+        const parentLi = this.parentElement;
+        
+        // Jos alavalikko ei ole vielä auki, avataan se ja estetään sivulle siirtyminen
+        if (!parentLi.classList.contains('open')) {
+          e.preventDefault();
+          
+          // Suljetaan muut mahdollisesti auki olevat alavalikot ensin
+          document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+            if (li !== parentLi) li.classList.remove('open');
+          });
+          
+          parentLi.classList.add('open');
+        }
+        // Jos alavalikko on jo auki, toinen napautus vie normaalisti kyseiselle sivulle
+      }
+    });
+  });
+
+  // Sulje alavalikko, jos käyttäjä klikkaa valikon ulkopuolelle
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.custom-nav-item.has-dropdown')) {
+      document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+        li.classList.remove('open');
+      });
+    }
+  });
+</script>
