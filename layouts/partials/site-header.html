@@ -1,6 +1,6 @@
 <header class="site-header pv3 ph4 bg-near-black white">
   <div class="site-title mb2">
-    <a href="{{ "/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">
+    <a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">
       {{ .Site.Title }}
     </a>
   </div>
@@ -17,7 +17,7 @@
     <ul class="custom-nav-menu">
       {{ if eq .Lang "fi" }}
         <!-- SUOMI -->
-        <li class="custom-nav-item"><a href="{{ "/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
+        <li class="custom-nav-item"><a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
           <a href="{{ "/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
@@ -50,7 +50,7 @@
         <li class="custom-nav-item"><a href="{{ "/lahteet/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
       {{ else }}
         <!-- ENGLISH -->
-        <li class="custom-nav-item"><a href="{{ "/en/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
+        <li class="custom-nav-item"><a href="{{ .Site.Home.Permalink }}" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
         <li class="custom-nav-item"><a href="{{ "/en/mika-on-pitkahuilu/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
         <li class="custom-nav-item"><a href="{{ "/en/soitto-opas/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
         <li class="custom-nav-item"><a href="{{ "/en/julkaisut/" | absURL }}" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
