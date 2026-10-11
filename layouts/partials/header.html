@@ -12,13 +12,21 @@
     {{ end }}
   </div>
 
-  <!-- Navigointivalikko (kaikki linkit näkyvät suoraan pinossa) -->
+  <!-- Navigointivalikko ja alavalikot -->
   <nav class="w-100">
     <ul class="list pl0 ma0 flex flex-column">
       {{ range .Site.Menus.main }}
-
         <li class="mb2">
           <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
+          {{ if .HasChildren }}
+            <ul class="list pl3 ma0 mt1 flex flex-column">
+              {{ range .Children }}
+                <li class="mb1">
+                  <a href="{{ .URL | relURL }}" class="link white-70 hover-silver" style="font-size: 0.9rem;">{{ .Name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
         </li>
       {{ end }}
     </ul>
