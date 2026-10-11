@@ -1,5 +1,5 @@
 ---
-title: "Learn Overtone Flute | Willow Flute Sheet Music & Tutorials – Overtoneflute.fi"
+title: "Home"
 ---
 
 ## Your Online Resource for Overtone and Willow Flutes
