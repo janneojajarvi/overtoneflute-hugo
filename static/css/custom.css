@@ -10,6 +10,11 @@ h1, .f1 {
   color: #ffffff !important;
 }
 
+/* Varmistetaan, että ylätunniste ei leikkaa valikkoja piiloon */
+header, .site-header, nav {
+  overflow: visible !important;
+}
+
 /* Navigaatiovalikko */
 .custom-nav-menu {
   display: flex !important;
@@ -48,31 +53,29 @@ a.gold-link:hover {
   background-color: #ffffff !important;
   min-width: 250px !important;
   box-shadow: 0px 8px 16px rgba(0,0,0,0.4) !important;
-  padding: 12px 16px !important;
+  padding: 16px !important;
   z-index: 9999 !important;
   list-style: none !important;
   text-align: left !important;
   border-radius: 4px !important;
 }
 
-.custom-nav-item.has-dropdown:hover .custom-dropdown {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 10px !important;
+/* Näkymätön silta: estää valikkoa sulkeutumasta hiirtä siirrettäessä */
+.custom-dropdown::before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: 0;
+  width: 100%;
+  height: 15px;
 }
 
+.custom-nav-item.has-dropdown:hover .custom-dropdown,
 .custom-nav-item.has-dropdown:focus-within .custom-dropdown {
   display: flex !important;
   flex-direction: column !important;
   gap: 10px !important;
 }
-
-.custom-nav-item.has-dropdown.open .custom-dropdown {
-  display: flex !important;
-  flex-direction: column !important;
-  gap: 10px !important;
-}
-
 
 .custom-dropdown li a {
   color: #d69e2e !important;
