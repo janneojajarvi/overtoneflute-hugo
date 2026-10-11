@@ -19,11 +19,9 @@
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
-          <div style="display: inline-flex; align-items: center; gap: 4px;">
-            <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu</a>
-            <button type="button" class="dropdown-toggle-btn" aria-label="Avaa alavalikko" style="background: none; border: none; color: #f0c040; cursor: pointer; font-size: 1.1rem; padding: 0 6px; font-weight: bold;">˅</button>
-          </div>
+          <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
           <ul class="custom-dropdown">
+            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Mikä on pitkähuilu (Yleiskuvaus)</a></li>
             <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/">Pitkähuilumusiikki</a></li>
             <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/">Pitkähuilun historia Suomessa</a></li>
             <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/">Pitkähuilun rakenne</a></li>
@@ -35,11 +33,9 @@
         </li>
 
         <li class="custom-nav-item has-dropdown">
-          <div style="display: inline-flex; align-items: center; gap: 4px;">
-            <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas</a>
-            <button type="button" class="dropdown-toggle-btn" aria-label="Avaa alavalikko" style="background: none; border: none; color: #f0c040; cursor: pointer; font-size: 1.1rem; padding: 0 6px; font-weight: bold;">˅</button>
-          </div>
+          <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
           <ul class="custom-dropdown">
+            <li><a href="/overtoneflute-hugo/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Soitto-opas (Yleiskuvaus)</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/hengitys/">Hengitys</a></li>
@@ -68,23 +64,23 @@
   </nav>
 </header>
 
-<!-- JavaScript alavalikoiden ohjaukseen -->
+<!-- JavaScript mobiililaitteiden alavalikoille -->
 <script>
-  document.querySelectorAll('.dropdown-toggle-btn').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      const parentLi = this.closest('.custom-nav-item.has-dropdown');
-      
-      // Suljetaan muut auki olevat
-      document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
-        if (li !== parentLi) li.classList.remove('open');
-      });
-      
-      parentLi.classList.toggle('open');
+  document.querySelectorAll('.custom-nav-item.has-dropdown > a').forEach(function(item) {
+    item.addEventListener('click', function(e) {
+      if (window.matchMedia('(hover: none)').matches) {
+        const parentLi = this.parentElement;
+        if (!parentLi.classList.contains('open')) {
+          e.preventDefault();
+          document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+            if (li !== parentLi) li.classList.remove('open');
+          });
+          parentLi.classList.add('open');
+        }
+      }
     });
   });
 
-  // Sulje alavalikko, jos klikataan muualle sivulle
   document.addEventListener('click', function(e) {
     if (!e.target.closest('.custom-nav-item.has-dropdown')) {
       document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
