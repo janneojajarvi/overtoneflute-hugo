@@ -12,10 +12,11 @@
     {{ end }}
   </div>
 
-  <!-- Navigointivalikko ja alavalikot nykyisen kielen mukaan -->
+  <!-- Navigointivalikko dynaamisesti kielen mukaan -->
   <nav class="w-100">
     <ul class="list pl0 ma0 flex flex-column">
-      {{ range .Menus.main }}
+      {{ $menuName := print "main_" .Lang }}
+      {{ range index .Site.Menus $menuName }}
         <li class="mb2">
           <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6 fw7">{{ .Name }}</a>
           {{ with .Children }}
