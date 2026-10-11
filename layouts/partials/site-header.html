@@ -15,8 +15,8 @@
   <!-- Navigointivalikko ja alavalikot -->
   <nav class="w-100">
     <ul class="custom-nav-menu">
-      {{ if eq .Lang "fi" }}
-        <!-- SUOMI -->
+      {{ if not (in .RelPermalink "/en/") }}
+        <!-- SUOMI (näkyy kaikilla sivuilla, joiden osoitteessa ei ole /en/) -->
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
@@ -51,7 +51,7 @@
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/linkit/" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/lahteet/" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
       {{ else }}
-        <!-- ENGLISH -->
+        <!-- ENGLISH (näkyy sivuilla, joiden osoitteessa on /en/) -->
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">What is overtone flute</a></li>
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">How to play</a></li>
