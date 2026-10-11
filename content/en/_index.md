@@ -1,7 +1,5 @@
 ---
-title: "TESTI ENGLISH HOMEPAGE"
-translationKey: "home"
-draft: false
+title: "Home"
 ---
 
 ## Your Online Resource for Overtone and Willow Flutes
