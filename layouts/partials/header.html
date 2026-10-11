@@ -5,9 +5,9 @@
     </a>
   </div>
 
-  <!-- Kielivalikko -->
+  <!-- Kielivalikko (näkyy nyt varmasti kaikilla sivuilla) -->
   <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem;">
-    {{ range .AllTranslations }}
+    {{ range .Site.Home.AllTranslations }}
       <a href="{{ .Permalink }}" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">{{ .Language.LanguageName }}</a>
     {{ end }}
   </div>
