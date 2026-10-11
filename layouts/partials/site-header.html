@@ -5,10 +5,11 @@
     </a>
   </div>
 
-  <!-- Kielivalikko -->
+  <!-- Dynaaminen kielivalikko -->
   <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem;">
-    <a href="/overtoneflute-hugo/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">Suomeksi</a>
-    <a href="/overtoneflute-hugo/en/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">English</a>
+    {{ range .Site.Home.AllTranslations }}
+      <a href="{{ .Permalink }}" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">{{ .Language.LanguageName }}</a>
+    {{ end }}
   </div>
 
   <!-- Navigointivalikko ja alavalikot -->
@@ -37,10 +38,10 @@
           <ul class="custom-dropdown">
             <li><a href="/overtoneflute-hugo/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Soitto-opas (Yleiskuvaus)</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnat/">Sormitusmerkinnät</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/hengitys/">Hengitys</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/">Harjoitukset</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkahuilulle/">Kappaleita pitkähuilulle</a></li>
+            <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkähuilulle/">Kappaleita pitkähuilulle</a></li>
           </ul>
         </li>
 
