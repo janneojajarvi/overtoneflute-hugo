@@ -15,7 +15,8 @@
   <!-- Navigointivalikko (kaikki linkit näkyvät suoraan pinossa) -->
   <nav class="w-100">
     <ul class="list pl0 ma0 flex flex-column">
-      {{ range .Menus.main }}
+      {{ range .Site.Menus.main }}
+
         <li class="mb2">
           <a href="{{ .URL | relURL }}" class="link white-90 hover-silver fs-6">{{ .Name }}</a>
         </li>
