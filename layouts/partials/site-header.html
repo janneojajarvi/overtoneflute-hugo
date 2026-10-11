@@ -19,7 +19,10 @@
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
+          <div style="display: inline-flex; align-items: center; gap: 4px;">
+            <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu</a>
+            <button type="button" class="dropdown-toggle-btn" aria-label="Avaa alavalikko" style="background: none; border: none; color: #f0c040; cursor: pointer; font-size: 1.1rem; padding: 0 6px; font-weight: bold;">˅</button>
+          </div>
           <ul class="custom-dropdown">
             <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/">Pitkähuilumusiikki</a></li>
             <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/">Pitkähuilun historia Suomessa</a></li>
@@ -32,7 +35,10 @@
         </li>
 
         <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
+          <div style="display: inline-flex; align-items: center; gap: 4px;">
+            <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas</a>
+            <button type="button" class="dropdown-toggle-btn" aria-label="Avaa alavalikko" style="background: none; border: none; color: #f0c040; cursor: pointer; font-size: 1.1rem; padding: 0 6px; font-weight: bold;">˅</button>
+          </div>
           <ul class="custom-dropdown">
             <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
             <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
@@ -62,23 +68,23 @@
   </nav>
 </header>
 
-<!-- JavaScript mobiililaitteiden alavalikoille -->
+<!-- JavaScript alavalikoiden ohjaukseen -->
 <script>
-  document.querySelectorAll('.custom-nav-item.has-dropdown > a').forEach(function(item) {
-    item.addEventListener('click', function(e) {
-      if (window.matchMedia('(hover: none)').matches) {
-        const parentLi = this.parentElement;
-        if (!parentLi.classList.contains('open')) {
-          e.preventDefault();
-          document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
-            if (li !== parentLi) li.classList.remove('open');
-          });
-          parentLi.classList.add('open');
-        }
-      }
+  document.querySelectorAll('.dropdown-toggle-btn').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      const parentLi = this.closest('.custom-nav-item.has-dropdown');
+      
+      // Suljetaan muut auki olevat
+      document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+        if (li !== parentLi) li.classList.remove('open');
+      });
+      
+      parentLi.classList.toggle('open');
     });
   });
 
+  // Sulje alavalikko, jos klikataan muualle sivulle
   document.addEventListener('click', function(e) {
     if (!e.target.closest('.custom-nav-item.has-dropdown')) {
       document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
