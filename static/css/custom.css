@@ -61,6 +61,12 @@ a.gold-link:hover {
   gap: 10px !important;
 }
 
+.custom-nav-item.has-dropdown:focus-within .custom-dropdown {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+}
+
 .custom-dropdown li a {
   color: #d69e2e !important;
   font-size: 1rem !important;
