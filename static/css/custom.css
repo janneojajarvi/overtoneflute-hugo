@@ -99,3 +99,13 @@ a.gold-link:hover {
 .mw8 {
   max-width: 900px !important;
 }
+
+/* Varmistetaan leipätekstin ja listojen tekstien erottuvuus */
+p, li, span, strong, em, .page-paragraph, .nested-links {
+  color: #e2e8f0 !important;
+}
+
+/* Varmistetaan myös otsikkojen kirkkaus */
+h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
