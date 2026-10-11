@@ -138,6 +138,7 @@ theme = 'ananke'
 
 
 # --- ENGLISH ---
+# --- ENGLISH ---
 [languages.en]
   languageCode = 'en-us'
   languageName = 'English'
@@ -154,47 +155,47 @@ theme = 'ananke'
     [[languages.en.menus.main]]
       identifier = "home_en"
       name = "Home"
-      url = "en/"
+      url = ""
       weight = 1
 
     [[languages.en.menus.main]]
       identifier = "mika-on-pitkahuilu_en"
       name = "What is overtone flute"
-      url = "en/mika-on-pitkahuilu/"
+      url = "mika-on-pitkahuilu/"
       weight = 2
 
     [[languages.en.menus.main]]
       identifier = "soitto-opas_en"
       name = "How to play"
-      url = "en/soitto-opas/"
+      url = "soitto-opas/"
       weight = 3
 
     [[languages.en.menus.main]]
       identifier = "julkaisut_en"
       name = "Publications"
-      url = "en/julkaisut/"
+      url = "julkaisut/"
       weight = 4
 
     [[languages.en.menus.main]]
       identifier = "opetus_en"
       name = "Teachers and lessons"
-      url = "en/opetus/"
+      url = "opetus/"
       weight = 5
 
     [[languages.en.menus.main]]
       identifier = "tekijasta_en"
       name = "About me and contact"
-      url = "en/tekijasta/"
+      url = "tekijasta/"
       weight = 6
 
     [[languages.en.menus.main]]
       identifier = "linkit_en"
       name = "Links"
-      url = "en/linkit/"
+      url = "linkit/"
       weight = 7
 
     [[languages.en.menus.main]]
       identifier = "lahteet_en"
       name = "Sources"
-      url = "en/lahteet/"
+      url = "lahteet/"
       weight = 8
