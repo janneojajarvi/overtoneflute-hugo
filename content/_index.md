@@ -1,10 +1,9 @@
 ---
 title: "Etusivu"
-layout: "index"
 ---
 
 <div class="tc pv2">
-  <img src="/images/banner.jpg" alt="Pitkähuilun suukappale" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/banner.jpg" alt="Pitkähuilun suukappale" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <p style="font-style: italic; color: #a0aec0; margin-top: 1.5rem; margin-bottom: 1.5rem;">
@@ -27,17 +26,17 @@ Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan
 
 <div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; margin-bottom: 2rem;">
   <div>
-    <img src="/images/bassopitkahuilu.jpg" alt="Bassopitkähuilu" style="max-width: 100%; height: auto;">
+    <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Bassopitkähuilu" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">Bassopitkähuilu (Rakentanut Vladiswar Nadishana)</p>
   </div>
 
   <div>
-    <img src="/images/d-pitkahuilu.jpg" alt="D-pitkähuilu" style="max-width: 100%; height: auto;">
+    <img src="/overtoneflute-hugo/images/d-pitkahuilu.jpg" alt="D-pitkähuilu" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">D-pitkähuilu (Rakentanut Kirsi Vinkki)</p>
   </div>
 
   <div>
-    <img src="/images/erilaisia-pitkahuiluja.jpg" alt="Erilaisia pitkähuiluja" style="max-width: 100%; height: auto;">
+    <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="Erilaisia pitkähuiluja" style="max-width: 100%; height: auto;">
     <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">Erilaisia pitkähuiluja</p>
   </div>
 </div>
