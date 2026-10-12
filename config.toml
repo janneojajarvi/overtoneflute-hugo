@@ -31,5 +31,29 @@ theme = 'ananke'
   [languages.ja.params]
     site_description = "Overtone Flute & Pitkähuilu"
 
+[languages.de]
+  languageCode = 'de-de'
+  languageName = 'Auf Deutsch'
+  weight = 4
+  title = 'OVERTONEFLUTE.FI'
+  [languages.de.params]
+    site_description = "Obertonglöckchen & Obertone Flöte"
+
+[languages.fr]
+  languageCode = 'fr-fr'
+  languageName = 'En Français'
+  weight = 5
+  title = 'OVERTONEFLUTE.FI'
+  [languages.fr.params]
+    site_description = "Flûte harmonique"
+
+[languages.zh]
+  languageCode = 'zh-cn'
+  languageName = '柳笛'
+  weight = 6
+  title = 'OVERTONEFLUTE.FI'
+  [languages.zh.params]
+    site_description = "泛音长笛"
+
 [markup.goldmark.renderer]
   unsafe = true
