@@ -10,7 +10,7 @@ Tältä sivulta löytyy muutamia harjoituksia pitkähuilun soittotekniikan hiomi
 </div>
 
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/YOUR_PLAYLIST_ID&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/playlists/1382946964&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
 ## Harjoitusnuotit (PDF)
