@@ -5,7 +5,7 @@ title: "Harjoitukset"
 Tältä sivulta löytyy muutamia harjoituksia pitkähuilun soittotekniikan hiomiseksi. Harjoitukset ovat sekä nuotteina että ääninäytteinä. Nuotinlukuaito ei ole välttämätön, jos hyödynnät ääninäytteitä ja soitat D-vireisellä pitkähuilulla (tai muutat ääninäytteiden sävelkorkeuden huilusi mukaiseksi). Nuotituksen etumerkinnät mukailevat yläsävelasteikon sitä osaa, joka on pitkähuilun soitolle luontevin. Huomaa että pitkähuilun vire ei ole kaikilla sävelillä sama kuin esim. pianon tasavire. Selkeyden vuoksi käytän kuitenkin harjoituksissa ja ohjelmiston nuoteissa tavanomaista nuottiviivastoa, sekä säveliä ja etumerkkejä. Osa kappaleiden nuoteista ja ääninäytteistä on tehty eri sävellajien pitkähuiluille, sillä joiltain osin ne saattavat olla hankalia ja epämiellyttävän korkealla D-pitkähuilulla soitettuna.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/pitkahuilun-asteikko-kaavio.jpg" alt="D-pitkähuilun asteikko harjoituksissa ja kappaleissa" style="max-width: 100%; height: auto;" />
+  <img src="/overtoneflute-hugo/images/d-pitkahuilun-asteikko.webp" alt="D-pitkähuilun asteikko harjoituksissa ja kappaleissa" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">D-pitkähuilun asteikko harjoituksissa ja kappaleissa</p>
 </div>
 
