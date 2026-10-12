@@ -5,86 +5,88 @@
     </a>
   </div>
 
-    <!-- Kielivalikko -->
+  <!-- Kielivalikko (mukana nyt myös 日本語) -->
   <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem;">
     <a href="/overtoneflute-hugo/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">Suomeksi</a>
     <a href="/overtoneflute-hugo/en/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">English</a>
+    <a href="/overtoneflute-hugo/ja/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">日本語</a>
   </div>
 
+  <!-- Navigointivalikko näytetään vain, jos osoitteessa EI ole /ja/ -->
+  {{ if not (in .RelPermalink "/ja/") }}
+    <nav class="w-100">
+      <ul class="custom-nav-menu">
+        {{ if not (in .RelPermalink "/en/") }}
+          <!-- SUOMI (näkyy kaikilla sivuilla, joiden osoitteessa ei ole /en/ tai /ja/) -->
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
+          
+          <li class="custom-nav-item has-dropdown">
+            <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
+            <ul class="custom-dropdown">
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Mikä on pitkähuilu (Yleiskuvaus)</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/">Pitkähuilumusiikki</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/">Pitkähuilun historia Suomessa</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/">Pitkähuilun rakenne</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/ylasavelsarja/">Yläsävelsarja</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/asteikko/">Pitkähuilun asteikko</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/hankinta/">Pitkähuilun hankinta</a></li>
+              <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakennusohjeita/">Rakennusohjeita</a></li>
+            </ul>
+          </li>
 
-  <!-- Navigointivalikko ja alavalikot -->
-  <nav class="w-100">
-    <ul class="custom-nav-menu">
-      {{ if not (in .RelPermalink "/en/") }}
-        <!-- SUOMI (näkyy kaikilla sivuilla, joiden osoitteessa ei ole /en/) -->
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
-        
-        <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">Mikä on pitkähuilu ˅</a>
-          <ul class="custom-dropdown">
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Mikä on pitkähuilu (Yleiskuvaus)</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/pitkahuilumusiikki/">Pitkähuilumusiikki</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/historia-suomessa/">Pitkähuilun historia Suomessa</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakenne/">Pitkähuilun rakenne</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/ylasavelsarja/">Yläsävelsarja</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/asteikko/">Pitkähuilun asteikko</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/hankinta/">Pitkähuilun hankinta</a></li>
-            <li><a href="/overtoneflute-hugo/mika-on-pitkahuilu/rakennusohjeita/">Rakennusohjeita</a></li>
-          </ul>
-        </li>
+          <li class="custom-nav-item has-dropdown">
+            <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
+            <ul class="custom-dropdown">
+              <li><a href="/overtoneflute-hugo/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Soitto-opas (Yleiskuvaus)</a></li>
+              <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
+              <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
+              <li><a href="/overtoneflute-hugo/soitto-opas/hengitys/">Hengitys</a></li>
+              <li><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/">Harjoitukset</a></li>
+              <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkähuilulle/">Kappaleita pitkähuilulle</a></li>
+            </ul>
+          </li>
 
-        <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">Soitto-opas ˅</a>
-          <ul class="custom-dropdown">
-            <li><a href="/overtoneflute-hugo/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Soitto-opas (Yleiskuvaus)</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/soittoasento-seisten/">Soittoasento seisten</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/sormitusmerkinnät/">Sormitusmerkinnät</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/hengitys/">Hengitys</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/harjoitukset/">Harjoitukset</a></li>
-            <li><a href="/overtoneflute-hugo/soitto-opas/kappaleita-pitkähuilulle/">Kappaleita pitkähuilulle</a></li>
-          </ul>
-        </li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/opetus/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/tekijasta/" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/linkit/" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/lahteet/" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
+        {{ else }}
+          <!-- ENGLISH (näkyy sivuilla, joiden osoitteessa on /en/) -->
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
+          <li class="custom-nav-item has-dropdown">
+            <a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">What is overtone flute ˅</a>
+            <ul class="custom-dropdown">
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">What is overtone flute (Overview)</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/pitkahuilumusiikki/">Overtone flute music</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/rakenne/">Structure of the flute</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/ylasavelsarja/">Overtone series</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/asteikko/">Flute scale</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/hankinta/">Acquiring a flute</a></li>
+              <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/rakennusohjeita/">Building instructions</a></li>
+            </ul>
+          </li>
 
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/opetus/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilun opetus</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Pitkähuilujulkaisut</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/tekijasta/" class="link white-90 hover-silver fs-6 fw7">Tekijästä & kontakti</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/linkit/" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/lahteet/" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
-      {{ else }}
-        <!-- ENGLISH (näkyy sivuilla, joiden osoitteessa on /en/) -->
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
-        <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">What is overtone flute ˅</a>
-          <ul class="custom-dropdown">
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">What is overtone flute (Overview)</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/pitkahuilumusiikki/">Overtone flute music</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/rakenne/">Structure of the flute</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/ylasavelsarja/">Overtone series</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/asteikko/">Flute scale</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/hankinta/">Acquiring a flute</a></li>
-            <li><a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/rakennusohjeita/">Building instructions</a></li>
-          </ul>
-        </li>
-
-        <li class="custom-nav-item has-dropdown">
-          <a href="/overtoneflute-hugo/en/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">How to play ˅</a>
-          <ul class="custom-dropdown">
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">How to play (Overview)</a></li>
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/soittoasento-seisten/">Standing playing posture</a></li>
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/sormitusmerkinnät/">Fingerings & notations</a></li>
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/hengitys/">Breathing</a></li>
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/harjoitukset/">Exercises</a></li>
-            <li><a href="/overtoneflute-hugo/en/soitto-opas/kappaleita-pitkähuilulle/">Tunes for overtone flute</a></li>
-          </ul>
-        </li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/opetus/" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/tekijasta/" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/linkit/" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
-        <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/lahteet/" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
-      {{ end }}
-    </ul>
-  </nav>
+          <li class="custom-nav-item has-dropdown">
+            <a href="/overtoneflute-hugo/en/soitto-opas/" class="link white-90 hover-silver fs-6 fw7">How to play ˅</a>
+            <ul class="custom-dropdown">
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">How to play (Overview)</a></li>
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/soittoasento-seisten/">Standing playing posture</a></li>
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/sormitusmerkinnät/">Fingerings & notations</a></li>
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/hengitys/">Breathing</a></li>
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/harjoitukset/">Exercises</a></li>
+              <li><a href="/overtoneflute-hugo/en/soitto-opas/kappaleita-pitkähuilulle/">Tunes for overtone flute</a></li>
+            </ul>
+          </li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/julkaisut/" class="link white-90 hover-silver fs-6 fw7">Publications</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/opetus/" class="link white-90 hover-silver fs-6 fw7">Teachers and lessons</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/tekijasta/" class="link white-90 hover-silver fs-6 fw7">About me and contact</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/linkit/" class="link white-90 hover-silver fs-6 fw7">Links</a></li>
+          <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/lahteet/" class="link white-90 hover-silver fs-6 fw7">Sources</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  {{ end }}
 </header>
 
 <!-- JavaScript mobiililaitteiden alavalikoille -->
