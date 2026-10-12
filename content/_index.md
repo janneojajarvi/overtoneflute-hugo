@@ -46,6 +46,6 @@ Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan
   <a href="https://janneojajarvi.github.io/overtoneflute-hugo/de/" style="color: #f0c040 !important;">Auf Deutsch</a> 
   <a href="https://janneojajarvi.github.io/overtoneflute-hugo/fr/" style="color: #f0c040 !important;">En Français</a> 
   <a href="https://janneojajarvi.github.io/overtoneflute-hugo/zh/" style="color: #f0c040 !important;">柳笛</a> 
-  <a href="/en/" style="color: #f0c040 !important;">English</a> 
+  <a href="https://janneojajarvi.github.io/overtoneflute-hugo/en/" style="color: #f0c040 !important;">English</a> 
   <a href="https://janneojajarvi.github.io/overtoneflute-hugo/ja/" style="color: #f0c040 !important;">日本語</a>
 </div>
