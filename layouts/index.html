@@ -1,18 +1,6 @@
 {{ define "main" }}
   <!-- Etusivun oma sisältö (tekstit, bannerit ja kuvat _index.md tiedostosta) -->
-  <article class="cf pv4-ns">
-  <div class="pa4 pa4-ns mw8 center">
-    <p>TESTI: {{ .Kind }}</p>
-    <p>TESTI: {{ .Lang }}</p>
-    <p>TESTI: {{ .Title }}</p>
-    <p>TESTI: {{ len .Content }}</p>
-    {{ .Content }}
-  </div>
-</article>
 
-<p>TESTI: Tiedoston polku: {{ .File.Path }}</p>
-<p>TESTI: Sisältö:</p>
-<pre>{{ .RawContent }}</pre>
 
   <!-- Viimeisimmät blogipostaukset alapuolelle -->
   <div class="pa4 pa4-ns mw8 center">
