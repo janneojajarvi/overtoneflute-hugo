@@ -2,7 +2,7 @@
 title: "Pitkähuilumusiikki"
 ---
 
-![Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen](/overtoneflute-hugo/images/pitkahuilumusiikki-band.jpg)
+![Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen](/overtoneflute-hugo/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg)
 *Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen. Kuvaaja: Sasoha Kajic*
 
 Pitkähuilun erikoisuus on siitä saatava asteikko, harmoninen yläsävelsarja. Asteikko soitetaan alhaalta ylöspäin puhalluksen voimakkuutta lisäten (puhalletaan "nopeammin") ja putken loppupäätä vuoroin avaamalla (avotekniikka) ja sulkemalla (tukkotekniikka).
