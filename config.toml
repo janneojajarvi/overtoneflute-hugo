@@ -23,5 +23,13 @@ theme = 'ananke'
   [languages.en.params]
     site_description = "Overtone Flute & Pitkähuilu"
 
+[languages.ja]
+  languageCode = 'ja-jp'
+  languageName = '日本語'
+  weight = 3
+  title = 'OVERTONEFLUTE.FI'
+  [languages.ja.params]
+    site_description = "Overtone Flute & Pitkähuilu"
+
 [markup.goldmark.renderer]
   unsafe = true
