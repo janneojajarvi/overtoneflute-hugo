@@ -7,6 +7,7 @@ theme = 'ananke'
   languageName = 'Suomeksi'
   weight = 1
   title = 'OVERTONEFLUTE.FI'
+  contentDir = 'content/fi'
   [languages.fi.params]
     site_description = "Overtone Flute & Pitkähuilu"
 
@@ -15,5 +16,6 @@ theme = 'ananke'
   languageName = 'English'
   weight = 2
   title = 'OVERTONEFLUTE.FI'
+  contentDir = 'content/en'
   [languages.en.params]
     site_description = "Overtone Flute & Pitkähuilu"
