@@ -22,3 +22,6 @@ theme = 'ananke'
   title = 'OVERTONEFLUTE.FI'
   [languages.en.params]
     site_description = "Overtone Flute & Pitkähuilu"
+
+[markup.goldmark.renderer]
+  unsafe = true
