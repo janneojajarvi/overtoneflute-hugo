@@ -8,7 +8,7 @@ Miten pitkähuilu toimii?
 Pitkähuilunsoiton opettelu kannattaa aloittaa siitä, että etsii soittimesta sen tarjoamat sävelet. Puhalluksen voimakkuuden kasvaessa myös sävelkorkeus kohoaa. Kun putken päätä peittää soiton aikana, sävelkorkeus muuttuu. Peittämistä voi myös liu'uttaa hitaasti, jolloin avoimen ja suljetun tilan väliin syntyy liukuvia säveliä. Yläsävelsarjaa muodostetaan puhaltamalla peräkkäin alhaalta ylöspäin ja peittämällä huilun pää vuorotellen joka toisen sävelen kohdalla. Matalat sävelet vaativat vain kevyen henkäyksen, kun taas korkeat sävelet edellyttävät huomattavasti tarkemman ja voimakkaamman ilmavirran. Samalla puhallusteholla voidaan tuottaa eri sävelet sen mukaan, onko putken pää peitetty vai avoin.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/pitkahuilun-asteikko-kaavio.jpg" alt="D-vireisen pitkähuilun asteikko" style="max-width: 100%; height: auto;" />
+  <img src="/overtoneflute-hugo/images/dpitkiksenskaala1.jpg" alt="D-vireisen pitkähuilun asteikko" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">D-vireisen pitkähuilun asteikko</p>
 </div>
 
