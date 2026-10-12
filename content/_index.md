@@ -47,5 +47,5 @@ Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan
   <a href="/fr/" style="color: #f0c040 !important;">En Français</a> 
   <a href="/zh/" style="color: #f0c040 !important;">柳笛</a> 
   <a href="/en/" style="color: #f0c040 !important;">English</a> 
-  <a href="/ja/" style="color: #f0c040 !important;">日本語</a>
+  <a href="https://janneojajarvi.github.io/overtoneflute-hugo/ja/" style="color: #f0c040 !important;">日本語</a>
 </div>
