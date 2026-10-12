@@ -2,18 +2,35 @@
 title: "What is overtone flute"
 ---
 
-Pitkähuilu on puhalluspäästä suljettu ja loppupäästä avoin huilu, jossa ei ole sormiaukkoja. Huilulla on perinteisesti ollut useita eri kutsumanimiä. Suomessa sitä on kutsuttu mm. lötköksi, pajuhuiluksi, pajupilliksi, kävelykeppiksi, leppäpilliksi, soropilliksi, putkipilliksi, yläsävelhuiluksi, luonnonsävelhuiluksi ja pitkähuiluksi. Tällä sivustolla kutsun sitä pitkähuiluksi, johtuen termin laajasta vakiintumisesta suomalaisen kansanmusiikin kentällä.
+<div class="tc pv2">
+  <img src="/images/tapani-varis.jpg" alt="Tapani Varis" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Tapani Varis. Photo by Jorma Airola</p>
+</div>
 
-Huilutyyppi tunnetaan eri puolilla maapalloa. Esimerkiksi Norjassa huilu tunnetaan nimellä seljefløyte, Ruotsissa sälgflöjt, Virossa pikkvile, Norjassa seljefløyte, Tanskassa pilefløjte, Tuvassa murgu, Saksassa schwegel, Puolassa zurav, Unkarissa tilinkó, Romaniassa tilincă, Tansaniassa filimb ja Etelä-Afrikassa mm. nimillä legodilo flute, ixilongo, umtshingo ja mtshingo. Nimitykset willow bark flute, willow flute (molemmat suom. pajuhuilu) ja natural flute ovat usein käytössä englanninkielisissä teksteissä. Erikoiskäytössä olleista huiluista on voitu käyttää nimitystä, joka kuvaa huilun käyttöyhteyttä esim. sacred flute (suom. pyhä huilu) Papua Uusi-Guineassa.
+<p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1.5rem; margin-bottom: 1.5rem;">
+The traditional Finnish overtone flute, known as "Pitkähuilu", is a side-blown instrument that is closed at one end and open at the other, featuring no finger holes. It goes by numerous local names in Finland, reflecting its rich folk heritage, such as lötkö, pajuhuilu, pajupilli, and luonnonsävelhuilu.
+</p>
 
-Pitkähuiluja voidaan rakentaa myös ilman metallisia työkaluja esim. irrottamalla puun kuorta kevättäikaan[span_0](start_span)[span_0](end_span) ja työstämällä hampaita ja kiveä apuna käyttäen[span_1](start_span)[span_1](end_span). Tämä on mahdollistanut sen, että soitin on ollut rakennettavissa jo tuhansia vuosia sitten[span_2](start_span)[span_2](end_span).
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+Similar fingerhole-free overtone flutes appear across diverse cultural traditions globally. Examples include the seljefløyte in Norway, sålgflöjt in Sweden, pikkvile in Estonia, as well as various natural and willow bark flutes found across European and international folk traditions. Their specific cultural roles can range from pastoral signaling to ceremonial uses.
+</p>
 
-Pitkähuilua arvioidaan soitettaneen jo pronssikaudella. Tosin puuhuilujen maatuvan materiaalin vuoksi sormiaukottomia huiluja ei ole säilynyt tähän päivään asti, joten pitkähuilun soiton varhaisinta ajankohtaa on vaikea määritellä. Eri puolilta Suomea on löytynyt varmoja tietoja pitkähuilun käytöstä 1800- ja 1900-luvuilla. Huiluja rakensivat pääasiassa ammatikseen paimenessa työskennelleet. Heidän lisäkseen lapset ja aikuiset rakensivat huiluja omaksi ilokseen.
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+Historically, these instruments could be crafted without advanced metal tools—traditionally carved from spring tree branches by detaching bark using basic methods. This suggests that instruments of this type have ancient origins spanning millennia.
+</p>
 
-Ammattimuusikoiden työväineistöön pitkähuilut ovat löytäneet tiensä vasta 1970-luvun paikkeilla. Piirpauke-yhtyeen levyllä ”2” kuullaan pitkähuilua, joka on nimetty siinä norjalaiseksi tunturihuiluksi. 1970-luvun loppupuolella Rauno Nieminen järjesti useita kursseja pitkähuilun rakennukseen.
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+While organic wooden specimens from deep antiquity do not survive today, historical accounts confirm that pitkähuilu playing was active among shepherds and rural communities in Finland during the 19th and 20th centuries for personal enjoyment and entertainment.
+</p>
 
-Uusien rakennusmateriaalien myötä huilujen käyttöikä, kosteudensietokyky ja rakenteellisten variaatioiden kirjo (mm. bassopitkähuilu) ovat kasvaneet. Nykypäivänä pitkähuilu on vakiinnuttamassa asemaansa ”oikeiden” soittimien joukossa. Sen soittoa voi tänä päivänä opiskella eriasteisissa musiikkikouluissa, musiikkileikkikouluista Sibelius-Akatemiaan. Opetusta annetaan myös ympäri vuoden järjestettävillä kansanmusiikkikursseilla ja -leireillä.
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+Professional Finnish musicians began incorporating the overtone flute into modern contexts during the 1970s, notably appearing on recordings like Piirpauke's second album. Pioneers such as Rauno Nieminen also organized widespread instructional and crafting initiatives to preserve and promote the tradition.
+</p>
 
-**Lähteet:**  
-Riitta-Liisa Joutsenlahti: Sormireiätön pilli – Kokemuksia ja näkemyksiä pitkähuilusta.  
-[www.alashensemble.com](http://www.alashensemble.com)
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
+Today, innovations in durable materials—such as synthetic and bass variants—have expanded the instrument's longevity and musical range. Overtone flutes are now taught across various educational tiers, from community music schools and conservatories to the Sibelius Academy and specialized folk music camps.
+</p>
+
+<p style="font-size: 0.95rem; color: #a0aec0; margin-top: 3rem; border-top: 1px solid #2d3748; padding-top: 1rem;">
+&copy; Janne Ojajärvi
+</p>
