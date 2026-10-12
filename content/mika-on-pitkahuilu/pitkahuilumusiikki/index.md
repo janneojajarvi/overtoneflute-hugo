@@ -17,11 +17,11 @@ Sulkemalla huilun pään vain osittain on mahdollista soittaa säveliä portaatt
     <p style="text-align: center; font-size: 0.9rem;">Avotekniikka</p>
   </div>
   <div>
-    <img src="/overtoneflute-hugo/images/tukkotekniikka.jpg" alt="Tukkotekniikka" style="max-width: 100%; height: auto;" />
+    <img src="/overtoneflute-hugo/images/sulkutekniikka.jpg" alt="Tukkotekniikka" style="max-width: 100%; height: auto;" />
     <p style="text-align: center; font-size: 0.9rem;">Tukkotekniikka</p>
   </div>
   <div>
-    <img src="/overtoneflute-hugo/images/puoliksi-suljettu.jpg" alt="Puoliksi suljettu putken pää" style="max-width: 100%; height: auto;" />
+    <img src="/overtoneflute-hugo/images/puolisulku.jpg" alt="Puoliksi suljettu putken pää" style="max-width: 100%; height: auto;" />
     <p style="text-align: center; font-size: 0.9rem;">Puoliksi suljettu putken pää</p>
   </div>
 </div>
@@ -40,7 +40,7 @@ Sulkemalla huilun pään vain osittain on mahdollista soittaa säveliä portaatt
 **Chile:** Nano Stern.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/lisasormiaukollinen.jpg" alt="Lisäsormiaukollinen pitkähuilun soitto-ote" style="max-width: 100%; height: auto;" />
+  <img src="/overtoneflute-hugo/images/extrahole.jpg" alt="Lisäsormiaukollinen pitkähuilun soitto-ote" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">Lisäsormiaukollisen pitkähuilun soitto-ote.</p>
 </div>
 
