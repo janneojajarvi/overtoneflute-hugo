@@ -9,10 +9,11 @@
   <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem;">
     <a href="/overtoneflute-hugo/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">Suomeksi</a>
     <a href="/overtoneflute-hugo/en/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">English</a>
+    <a href="/overtoneflute-hugo/ja/" style="color: #ed8936; text-decoration: underline; margin-right: 12px;">日本語</a>
   </div>
 
-
-  <!-- Navigointivalikko ja alavalikot -->
+  <!-- Navigointivalikko (piilotetaan vain japaninkielisellä sivustolla) -->
+  {{ if ne .Site.Language.Lang "ja" }}
   <nav class="w-100">
     <ul class="custom-nav-menu">
       {{ if not (in .RelPermalink "/en/") }}
@@ -85,6 +86,7 @@
       {{ end }}
     </ul>
   </nav>
+  {{ end }}
 </header>
 
 <!-- JavaScript mobiililaitteiden alavalikoille -->
