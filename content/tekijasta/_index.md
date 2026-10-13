@@ -3,8 +3,10 @@ title: "Tekijästä & kontakti"
 ---
 
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1" title="Ojajärvi Blom Ojajärvi video sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/s1Kf1DJXrHs?is=Eb7rHgIeYxj_aZ6s" title="Ojajärvi Blom Ojajärvi video sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+
 
 <div style="margin: 20px 0;">
   <iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2" title="Hurja Halla - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
