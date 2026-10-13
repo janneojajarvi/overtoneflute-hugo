@@ -13,7 +13,7 @@ Controlling the open end with your finger also enables intermediate sounds betwe
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/ylasavelsarja.jpg" alt="Overtone scale chart" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/scale.jpg" alt="Overtone scale chart" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Overtone scale and partials overview</p>
 </div>
 
