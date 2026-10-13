@@ -3,7 +3,7 @@ title: "What is overtone flute"
 ---
 
 <div class="tc pv2">
-  <img src="/images/dsc_4956.jpg" alt="Tapani Varis" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/dsc_4956.jpg" alt="Tapani Varis" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Tapani Varis. Photo by Jorma Airola</p>
 </div>
 
