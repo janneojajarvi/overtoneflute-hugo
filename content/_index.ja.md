@@ -5,7 +5,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 <h2 style="font-size: 28px; color: #ffffff; margin-bottom: 1.5rem;">柳の笛 (Pitkähuilu / Overtone Flute)</h2>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/janneojajarvi2024.jpg" alt="柳の笛を演奏するヤンネ・オヤヤルヴィ" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/images/janneojajarvi2024_web7406719843632418577.jpg" alt="柳の笛を演奏するヤンネ・オヤヤルヴィ" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -16,7 +16,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 <h3 style="color: #ffffff; font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem;">フィンランドの伝統楽器「柳の笛」の特徴</h3>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/huilu-kirsivinkki.jpg" alt="柳の笛" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/images/huilu-kirsivinkki_med.jpg" alt="柳の笛" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
