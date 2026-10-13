@@ -2,7 +2,7 @@
 title: "Mikä on pitkähuilu"
 ---
 
-Pitkähuilu on puhalluspäästä suljettu ja loppupäästä avoin huilu, jossa ei ole sormiaukkoja. Huilulla on perinteisesti ollut useita eri kutsumanimiä. Suomessa sitä on kutsuttu mm. lötköksi, pajuhuiluksi, pajupilliksi, kävelykeppiksi, leppäpilliksi, soropilliksi, putkipilliksi, yläsävelhuiluksi, luonnonsävelhuiluksi ja pitkähuiluksi. Tällä sivustolla kutsun sitä pitkähuiluksi, johtuen termin laajasta vakiintumisesta suomalaisen kansanmusiikin kentällä.
+Pitkähuilu on puhalluspäästä suljettu ja loppupäästä avoin huilu, jossa ei ole sormiaukkoja. Huilulla on perinteisesti ollut useita eri kutsumanimiä. Suomessa sitä on kutsuttu mm. lötköksi, pajuhuiluksi, pajupilliksi, kävelykepiksi, leppäpilliksi, soropilliksi, putkipilliksi, yläsävelhuiluksi, luonnonsävelhuiluksi ja pitkähuiluksi. Tällä sivustolla kutsun sitä pitkähuiluksi, johtuen termin laajasta vakiintumisesta suomalaisen kansanmusiikin kentällä.
 
 Huilutyyppi tunnetaan eri puolilla maapalloa. Esimerkiksi Norjassa huilu tunnetaan nimellä seljefløyte, Ruotsissa sälgflöjt, Virossa pikkvile, Norjassa seljefløyte, Tanskassa pilefløjte, Tuvassa murgu, Saksassa schwegel, Puolassa zurav, Unkarissa tilinkó, Romaniassa tilincă, Tansaniassa filimb ja Etelä-Afrikassa mm. nimillä legodilo flute, ixilongo, umtshingo ja mtshingo. Nimitykset willow bark flute, willow flute (molemmat suom. pajuhuilu) ja natural flute ovat usein käytössä englanninkielisissä teksteissä. Erikoiskäytössä olleista huiluista on voitu käyttää nimitystä, joka kuvaa huilun käyttöyhteyttä esim. sacred flute (suom. pyhä huilu) Papua Uusi-Guineassa.
 
