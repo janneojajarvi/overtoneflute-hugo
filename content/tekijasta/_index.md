@@ -8,7 +8,7 @@ title: "Tekijästä & kontakti"
 
 
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" title="Hurja Halla trio - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/3RBq0hZvRrY?is=X_FSfGsgpz_Bw_5W" title="Hurja Halla trio - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Janne Ojajärvi on musiikin maisteri ja musiikkipedagogi, joka on erikoistunut kansanomaisiin puhallinsoittimiin, erityisesti pitkähuiluihin ja huuliharppuihin. Musiikkona hän työskentelee huuliharpuilla, kosketinsoittimilla, laululla sekä pitkähuilulla. Janne käyttää usein muusikon työssään myös kurkkulaulua, pitkähuilua, muniharppua, lyömäsoittimia, sekä konemusiikin keinoja, sekä konemusiikin keinoja. Janne valmistui Karelia-ammattikorkeakoulusta musiikkipedagogiksi (AMK) huuliharpunsoittoon suuntautuneena. Janne valmistui vuonna 2019 musiikin maisteriksi Sibelius-akatemiasta pääsoittimenaan huuliharput. Tällä hetkellä hän toimii aktiivisesti mm. yhtyeissä Ojajärvi Blom Ojajärvi, Hurja Halla ja Trio Beoir, sekä esiintyy soolona.
