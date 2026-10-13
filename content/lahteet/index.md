@@ -1,5 +1,6 @@
 ---
 title: "Lähteet"
+type: "page"
 ---
 
 * Asplund, A., Hoppu, P., Laitinen, H., Leisiö, T., Saha, H. & Westerholm, S. 2006. Suomen musiikin historia. Kansanmusiikki.
