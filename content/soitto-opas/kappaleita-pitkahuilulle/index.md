@@ -4,9 +4,17 @@ title: "Kappaleita pitkähuilulle"
 
 Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä sävelmistä pitkähuilulle sovitettuja versioita ja osa sävellettyjä kappaleita pitkähuilun soittajilta, jotka ovat antaneet luvan kappaleidensay käyttöön tällä oppimateriaalisivustolla. Kaikki ääninäytteet on soittanut ja äänittänyt tämän sivun [tekijä](/tekijasta/).
 
+
+
 <div class="tc pv2" style="margin-bottom: 2rem;">
   <img src="/overtoneflute-hugo/images/Dpitkiksenskaala3.jpg" alt="Pitkähuilun asteikko harjoituksissa ja kappaleissa" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
+
+<div style="margin: 20px 0;">
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/playlists/1382948038&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+</div>
+
+
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.4rem;">Helpot</h3>
 
