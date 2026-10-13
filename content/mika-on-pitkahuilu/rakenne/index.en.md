@@ -7,12 +7,12 @@ Overtone flutes can be divided into two different categories: block flutes and r
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/d-pitkahuilu.jpg" alt="Side-blown block flute" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/sivupuhalteinen.jpg" alt="Side-blown block flute" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Side-blown block flute (builder: Ying Ming Zhang)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/rim-blown-flute.jpg" alt="Rim-blown flute" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/reunahuilu.jpg" alt="Rim-blown flute" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Rim-blown flute (builder: Dmitri Demin)</p>
 </div>
 
@@ -21,7 +21,7 @@ Majority of the overtone flutes built in Finland nowadays are side-blown block f
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/end-blown-flute.jpg" alt="End-blown flute" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/paapuhalteinen.jpg" alt="End-blown flute" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">End-blown flute (builder: Max Brumberg)</p>
 </div>
 
@@ -38,12 +38,12 @@ Also wooden season materials are handy, though short-lived. Willow species are g
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/pitkahuilu-diagram.jpg" alt="Pitkähuilu diagram" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/structure1.jpg" alt="Pitkähuilu diagram" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Pitkähuilu diagram (according to Riitta-Liisa Joutsenlahti)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/pitkahuilu-diagram-plastic.jpg" alt="Pitkähuilu diagram with plastic block extension" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/structure2.jpg" alt="Pitkähuilu diagram with plastic block extension" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Pitkähuilu diagram with plastic block extension</p>
 </div>
 
