@@ -5,7 +5,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 <h2 style="font-size: 28px; color: #ffffff; margin-bottom: 1.5rem;">柳の笛 (Pitkähuilu / Overtone Flute)</h2>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/janneojajarvi2024_web7406719843632418577.jpg" alt="柳の笛を演奏するヤンネ・オヤヤルヴィ" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/overtoneflute-hugo/images/janneojajarvi2024_web7406719843632418577.jpg" alt="柳の笛を演奏するヤンネ・オヤヤルヴィ" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -16,7 +16,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 <h3 style="color: #ffffff; font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem;">フィンランドの伝統楽器「柳の笛」の特徴</h3>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/huilu-kirsivinkki_med.jpg" alt="柳の笛" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/overtoneflute-hugo/images/huilu-kirsivinkki_med.jpg" alt="柳の笛" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -24,7 +24,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/infograph.png" alt="インフォグラフィック" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/overtoneflute-hugo/images/infograph.png" alt="インフォグラフィック" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <h3 style="color: #ffffff; font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem;">伝統的な楽器との比較</h3>
@@ -65,7 +65,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 <h3 style="color: #ffffff; font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem;">なぜ「柳の笛」と呼ばれるのか？</h3>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/d-overtoneflutescale.jpg" alt="音階と倍音列の仕組み" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <img src="/overtoneflute-hugo/images/d-overtoneflutescale.jpg" alt="音階と倍音列の仕組み" style="max-width: 100%; height: auto; border-radius: 2px;" />
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -98,7 +98,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <a href="https://payhip.com/b/gBN8Q" target="_blank"><img src="/images/pikkuoppaan-neliokansi.jpg" alt="クイックスタートガイドの表紙" style="max-width: 150px; height: auto; border-radius: 2px;" /></a>
+  <a href="https://payhip.com/b/gBN8Q" target="_blank"><img src="/overtoneflute-hugo/images/pikkuoppaan-neliokansi.jpg" alt="クイックスタートガイドの表紙" style="max-width: 150px; height: auto; border-radius: 2px;" /></a>
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -106,7 +106,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <a href="https://payhip.com/b/YGVUH" target="_blank"><img src="/images/pohjaempty.jpg" alt="北欧の倍音笛ガイド" style="max-width: 189px; height: auto; border-radius: 2px;" /></a>
+  <a href="https://payhip.com/b/YGVUH" target="_blank"><img src="/overtoneflute-hugo/images/pohjaempty.jpg" alt="北欧の倍音笛ガイド" style="max-width: 189px; height: auto; border-radius: 2px;" /></a>
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
