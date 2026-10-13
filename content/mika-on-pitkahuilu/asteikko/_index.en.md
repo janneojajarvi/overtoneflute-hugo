@@ -28,7 +28,7 @@ Because natural harmonic tunings differ slightly from equal temperament systems 
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-You can also explore interactive tones using the <a href="#" style="color: #ed8936; text-decoration: underline;">virtual player</a>.
+You can also explore interactive tones using the <a href="https://janneojajarvi.github.io/overtoneflutepiano/" style="color: #ed8936; text-decoration: underline;">virtual player</a>.
 </p>
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.1rem;">Sources:</h3>
