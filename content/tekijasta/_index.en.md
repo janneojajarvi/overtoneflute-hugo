@@ -47,7 +47,7 @@ Whether you are a beginner looking for your first tutorial or a professional sea
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe src="https://www.youtube.com/embed/s1Kf1DJXrHs?is=Eb7rHgIeYxj_aZ6s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
   </div>
-  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Ojajärvi Blom Ojajärvi video sampler</p>
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Janne Ojajärvi</p>
 </div>
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1.5rem; font-size: 1.3rem;">Contact Me</h3>
