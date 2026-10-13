@@ -14,7 +14,7 @@ With a Master's degree in Folk Music and a background in sound design, I perform
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3RBq0hZvRrY?is=X_FSfGsgpz_Bw_5W" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
   </div>
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Hurja Halla trio – Mårranfest</p>
 </div>
@@ -45,7 +45,7 @@ Whether you are a beginner looking for your first tutorial or a professional sea
 
 <div class="tc pv2" style="margin-bottom: 2.5rem;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-    <iframe src="https://www.youtube.com/embed/s1Kf1DJXrHs?is=Eb7rHgIeYxj_aZ6s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
   </div>
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Janne Ojajärvi</p>
 </div>
