@@ -109,3 +109,8 @@ p, li, span, strong, em, .page-paragraph, .nested-links {
 h2, h3, h4, h5, h6 {
   color: #ffffff !important;
 }
+
+article a, .nested-copy-line-height a {
+  color: #ed8936 !important;
+  text-decoration: underline;
+}
