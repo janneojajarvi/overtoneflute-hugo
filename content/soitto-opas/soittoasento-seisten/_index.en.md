@@ -11,7 +11,7 @@ Maintaining a healthy, upright posture is essential. Keep your shoulders relaxed
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/posture-playing-position.jpg" alt="Posture and playing position" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="Posture and playing position" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 3rem; border-top: 1px solid #2d3748; padding-top: 1rem;">
