@@ -20,6 +20,6 @@ Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerki
 
 Most of the exercises and tunes on this site are written for a flute tuned in D, but you can anyway play them with a flute of any key, though most of the audio samples are played with a D-flute. Congratulations to you that you have reached to this page and are perhaps willing to learn to play this ancient instrument. You are warmly welcome!
 
-If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](julkaisut/).
+If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](https://payhip.com/b/n04oe).
 
 © Janne Ojajärvi
