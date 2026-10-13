@@ -3,13 +3,12 @@ title: "Tekijästä & kontakti"
 ---
 
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/s1Kf1DJXrHs?is=Eb7rHgIeYxj_aZ6s" title="Ojajärvi Blom Ojajärvi video sampler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" title="Janne Ojajärvi & willow flute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2" title="Hurja Halla - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" title="Hurja Halla trio - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Janne Ojajärvi on musiikin maisteri ja musiikkipedagogi, joka on erikoistunut kansanomaisiin puhallinsoittimiin, erityisesti pitkähuiluihin ja huuliharppuihin. Musiikkona hän työskentelee huuliharpuilla, kosketinsoittimilla, laululla sekä pitkähuilulla. Janne käyttää usein muusikon työssään myös kurkkulaulua, pitkähuilua, muniharppua, lyömäsoittimia, sekä konemusiikin keinoja, sekä konemusiikin keinoja. Janne valmistui Karelia-ammattikorkeakoulusta musiikkipedagogiksi (AMK) huuliharpunsoittoon suuntautuneena. Janne valmistui vuonna 2019 musiikin maisteriksi Sibelius-akatemiasta pääsoittimenaan huuliharput. Tällä hetkellä hän toimii aktiivisesti mm. yhtyeissä Ojajärvi Blom Ojajärvi, Hurja Halla ja Trio Beoir, sekä esiintyy soolona.
@@ -23,7 +22,7 @@ Kesällä 2022 julkaistiin Ojajärven kirja ”Pitkähuilu – opas sormireiätt
 [http://www.janneojajarvi.com](http://www.janneojajarvi.com)
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/janne-ojajarvi.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
+  <img src="/overtoneflute-hugo/images/janneojajarvi.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">Kuva: Liisa Haapanen</p>
 </div>
 
