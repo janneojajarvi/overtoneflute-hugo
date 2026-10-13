@@ -6,9 +6,9 @@ title: "Home"
 
 Learn to play the overtone flute (willow flute) with our free tutorials, sheet music, and guides. Explore the ancient Scandinavian sound and harmonic music today.
 
-_“Overtone flute, willow flute, pitkähuilu, sälgflöjt, seljefløyte, pikkvile, obertonflute, flûte harmonique, koncovka, калюка...”_
+_“Overtone flute, willow flute, pitkähuilu, sälgflöjt, seljefløyte, pikkvile, obertonflöte, flûte harmonique, koncovka, калюка...”_
 
-The objective of this site is to offer as much information, self-study material, repertoire (sheets & audio) and listening tips on the Scandinavian overtone flute, in one place. This site focuses especially on side-blown overtone flutes with no tone holes, though all the exercises and tunes can be played with most of the overtone flutes (with no tone holes).
+The objective of this site is to offer as much information, self-study material, repertoire (sheets & audio) and listening tips on the Scandinavian overtone flute, in one place. This site focuses especially on side-blown overtone flutes with no finger holes, though all the exercises and tunes can be played with most of the overtone flutes (with no finger holes).
 
 Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerkinnat/) here.
 
