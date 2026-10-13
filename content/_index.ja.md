@@ -86,8 +86,10 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-<a href="/overtoneflute-hugo/en/soitto-opas/kappaleita-pitkähuilulle/" style="color: #ed8936; text-decoration: underline;">[フィンランドの柳の笛の楽譜を見る]</a>
+<a href="/overtoneflute-hugo/en/soitto-opas/kappaleita-pitkahuilulle/" style="color: #ed8936; text-decoration: underline;">[フィンランドの柳の笛の楽譜を見る]</a>
 </p>
+
+
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
 <strong>【クイックスタートガイド】</strong> 5分で最初の一歩を。持ち方から基本の吹き方、厳選した3つの練習曲までを凝縮したPDFガイド（全3ページ）。
@@ -106,7 +108,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <a href="https://payhip.com/b/YGVUH" target="_blank"><img src="/overtoneflute-hugo/images/pohjaempty.jpg" alt="北欧の倍音笛ガイド" style="max-width: 189px; height: auto; border-radius: 2px;" /></a>
+  <a href="https://payhip.com/b/YGVUH" target="_blank"><img src="/overtoneflute-hugo/images/pohjaempty2.jpg" alt="北欧の倍音笛ガイド" style="max-width: 189px; height: auto; border-radius: 2px;" /></a>
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
