@@ -11,7 +11,7 @@ Certain partial tones have transient durations and lack a fixed hierarchical str
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/ylasavelsarja-kaavio.jpg" alt="Harmonic series" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/overtones.jpg" alt="Harmonic series" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Harmonic series based on a fundamental tone "C". Upper numbers show the tuning offset compared to equal tuning</p>
 </div>
 
