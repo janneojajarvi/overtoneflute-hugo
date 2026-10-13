@@ -21,7 +21,7 @@ Sivuston materiaaleja voi hyödyntää eri sävellajeihin rakennetuilla huiluill
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan "Traditional Folk Tunes for Willow Flute" täältä.
+Jos haluat tukea tämän sivun ylläpitoa, voit ostaa pdf-muotoisen nuottikirjan "Traditional Folk Tunes for Willow Flute" <a href="https://payhip.com/b/n04oe">täältä.</a>
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 2rem; margin-top: 2rem; margin-bottom: 2rem;">
