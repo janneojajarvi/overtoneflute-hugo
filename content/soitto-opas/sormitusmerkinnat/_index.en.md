@@ -7,7 +7,7 @@ All music sheets on this site includes fingering markings which are kind of tabl
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/fingering-chart.jpg" alt="Fingering chart guide" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/tabulatures.jpg" alt="Fingering chart guide" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
