@@ -21,8 +21,9 @@ Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteine
 <script>
   // Lista YouTube-videoiden ID:istä (voit lisätä tähän niin paljon videoita kuin haluat)
   const weeklyVideos = [
-    "sEURxC5CeLc",
-    "P0V0oLu799Y"
+     "sEURxC5CeLc",
+    "bgYVT_lxlxs",
+    "5T9E6Fvv8II"
     // Lisää tähän halutessasi lisää video-ID:itä pilkulla erotettuna, esim:
     // "TOINEN_VIDEO_ID",
     // "KOLMAS_VIDEO_ID"
