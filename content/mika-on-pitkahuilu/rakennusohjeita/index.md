@@ -2,12 +2,12 @@
 title: "Rakennusohjeita"
 ---
 
-Tässä muutama ohje pitkähuilun rakennukseen. Overtoneflute.fi ei ota kantaa tai vastuuta verkosta löytyvien ohjeiden oikeellisuuteen tai laatuun[span_4](start_span)[span_4](end_span).
+Tässä muutama ohje pitkähuilun rakennukseen. Overtoneflute.fi ei ota kantaa tai vastuuta verkosta löytyvien ohjeiden oikeellisuuteen tai laatuun.
 
 ### Rakennusohjeita verkossa:
 
-* **[Markku Asunnan laatimat ohjeet](http://example.com)** (pajusta tehty huilu)[span_5](start_span)[span_5](end_span)
-* **[Mikko Perkoilan ja Erkki Akkosen ohjeet](http://example.com)** (muovinen huilu, puinen tuppa)[span_6](start_span)[span_6](end_span)
+* **[Markku Asunnan laatimat ohjeet](http://example.com)** (pajusta tehty huilu)
+* **[Mikko Perkoilan ja Erkki Akkosen ohjeet](http://example.com)** (muovinen huilu, puinen tuppa)
 * **[Nicolas Brasin rakennusohje Youtubessa](http://example.com)** (muovinen huilu, puinen tulppa)[span_7](start_span)[span_7](end_span)
 * **[Dizu Plaatjiesin rakennusohje Youtubessa](http://example.com)** (eteläafrikkalainen moderni versio nimeltään umtshingo, jossa ei ole tulppaa)[span_8](start_span)[span_8](end_span)
 
