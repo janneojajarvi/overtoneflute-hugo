@@ -51,7 +51,7 @@ Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteine
 </script>
 
 
-<h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week 1/10 (2026)</h3>
+<h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week</h3>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1.5rem; margin-bottom: 1.5rem;">
 Sivuston materiaaleja voi hyödyntää eri sävellajeihin rakennetuilla huiluilla, vaikkakin suurin osa sivuston ääninäytteistä on soitettu D-vireisellä pitkähuilulla. Vaikka kappaleet ja harjoitukset ovatkin sivustolla nuotteina, ei niiden soittoon tarvitse kuitenkaan välttämättä nuotinlukutaitoa. Riittää kun soitat ääninäytteiden mukana ja katsot nuottilapuista sormitukset (auki/kiinni). Onnittelut sinulle joka olet löytänyt tämän marginaalisen ja ensi kuulemalta mahdollisesti oudon kuuloisen soittimen pariin! Pitkähuiluissa piilee potentiaalia, josta suurinta osaa ei ole vielä hyödynnetty. Tervetuloa oppimaan pitkähuilun soittoa!
