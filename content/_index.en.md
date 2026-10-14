@@ -12,10 +12,10 @@ The objective of this site is to offer as much information, self-study material,
 
 Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerkinnat/) here.
 
-## Video of the week 1/10 (2026)
+## Video of the week 2/10 (2026)
 
 <div style="margin: 20px 0;">
-  <iframe width="100%" height="415" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="Overtone flute Playing Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="415" src="https://youtu.be/sEURxC5CeLc?si=zeIMrGlXhTR41XOZ" title="Overtone flute Playing Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Most of the exercises and tunes on this site are written for a flute tuned in D, but you can anyway play them with a flute of any key, though most of the audio samples are played with a D-flute. Congratulations to you that you have reached to this page and are perhaps willing to learn to play this ancient instrument. You are warmly welcome!
