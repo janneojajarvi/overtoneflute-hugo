@@ -14,9 +14,41 @@ title: "Etusivu"
 Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteineen ja ääninäytteineen) sekä kuunteluvinkkejä soittimesta jota kutsutaan muun muassa nimillä pitkähuilu ja yläsävelhuilu. Tässä tapauksessa yläsävelhuilusta puhuttaessa viitataan sormiaukottomaan sivusta tai päästä puhallettavaan huiluun.
 </p>
 
-<div style="margin: 20px 0;">
-  <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/sEURxC5CeLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="weekly-video-container" style="margin: 20px 0;">
+  <!-- Viikon video latautuu tähän -->
 </div>
+
+<script>
+  // Lista YouTube-videoiden ID:istä (voit lisätä tähän niin paljon videoita kuin haluat)
+  const weeklyVideos = [
+    "sEURxC5CeLc",
+    "P0V0oLu799Y"
+    // Lisää tähän halutessasi lisää video-ID:itä pilkulla erotettuna, esim:
+    // "TOINEN_VIDEO_ID",
+    // "KOLMAS_VIDEO_ID"
+  ];
+
+  // Apufunktio viikkonumeron laskemiseen, jotta video vaihtuu aina kerran viikossa
+  function getWeekNumber(d) {
+    d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
+    var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+    var weekNo = Math.ceil((((d - yearStart) / 86400000) + 1)/7);
+    return weekNo;
+  }
+
+  // Valitaan video viikkonumeron perusteella
+  const now = new Date();
+  const weekIndex = getWeekNumber(now) % weeklyVideos.length;
+  const selectedVideoId = weeklyVideos[weekIndex];
+
+  // Upotetaan iframe sivulle dynaamisesti
+  const container = document.getElementById('weekly-video-container');
+  container.innerHTML = `
+    <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/${selectedVideoId}" title="Viikon video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  `;
+</script>
+
 
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week 1/10 (2026)</h3>
 
