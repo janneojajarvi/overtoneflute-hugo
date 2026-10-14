@@ -12,8 +12,11 @@ Pitkähuilu tunnetaan Suomessa nimillä pajupilli (Jyväskylä, Pieksämäki, Pe
 
 Pitkähuilun soitto väheni 1900-luvun loppua kohti miltei tyystin, mutta on alkanut taas nostaa suosiotaan 1980-luvun alusta. Suosiota ovat auttaneet muun muassa ammattimainen soitinrakennus ja soitonopetus. Rauno Nieminen on opettanut pitkähuilun soittoa ja rakentamista muoviputkista vuodesta 1979 lähtien. Sibelius-Akatemian kansanmusiikkilinjalla järjestettiin tuokokuussa 1985 ensimmäinen pitkähuilun rakennus- ja soittokurssi, jossa Nieminen toimi opettajana. Kansanmusiikkia, jazzia ja progressiivista rockia yhdistellyt Piirpauke -yhtye käytti pitkähuilua vuonna 1976 julkaistulla albumillaan “2” (kappaleet Agjek ja Peäldoaivi). Samoihin aikoihin pitkähuilua soittivat Kukon ja Niemisen lisäksi mm. Hannu Syrjälahti, Hannu Saha ja Heikki Laitinen. Kaksi viimeksi mainittua ovat soittaneet pitkähuilua mm. Primo-yhtyeessä vuodesta 1979 lähtien. Vuosina 1995–2002 toiminut Ruumen-yhtye käytti pitkähuilua melodiasoittimena useissa kappaleissaan. Yhtyeessä huiluja soittivat Kurt Lindblad ja Tapani Varis. Nykyään pitkähuilua voi kuulla monien yhtyeiden ja artistien musiikissa.
 
+<div>
+    <img src="/overtoneflute-hugo/images/tapanivariscollective.jpg" alt="Tapani Varis Colletive" style="max-width: 100%; height: auto;">
+    <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">Tapani Varis Collective. kuvaaja: Jorma Airolq</p>
+  </div>
 
-Tapani Varis Collective. Kuvaaja: Jorma Airola
 
 Lähteet:
 Asplund, Hoppu, Laitinen, Leisiö, Saha & Westerholm. 2006.
