@@ -12,7 +12,9 @@ The objective of this site is to offer as much information, self-study material,
 
 Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerkinnat/) here.
 
-## Video of the week
+<div id="weekly-video-container" style="margin: 20px 0;">
+  <!-- Viikon video latautuu tähän -->
+</div>
 
 <script>
   // Lista YouTube-videoiden ID:istä (voit lisätä tähän niin paljon videoita kuin haluat)
@@ -90,6 +92,9 @@ Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerki
     <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/${selectedVideoId}" title="Viikon video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   `;
 </script>
+
+
+<h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week</h3>
 
 
 Most of the exercises and tunes on this site are written for a flute tuned in D, but you can anyway play them with a flute of any key, though most of the audio samples are played with a D-flute. Congratulations to you that you have reached to this page and are perhaps willing to learn to play this ancient instrument. You are warmly welcome!
