@@ -13,13 +13,13 @@ Both the Finnish overtone flute and the Zulu Umtshingo operate on the same physi
 
 ![Finnish pitkähuilu and Zulu umtshingo comparison on a traditional rug](https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/file_00000000c75c71f496d60abdb9d44de17174662840698293524.png?w=1024)
 
-_AI generated photo of umtshingo (for real photo check_ _[this link](https://ibali.uct.ac.za/s/pkmi/item/11426)__)_
+_AI generated photo of umtshingo (for real photo check_ _[this link](https://ibali.uct.ac.za/s/pkmi/item/11425)_)_
 
 This technique unlocks the **Natural Harmonic Series** (overtones) — the "pure" scale of nature.
 
 ![Finnish pitkähuilu and Zulu umtshingo comparison on a traditional rug](https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/1770117429544281293431659258632562728.png?w=1024)
 
-_A willow flute (AI generated photo. Check real pitkähuilu photos_ _[here](https://overtoneflute.fi/home/)__)_
+_A willow flute (AI generated photo. Check real pitkähuilu photos_ _[here](https://overtoneflute.fi/home/)_)_
 
 ##### **Comparing the Pitkähuilu and the Umtshingo**
 
