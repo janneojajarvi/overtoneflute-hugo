@@ -39,8 +39,11 @@ Das Ziel dieser Website ist es, möglichst viele Informationen, Materialien zum 
 Das Spielen der Obertonflöte ist eine intuitive Erfahrung. Da man sich nicht auf komplizierte Griffkombinationen konzentrieren muss, kann man sich ganz dem Rhythmus und dem Atem hingeben. Es ist ein perfektes Instrument für Klangtherapie, Stressabbau und zur Entdeckung archaischer Klangwelten.
 </p>
 
-<div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/video-placeholder-de.jpg" alt="Willow flute video" style="max-width: 100%; height: auto; border-radius: 2px;">
+<div class="tc pv2" style="margin-bottom: 2.5rem;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+  </div>
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Janne Ojajärvi</p>
 </div>
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
