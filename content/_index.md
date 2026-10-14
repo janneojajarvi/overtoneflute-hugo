@@ -5,7 +5,7 @@ title: "Etusivu"
 <div class="tc pv2">
   <img src="/overtoneflute-hugo/images/banner.jpg" alt="Pitkähuilun suukappale" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
-
+ 
 <p style="font-style: italic; color: #a0aec0; margin-top: 1.5rem; margin-bottom: 1.5rem;">
 “Pitkähuilu, yläsävelhuilu, overtoneflute, willow flute, sälgflöjt, seljefløyte, pikkvile…”
 </p>
