@@ -14,7 +14,7 @@ Pitkähuilun soitto väheni 1900-luvun loppua kohti miltei tyystin, mutta on alk
 
 <div>
     <img src="/overtoneflute-hugo/images/tapanivariscollective.jpg" alt="Tapani Varis Colletive" style="max-width: 100%; height: auto;">
-    <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">Tapani Varis Collective. kuvaaja: Jorma Airolq</p>
+    <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem;">Tapani Varis Collective. kuvaaja: Jorma Airola</p>
   </div>
 
 
