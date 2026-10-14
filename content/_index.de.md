@@ -3,7 +3,7 @@ title: "Obertonflöte"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banneri.jpg" alt="Obertonflöte Detail" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/banner.jpg" alt="Obertonflöte Detail" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <h2 style="color: #ffffff; font-size: 1.8rem; margin-bottom: 0.5rem;">Die finnische Obertonflöte und Weidenflöte</h2>
