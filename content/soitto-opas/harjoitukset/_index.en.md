@@ -11,7 +11,7 @@ Natural harmonic scales differ slightly from equal temperament systems like the 
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/ylasavelsarja.jpg" alt="A scale of D-tuned overtone flute in exercises and tunes" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/scale.jpg" alt="A scale of D-tuned overtone flute in exercises and tunes" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">A scale of D-tuned overtone flute in exercises and tunes</p>
 </div>
 
