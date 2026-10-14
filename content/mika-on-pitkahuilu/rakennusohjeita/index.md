@@ -11,7 +11,7 @@ Rakennusohjeita verkossa:
 </p>
 
 <ul style="line-height: 1.8; margin-bottom: 1.5rem;">
-  <li><a href="http://kuu.zoo-gate.fi/asiakkaat/taikametsa/main.php?pid=2&amp;id=d74ae3ac05c779188daea10ae0a37697&amp;alasivu=Lelut" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Markku Asunnan laatimat ohjeet</a> (pajusta tehty huilu)</li>
+  
   <li><a href="http://www.roima.fi/teeitsesoitin.htm" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Mikko Perkoilan ja Erkki Okkosen ohjeet</a> (muovinen huilu, puinen tulppa)</li>
   <li><a href="https://youtu.be/qzOLO5YHL9Q" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Nicolas Brasin rakennusohje Youtubessa</a> (muovinen huilu, puinen tulppa)</li>
   <li><a href="https://www.youtube.com/watch?v=gr89-Ofq0GM" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Dizu Plaatjiesin rakennusohje Youtubessa</a> (eteläafrikkalainen moderni versio nimeltään umtshingo, jossa ei ole tulppaa)</li>
