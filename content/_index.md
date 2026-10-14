@@ -14,7 +14,11 @@ title: "Etusivu"
 Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteineen ja ääninäytteineen) sekä kuunteluvinkkejä soittimesta jota kutsutaan muun muassa nimillä pitkähuilu ja yläsävelhuilu. Tässä tapauksessa yläsävelhuilusta puhuttaessa viitataan sormiaukottomaan sivusta tai päästä puhallettavaan huiluun.
 </p>
 
-<h3 style="margin-top: 2rem; margin-bottom: 1rem;"><a href="/posts/video-of-the-week-1-10-2026/" style="color: #ffffff !important; text-decoration: underline;">Video of the week 1/10 (2026)</a></h3>
+<div style="margin: 20px 0;">
+  <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/sEURxC5CeLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week 1/10 (2026)</h3>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-top: 1.5rem; margin-bottom: 1.5rem;">
 Sivuston materiaaleja voi hyödyntää eri sävellajeihin rakennetuilla huiluilla, vaikkakin suurin osa sivuston ääninäytteistä on soitettu D-vireisellä pitkähuilulla. Vaikka kappaleet ja harjoitukset ovatkin sivustolla nuotteina, ei niiden soittoon tarvitse kuitenkaan välttämättä nuotinlukutaitoa. Riittää kun soitat ääninäytteiden mukana ja katsot nuottilapuista sormitukset (auki/kiinni). Onnittelut sinulle joka olet löytänyt tämän marginaalisen ja ensi kuulemalta mahdollisesti oudon kuuloisen soittimen pariin! Pitkähuiluissa piilee potentiaalia, josta suurinta osaa ei ole vielä hyödynnetty. Tervetuloa oppimaan pitkähuilun soittoa!
