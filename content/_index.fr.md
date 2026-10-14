@@ -3,7 +3,7 @@ title: "Flûte Harmonique – Flûtes artisanales de Finlande"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/flute-detail.jpg" alt="Flûte harmonique détail" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/banneri.jpg" alt="Flûte harmonique détail" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <h2 style="color: #ffffff; font-size: 1.8rem; margin-bottom: 0.5rem;">La Flûte Harmonique Scandinave : L'Art de la Flûte en Saule</h2>
@@ -16,8 +16,11 @@ Bienvenue sur overtoneflute.fi ! L'objectif de ce site est de rassembler en un s
 Ce site se concentre particulièrement sur les flûtes à harmoniques à soufflage latéral sans trous, bien que tous les exercices et morceaux puissent être joués avec la plupart des flûtes à harmoniques (sans trous).
 </p>
 
-<div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/video-placeholder-fr.jpg" alt="Willow flute video" style="max-width: 100%; height: auto; border-radius: 2px;">
+<div class="tc pv2" style="margin-bottom: 2.5rem;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+  </div>
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Janne Ojajärvi</p>
 </div>
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
@@ -33,17 +36,17 @@ Si vous souhaitez soutenir la maintenance de cette page, vous pouvez acheter ici
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/bass-flute.jpg" alt="Flûte à harmoniques basse" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Flûte à harmoniques basse" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Flûte à harmoniques basse (fabricant : Vladiswar Nadishana)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/player-d.jpg" alt="Flûte à harmoniques accordée en ré" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="Flûte à harmoniques accordée en ré" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Flûte à harmoniques accordée en ré (fabriquée par Ying Ming Zhang)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/flutes-stack.jpg" alt="Une pile de flûtes à harmoniques" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="Une pile de flûtes à harmoniques" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Une pile de flûtes à harmoniques.</p>
 </div>
 
