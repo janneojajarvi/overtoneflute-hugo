@@ -22,7 +22,7 @@ title: "柳笛"
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/infographic-zh.jpg" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/infograph_chn2.png" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
@@ -30,17 +30,17 @@ title: "柳笛"
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/bass-flute.jpg" alt="低音泛音笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="低音泛音笛" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">低音泛音笛（制作者：Vladiswar Nadishana）</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/white-flute.jpg" alt="D 调柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/dpitkahuilu.jpg" alt="D 调柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">D 调柳笛（制作者：Kirsi Vinkki）</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/flutes-stack.jpg" alt="一堆柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="一堆柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">一堆柳笛</p>
 </div>
 
