@@ -6,6 +6,11 @@ title: "Overtone flute tunes"
   <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/playlists/1382948038&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
+<div class="tc pv2" style="margin-bottom: 1.5rem;">
+  <img src="/overtoneflute-hugo/images/scale.jpg" alt="A scale of D-tuned overtone flute in exercises and tunes" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">A scale of D-tuned overtone flute in exercises and tunes</p>
+</div>
+
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.2rem;">Tune Sheet Music (PDF)</h3>
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin: 20px 0;">
