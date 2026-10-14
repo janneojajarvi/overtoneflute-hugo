@@ -21,9 +21,25 @@ Tämä sivusto pyrkii tarjoamaan tietoa, oppimateriaalia, ohjelmistoa (nuotteine
 <script>
   // Lista YouTube-videoiden ID:istä (voit lisätä tähän niin paljon videoita kuin haluat)
   const weeklyVideos = [
-     "sEURxC5CeLc",
+      "sEURxC5CeLc",
     "bgYVT_lxlxs",
-    "5T9E6Fvv8II"
+    "5T9E6Fvv8II",
+    "jad2oY7elzA",
+    "vLe7g6HOWeM",
+    "B3FIi7eS3i8",
+    "wjPfYymfcgs",
+    "dCp6w6bf2NA",
+    "4lwnKR4vbLE",
+    "0_W2Osel9gk",
+    "rYG9ZZch8QI",
+    "pn1mn-RCiZ0",
+    "8xciFhJvb38",
+    "yu8CLAd5GxA",
+    "oDTJAPj-Ows",
+    "FUWEN3dYwzY",
+    "dxNrQ3QkADA",
+    "i54uu2Lc7jk",
+    "ezureVn-cJQ"
     // Lisää tähän halutessasi lisää video-ID:itä pilkulla erotettuna, esim:
     // "TOINEN_VIDEO_ID",
     // "KOLMAS_VIDEO_ID"
