@@ -3,7 +3,7 @@ title: "柳笛"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/flute-detail.jpg" alt="柳笛细节" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/banneri.jpg" alt="柳笛细节" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
@@ -14,12 +14,15 @@ title: "柳笛"
 欢迎来到 overtoneflute.fi！本网站的目标是提供尽可能多的信息、自学资料、曲目（乐谱和音频）以及听觉建议，帮助您了解北欧的侧吹无音孔泛音笛。本站特别关注无音孔的侧吹式泛音笛，尽管所有练习和曲目都可以用大多数无音孔的泛音笛演奏。
 </p>
 
-<div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/video-placeholder-zh.jpg" alt="Willow flute video" style="max-width: 100%; height: auto; border-radius: 2px;">
+<div class="tc pv2" style="margin-bottom: 2.5rem;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/P0V0oLu799Y?is=qLa8dSEDKqn47flF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+  </div>
+  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Janne Ojajärvi</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/images/infographic-zh.jpg" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/infographic-zh.jpg" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
