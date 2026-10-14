@@ -3,7 +3,7 @@ title: "柳笛"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banneri.jpg" alt="柳笛细节" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/banner.jpg" alt="柳笛细节" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
