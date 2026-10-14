@@ -35,7 +35,7 @@ title: "柳笛"
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/dpitkahuilu.jpg" alt="D 调柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/d-pitkahuilu.jpg" alt="D 调柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">D 调柳笛（制作者：Kirsi Vinkki）</p>
 </div>
 
