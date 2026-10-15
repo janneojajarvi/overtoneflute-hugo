@@ -1,6 +1,8 @@
 ---
 title: "柳の笛 (Pitkähuilu / Overtone Flute)"
+description: "フィンランドの伝統楽器「柳の笛（ピトカフイル）」の魅力や演奏法、倍音階の仕組み、楽譜・初心者向けガイドをご紹介する公式サイトです。"
 ---
+
 
 <h2 style="font-size: 28px; color: #ffffff; margin-bottom: 1.5rem;">柳の笛 (Pitkähuilu / Overtone Flute)</h2>
 
