@@ -1,7 +1,14 @@
 ---
 title: "Overtone Flutes Compared: Finnish Pitkähuilu vs. Zulu Umtshingo"
 date: "2026-02-05"
+description: "A comparison between the Finnish pitkähuilu and the Zulu umtshingo. How did two instruments separated by over 10,000 kilometers develop the same acoustic principle?"
+tags: ["Pitkähuilu", "Umtshingo", "Ethnomusicology", "Willow Flute"]
+categories: ["Blogi"]
+images:
+  - "https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/file_00000000c75c71f496d60abdb9d44de17174662840698293524.png"
+draft: false
 ---
+
 
 # From the Finnish Forests to the Hills of KwaZulu-Natal: The Story of Two Flutes
 
@@ -11,13 +18,15 @@ It is a fascinating phenomenon in ethnomusicology: two cultures, separated by ov
 
 Both the Finnish overtone flute and the Zulu Umtshingo operate on the same physics: they have no finger holes. The melody is created entirely by varying the blowing pressure and opening or closing the end of the tube with a finger.
 
+<!-- Kuvalle on lisätty tarkka alt-teksti saavutettavuutta ja SEO:ta varten -->
 ![Finnish pitkähuilu and Zulu umtshingo comparison on a traditional rug](https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/file_00000000c75c71f496d60abdb9d44de17174662840698293524.png?w=1024)
 
 _AI generated photo of umtshingo (for real photo check_ _[this link](https://ibali.uct.ac.za/s/pkmi/item/11425)_)_
 
 This technique unlocks the **Natural Harmonic Series** (overtones) — the "pure" scale of nature.
 
-![Finnish pitkähuilu and Zulu umtshingo comparison on a traditional rug](https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/1770117429544281293431659258632562728.png?w=1024)
+<!-- Päivitetty kuvaamaan tarkemmin tätä kyseistä kuvaa -->
+![Willow flute on a traditional rug representing the natural harmonic series](https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/1770117429544281293431659258632562728.png?w=1024)
 
 _A willow flute (AI generated photo. Check real pitkähuilu photos_ _[here](https://overtoneflute.fi/home/)_)_
 
