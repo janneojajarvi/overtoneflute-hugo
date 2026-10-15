@@ -2,7 +2,7 @@
 title: "Bass willow flute + looper"
 date: "2025-04-28"
 description: "Playing a bass willow flute built by Vladiswar Nadishana, combined with live looping."
-tags: ["Bass Willow Flute", "Looper", "Pitkähuilu", "Vladiswar Nadishana", "Live"]
+tags: ["Bass Willow Flute", "Looper", "Pitkähuilu", "Vladiswar Nadishana", "overtone flute", "Live"]
 categories: ["Videos"]
 draft: false
 ---
