@@ -30,4 +30,48 @@ Kesällä 2022 julkaistiin Ojajärven kirja ”Pitkähuilu – opas sormireiätt
 
 Voit ottaa yhteyttä lähettämällä sähköpostia osoitteeseen tai täyttämällä alla olevan lomakkeen (mikäli yhteydenottolomake on käytössä sivustollasi).
 
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+<strong>Kontakti:</strong>
+</p>
+
+<form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 600px; line-height: 1.8;">
+  
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.3rem;">Nimi (pakollinen)</label>
+    <input type="text" name="name" required style="width: 100%; padding: 8px; background-color: #1a202c; color: #fff; border: 1px solid #4a5568; border-radius: 4px;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.3rem;">Sähköposti (pakollinen)</label>
+    <input type="email" name="email" required style="width: 100%; padding: 8px; background-color: #1a202c; color: #fff; border: 1px solid #4a5568; border-radius: 4px;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.3rem;">Aihe</label>
+    <input type="text" name="subject" style="width: 100%; padding: 8px; background-color: #1a202c; color: #fff; border: 1px solid #4a5568; border-radius: 4px;" />
+  </div>
+
+  <div style="margin-bottom: 1rem;">
+    <label style="display: block; margin-bottom: 0.3rem;">Viesti</label>
+    <textarea name="message" rows="5" required style="width: 100%; padding: 8px; background-color: #1a202c; color: #fff; border: 1px solid #4a5568; border-radius: 4px;"></textarea>
+  </div>
+
+  <div style="margin-bottom: 1.5rem;">
+    <label style="display: block; margin-bottom: 0.3rem;">Kuinka löysit tietoa pitkähuilusivustostani?</label>
+    <select name="lisa_tieto" style="width: 100%; padding: 8px; background-color: #1a202c; color: #fff; border: 1px solid #4a5568; border-radius: 4px;">
+      <option value="">----</option>
+      <option value="Tuttavalta">Tuttavalta</option>
+      <option value="Googlesta">Googlesta</option>
+      <option value="YouTubesta">YouTubesta</option>
+      <option value="Facebookista">Facebookista</option>
+      <option value="Muuta kautta">Muuta kautta</option>
+    </select>
+  </div>
+
+  <button type="submit" style="background-color: #ed8936; color: #1a202c; font-weight: bold; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">
+    Lähetä viesti
+  </button>
+
+</form>
+
 © Janne Ojajärvi
