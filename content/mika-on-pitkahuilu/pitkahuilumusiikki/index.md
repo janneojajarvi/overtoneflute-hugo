@@ -28,7 +28,7 @@ Sulkemalla huilun pään vain osittain on mahdollista soittaa säveliä portaatt
 
 ### Pitkähuilun soittajia tästä päivästä sekä menneisyydestä:
 **Suomi:** Martti Pokela, Kurt Lindblad, Hannu Syrjälahti, Kristiina Ilmonen, Rauno Nieminen, Hannu Saha, Heikki Laitinen, Sakari Kukko, Leena Joutsenlahti, Riitta-Liisa Joutsenlahti, Tapani Varis, Veera Voima, Kirsi Ojala, Mimmi Laaksonen, Kirsi Vinkki, Lassi Logrén, Juulia Salonen, Patrik Weckman, Jarmo Romppanen, Nathan Thomson, Maija Karhinen-Ilo, Janne Ojajärvi, Joonas Ojajärvi, Satu Lankinen, Ringa Koskinen, Mikko Vanhasalo, Ilkka Heinonen ja Senni Valtonen ym.  
-**Ruotsi:** Jonas Simonson, Anders Norudde, Ale Möller, Göran Månsson.  
+**Ruotsi:** Jonas Simonson, Anders Norudde, Ale Möller, Göran Månsson, Jean-Pierre Yvert.  
 **Norja:** Steinar Ofsdal, Styrbjörn Bergelt, Ånon Egeland, Eivind Groven.  
 **Tanska:** Mads Kjøller-Henningsen.  
 **Viro:** Hann-Liis Lao, Sandra Vabarna, Cätling Mägi, Merike Paberits, Säde Tatar, Juhan Suits.  
