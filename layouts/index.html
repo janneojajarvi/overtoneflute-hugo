@@ -12,7 +12,8 @@
       {{ if eq .Lang "fi" }}Viimeisimmät blogipostaukset{{ else }}Latest blog posts{{ end }}
     </h2>
     <div class="flex flex-wrap -ns">
-      {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+      {{ range first 5 (where site.AllRegularPages "Section" "posts") }}
+
         <div class="w-100 mb3">
           <a href="{{ .RelPermalink }}" class="link white-90 hover-silver fw7">
             {{ .Title }}
