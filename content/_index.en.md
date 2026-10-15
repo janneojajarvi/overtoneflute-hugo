@@ -1,5 +1,9 @@
 ---
 title: "Home"
+description: "Your Online Resource for Overtone Flutes."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 ## Your Online Resource for Overtone and Willow Flutes
