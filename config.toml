@@ -11,49 +11,55 @@ theme = 'ananke'
   languageCode = 'fi-fi'
   languageName = 'Suomeksi'
   weight = 1
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.fi.params]
     site_description = "Overtone Flute & Pitkähuilu"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [languages.en]
   languageCode = 'en-us'
   languageName = 'English'
   weight = 2
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.en.params]
     site_description = "Overtone Flute & Pitkähuilu"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [languages.ja]
   languageCode = 'ja-jp'
   languageName = '日本語'
   weight = 3
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.ja.params]
     site_description = "Overtone Flute & Pitkähuilu"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [languages.de]
   languageCode = 'de-de'
   languageName = 'Auf Deutsch'
   weight = 4
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.de.params]
     site_description = "Obertonglöckchen & Obertone Flöte"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [languages.fr]
   languageCode = 'fr-fr'
   languageName = 'En Français'
   weight = 5
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.fr.params]
     site_description = "Flûte harmonique"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [languages.zh]
   languageCode = 'zh-cn'
   languageName = '柳笛'
   weight = 6
-  title = 'OVERTONEFLUTE.FI'
+  title = 'Overtoneflute.fi'
   [languages.zh.params]
     site_description = "泛音长笛"
+    tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
 [markup.goldmark.renderer]
   unsafe = true
