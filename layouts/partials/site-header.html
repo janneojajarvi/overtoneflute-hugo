@@ -20,12 +20,12 @@
     <a href="/overtoneflute-hugo/zh/" style="color: #ed8936; text-decoration: underline;">中文</a>
   </div>
 
-  <!-- Navigointivalikko (piilotetaan kielillä, joilla ei ole päävalikkoa, esim. jp) -->
-  {{ if ne .Site.Language.Lang "jp" }}
+  <!-- Navigointivalikko (piilotetaan japaninkieliseltä ja kiinankieliseltä sivustolta) -->
+  {{ if and (ne .Site.Language.Lang "jp") (ne .Site.Language.Lang "zh") }}
   <nav class="w-100">
     <ul class="custom-nav-menu">
-      {{ if not (in .RelPermalink "/en/") }}
-        <!-- SUOMI (näkyy kaikilla sivuilla, joiden osoitteessa ei ole /en/) -->
+      {{ if eq .Site.Language.Lang "fi" }}
+        <!-- SUOMI -->
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/" class="link white-90 hover-silver fs-6 fw7">Etusivu</a></li>
         
         <li class="custom-nav-item has-dropdown">
@@ -60,7 +60,7 @@
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/linkit/" class="link white-90 hover-silver fs-6 fw7">Linkit</a></li>
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/lahteet/" class="link white-90 hover-silver fs-6 fw7">Lähteet</a></li>
       {{ else }}
-        <!-- ENGLISH (näkyy sivuilla, joiden osoitteessa on /en/) -->
+        <!-- ENGLISH (näkyy englannin, saksan ja ranskan sivuilla) -->
         <li class="custom-nav-item"><a href="/overtoneflute-hugo/en/" class="link white-90 hover-silver fs-6 fw7">Home</a></li>
         <li class="custom-nav-item has-dropdown">
           <a href="/overtoneflute-hugo/en/mika-on-pitkahuilu/" class="link white-90 hover-silver fs-6 fw7">What is overtone flute ˅</a>
