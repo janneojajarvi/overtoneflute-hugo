@@ -1,5 +1,9 @@
 ---
 title: "Sormitusmerkinnät"
+description: "Ohjeet pitkähuilunuottien sormitusmerkintöjen eli tabulatuurien lukemiseen."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Tämän sivuston nuottien alle olen merkinnyt pitkähuilun sormitusohjeet eli eräänlaiset tabulatuurimerkinnät. Käytännössä sormitusohjeet kertovat onko huilun pää kokonaan tai osittain avoin tai peitetty. Tässä sormitusmerkintöjen lukuohjeet:
