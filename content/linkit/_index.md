@@ -4,18 +4,15 @@ title: "Linkit"
 
 * [http://overtone-flute.com/](http://overtone-flute.com/)
 * [http://www.ofsdal.no/fl%C3%B8yter.php](http://www.ofsdal.no/fl%C3%B8yter.php)
-* [http://raunonieminen.com/sivusto/soitinrakentaja.php?sivu=puhaltimet](http://raunonieminen.com/sivusto/soitinrakentaja.php?sivu=puhaltimet)
-* [http://uulu.fi/product/pitkahuilu/](http://uulu.fi/product/pitkahuilu/)
+* [https://uulu.fi/101/pitkahuilu](https://uulu.fi/101/pitkahuilu)
 
 Eräs YouTubesta löytyvä ohje pitkähuilun rakennukseen: [https://www.youtube.com/watch?v=gz0L05YHL90](https://www.youtube.com/watch?v=gz0L05YHL90)
-
-Munniharpunsoiton itseopiskeluun: [http://pelimanni.net/munniharppu/](http://pelimanni.net/munniharppu/)
 
 Tietopaketti ja oppimateriaalia huuliharpusta: [https://huuliharppu.fi/](https://huuliharppu.fi/)
 
 **Soitinrakentajat ja verkkokaupat:**
 * [http://raunonieminen.com/](http://raunonieminen.com/)
-* [http://uulu.fi/product/pitkahuilu/](http://uulu.fi/product/pitkahuilu/)
+* [http://uulu.fi/](https://uulu.fi/101/pitkahuilu)
 * [http://maxbrumbergflutes.eu/](http://maxbrumbergflutes.eu/)
 * [http://shop.nadishana.com](http://shop.nadishana.com)
 * [http://www.fujaraflutes.com/overtone-flutes/](http://www.fujaraflutes.com/overtone-flutes/)
