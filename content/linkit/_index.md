@@ -19,7 +19,7 @@ Tietopaketti ja oppimateriaalia huuliharpusta: [https://huuliharppu.fi/](https:/
 * [http://www.ofsdal.no/](http://www.ofsdal.no/)
 * [http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm](http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm)
 * [http://www.fredmansmusik.com](http://www.fredmansmusik.com)
-* [http://www.afolk.hu/bolt/index.php/en/](http://www.afolk.hu/bolt/index.php/en/)
+* [http://www.afolk.hu](https://www.afolk.hu/bolt/index.php/en/Tilinko/View-all-products.html)
 
 ## Valikoima youtube-videoita aakkosjärjestyksessä:
 *(suluissa pitkähuilun soittaja)*
