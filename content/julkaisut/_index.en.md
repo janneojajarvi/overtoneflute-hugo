@@ -11,7 +11,7 @@ Here is a list of publications related to the overtone flute and recordings feat
 <p style="line-height: 1.8; margin-bottom: 1.5rem;">
 <a href="https://payhip.com/b/n04oe" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">NEW DIGITAL SHEET MUSIC AVAILABLE: Ojajärvi, Janne: Traditional Folk Tunes for Willow Flute (2024)</a><br />
 Goss, Katherine: <em>Tunes for Willow Flutes</em> (2023)<br />
-Ojajärvi, Janne: <a href="https://kauppa.kansanmusiikki-instituutti.fi/tuote/24693489" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Pitkähuilu - Opas sormireiättömien yläsävelhuilujen soittamiseen ja rakentamiseen</a> (2022).
+Ojajärvi, Janne: <a href="https://kansanmusiikkiliitto.fi/tuote/ojajarvi-janne-pitkahuilu-opas-sormireiattomien-ylasavelhuilujen-soittamiseen-ja-rakentamiseen" target="_blank" rel="noopener" style="color: #ed8936; text-decoration: underline;">Pitkähuilu - Opas sormireiättömien yläsävelhuilujen soittamiseen ja rakentamiseen</a> (2022).
 </p>
 
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Music</h3>
