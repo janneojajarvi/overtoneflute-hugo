@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilujulkaisut"
+description: "Lista pitkähuilua sisältävistä äänite- ja kirjajulkaisuista"
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
