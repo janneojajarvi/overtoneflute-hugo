@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilun historia Suomessa"
+description: "Pitkähuilun historia Suomessa ja miten se näyttäytyy nykypäivänä."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Pitkähuilun varhaisin edeltäjä lienee ollut luuhuilu, joita on säilynyt aina kivikaudelta asti. Eurooppalaisessa kansankulttuurissa yleisin ja laajimmalle levinnyt huilusoitin on saamelaisten tuntema normaalipajupilli. Voidaan olettaa, että kuoriputkesta tehty huilusoitinta on soitettu länsi-, lounais- ja etelärannikolla kivikaudella, ja myöhemmin, kun alkuperäiskansa oli sekoittunut indogermaaneihin, Kiukaisten myöhäiskivikautisen kulttuurin alueella. Saksalaisen eurooppalaisista tulppakanavahuiluista väitelleen Herman Moeckin kirjoitukset tukevat olettamusta, jonka mukaan pitkähuilut olisivat olleet Suomessa varhaisin huilulaji ja että muut lajit ovat sen johdoksia.
