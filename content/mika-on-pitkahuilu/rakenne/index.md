@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilun rakenne"
+description: "Pitkähuilun rakenne, osat ja materiaalit."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Pitkähuilut voidaan jakaa äänenmuodostukseltaan kahteen eri tyyppiin: tulppakanavahuilut ja reunahuilut. Näissä kahdessa erona on se, miten ilma kulkeutuu puhallettaessa äänisärmään. Puhallusreiän sijainnin mukaan huilut voidaan taas jakaa pää- ja sivupuhalteisiin huiluihin.
