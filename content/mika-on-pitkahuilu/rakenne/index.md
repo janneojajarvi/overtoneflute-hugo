@@ -34,7 +34,7 @@ Suurin osa Suomessa nykyään rakennettavista pitkähuiluista on sivupuhalteisia
   Selaimesi ei tue äänisoitinta.
 </audio>
 
-### Ilmavaseintinen pitkähuilu
+### Ilmavasointinen pitkähuilu
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/overtoneflute-hugo/audio/huilu_steinar.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
