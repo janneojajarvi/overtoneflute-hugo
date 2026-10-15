@@ -1,5 +1,9 @@
 ---
 title: "Tekijästä & kontakti"
+description: "Tietoa ovetoneflute.fi-sivuston luojasta Janne Ojajärvestä."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 <div style="margin: 20px 0;">
@@ -11,7 +15,7 @@ title: "Tekijästä & kontakti"
   <iframe width="100%" height="315" src="https://www.youtube.com/embed/3RBq0hZvRrY?is=X_FSfGsgpz_Bw_5W" title="Hurja Halla trio - Märranfest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Janne Ojajärvi on musiikin maisteri ja musiikkipedagogi, joka on erikoistunut kansanomaisiin puhallinsoittimiin, erityisesti pitkähuiluihin ja huuliharppuihin. Musiikkona hän työskentelee huuliharpuilla, kosketinsoittimilla, laululla sekä pitkähuilulla. Janne käyttää usein muusikon työssään myös kurkkulaulua, pitkähuilua, muniharppua, lyömäsoittimia, sekä konemusiikin keinoja, sekä konemusiikin keinoja. Janne valmistui Karelia-ammattikorkeakoulusta musiikkipedagogiksi (AMK) huuliharpunsoittoon suuntautuneena. Janne valmistui vuonna 2019 musiikin maisteriksi Sibelius-akatemiasta pääsoittimenaan huuliharput. Tällä hetkellä hän toimii aktiivisesti mm. yhtyeissä Ojajärvi Blom Ojajärvi, Hurja Halla ja Trio Beoir, sekä esiintyy soolona.
+Janne Ojajärvi on musiikin maisteri ja musiikkipedagogi, joka on erikoistunut kansanomaisiin puhallinsoittimiin, erityisesti pitkähuiluihin ja huuliharppuihin. Musiikkona hän työskentelee huuliharpuilla, kosketinsoittimilla, laululla sekä pitkähuilulla. Janne käyttää usein muusikon työssään myös kurkkulaulua, pitkähuilua, muniharppua, lyömäsoittimia, sekä musiikkiteknologian keinoja. Janne valmistui Karelia-ammattikorkeakoulusta musiikkipedagogiksi (AMK) huuliharpunsoittoon suuntautuneena. Janne valmistui vuonna 2019 musiikin maisteriksi Sibelius-akatemiasta pääsoittimenaan huuliharput. Tällä hetkellä hän toimii aktiivisesti mm. yhtyeissä Ojajärvi Blom Ojajärvi, Hurja Halla ja Trio Beoir, sekä esiintyy soolona.
 
 Soolo- ja yhtyekyöskentelyn lisäksi Janne on ollut osa erilaisia monitaiteellisia projekteja. Vuonna 2016 sai ensi-iltansa nykysirkusteos Kiven aika, jossa Janne on osa teoksen äänimaailman luovaa kolmihenkistä lauluyhtyettä. Keväällä 2017 esitetyn nykyteatteriteoksen ”Karavaani 2017” musiikillisena selkärankana toimineessa yhtyeessä Janne toi oman osansa äänimaailmaan huuliharpuilla, trumpetilla, kurkkulaululla, laululla, pitkähuiluilla, munniuharpulla ja perkussiosoittimilla.
 
