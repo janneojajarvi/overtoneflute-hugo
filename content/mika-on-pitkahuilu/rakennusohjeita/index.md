@@ -1,5 +1,9 @@
 ---
 title: "Rakennusohjeita"
+description: "Vinkkejä pitkähuilun rakentamisesta kiinnostuneille."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 <p style="font-size: 0.9rem; color: #a0aec0; margin-bottom: 1.5rem;">
