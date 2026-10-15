@@ -2,7 +2,7 @@
 title: "Building a willow flute from PVC pipe and a piece of willow"
 date: "2025-03-03"
 description: "A short tutorial video demonstrating how to build a willow flute using PVC pipe and a piece of willow."
-tags: ["Willow Flute", "Pitkähuilu", "Building", "Tutorial", "PVC"]
+tags: ["Willow Flute", "Pitkähuilu", "Building", "Tutorial", "PVC", "pikkvile", "sälgflöjt", "seljefløyte", "obertonflöte", "overtone flute", "ojajärvi", "tilinca", "telenka", "kalyuka"]
 categories: ["Building"]
 draft: false
 ---
