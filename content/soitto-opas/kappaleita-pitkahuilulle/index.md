@@ -47,7 +47,7 @@ Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin: 20px 0;">
   <div>📄 <a href="/overtoneflute-hugo/pdf/pitkisblues2.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Pitkisblues 2</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/wp-177967657294.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Oikotie</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/oikotie.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Oikotie</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/nordfjordhallingen.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Nordfjordhallingen</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/sparve-lilla.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Sälgflöjtism</a></div>
 </div>
