@@ -11,7 +11,7 @@ title: "Sources"
   <li style="margin-bottom: 0.75rem;">Joutsenlahti, Riitta-Liisa. 2000. Sormireiätön pilli – Kokemuksia ja näkemyksiä pitkähuilusta.</li>
   <li style="margin-bottom: 0.75rem;">Laaksonen, Jukka. 2006. Äänityön kivijalka.</li>
   <li style="margin-bottom: 0.75rem;">Leisiö, Timo. 1983. Suomen ja Karjalan vanhankantaiset torvi- ja pillisoittimet. Kansanmusiikki-instituutti.</li>
-  <li style="margin-bottom: 0.75rem;"><a href="https://kamukanta.fi/english/" target="_blank" style="color: #ed8936; text-decoration: underline;">Kamukanta.fi (a lot of suff about Finnish folk music)</a></li>
+  <li style="margin-bottom: 0.75rem;"><a href="https://kamukanta.fi/english/" target="_blank" style="color: #ed8936; text-decoration: underline;">Kamukanta.fi</a></li>
   <li style="margin-bottom: 0.75rem;">Luentomuistiinpanot Rauno Niemisen pitkähuilunrakennuskurssilta. 2016.</li>
   <li style="margin-bottom: 0.75rem;">Lund, Cajsa S. 2003. Den gröna musiken. s. 5-6.</li>
   <li style="margin-bottom: 0.75rem;">Nieminen, Rauno. 2000. Styrbjörn Bergelt – pitkähuilun taitaja, Friiti 3/2000, 10–11</li>
