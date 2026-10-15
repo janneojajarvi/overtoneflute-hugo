@@ -1,6 +1,8 @@
 ---
 title: "What is overtone flute"
+description: "Discover the history, tradition, and acoustic principles of the Finnish overtone flute (pitkähuilu) and its global equivalents like the seljefløyte."
 ---
+
 
 <div class="tc pv2">
   <img src="/overtoneflute-hugo/images/dsc_4956.jpg" alt="Tapani Varis" style="max-width: 100%; height: auto; border-radius: 2px;">
