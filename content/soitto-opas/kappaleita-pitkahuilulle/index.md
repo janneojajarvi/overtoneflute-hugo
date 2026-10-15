@@ -29,7 +29,7 @@ Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä
   <div>📄 <a href="/overtoneflute-hugo/pdf/koti-polka.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Koti polka</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/labajalg-torupillilugu-2.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Labajalg "Torupillilugu"</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/leikade-liiso.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Leikade liiso</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/polska-fracc8an-bohuslaen.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Halling från Bohuslän</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/halling-from-bohuslaen.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Halling från Bohuslän</a></div>
 </div>
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.4rem;">Keski-vaikeat</h3>
@@ -48,7 +48,7 @@ Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä
 <div style="display: flex; flex-direction: column; gap: 12px; margin: 20px 0;">
   <div>📄 <a href="/overtoneflute-hugo/pdf/pitkisblues2.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Pitkisblues 2</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/wp-177967657294.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Oikotie</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/vimpelin-myllypolkka-pitkis.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Nordfjordhallingen</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/nordfjordhallingen.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Nordfjordhallingen</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/sparve-lilla.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Sälgflöjtism</a></div>
 </div>
 
@@ -56,12 +56,12 @@ Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin: 20px 0;">
   <div>📄 <a href="/overtoneflute-hugo/pdf/veitsen-teracc8allacc8.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Veitsen terällä</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/kaarlo-salmisen-valssi-pitkis.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Fundrar</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/fundrar.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Fundrar</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/taklax-1034-pitkis.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Taklax 1034</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/angelisko.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">A-taklax (Taklax 939)</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/a-taklax" target="_blank" style="color: #ed8936; text-decoration: underline;">A-taklax (Taklax 939)</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/satiaisen-polska.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Satiaisen polska</a></div>
   <div>📄 <a href="/overtoneflute-hugo/pdf/taklax-958-pitkis.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Taklax 958</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/franska-katrilli-pitkis.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Emma-valssi</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/emma-valssi.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Emma-valssi</a></div>
 </div>
 
 <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 3rem; border-top: 1px solid #2d3748; padding-top: 1rem;">
