@@ -10,7 +10,7 @@ type: "page"
 * Joutsenlahti, Riitta-Liisa. 2000. Sormireiätön pilli – Kokemuksia ja näkemyksiä pitkähuilusta.
 * Laaksonen, Jukka. 2006. Äänityön kivijalka.
 * Leisiö, Timo. 1983. Suomen ja Karjalan vanhankantaiset torvi- ja pillisoittimet. Kansanmusiikki-instituutti.
-* Kansanmusiikki.fi
+* Kamukanta.fi
 * Luentomuistiinpanot Rauno Niemisen pitkähuilunrakennuskurssilta. 2016.
 * Lund, Cajsa S. 2003. Den gröna musiken. s. 5-6.
 * Nieminen, Rauno. 2000. Styrbjörn Bergelt – pitkähuilun taitaja, Friiti 3/2000, 10–11.
