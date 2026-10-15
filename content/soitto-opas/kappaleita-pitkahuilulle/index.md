@@ -1,5 +1,9 @@
 ---
 title: "Kappaleita pitkähuilulle"
+description: "Ohjelmistoa pitkähuilulle nuotteina ja ääninäytteinä sormitusmerkintöjen kera."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä sävelmistä pitkähuilulle sovitettuja versioita ja osa sävellettyjä kappaleita pitkähuilun soittajilta, jotka ovat antaneet luvan kappaleidensay käyttöön tällä oppimateriaalisivustolla. Kaikki ääninäytteet on soittanut ja äänittänyt tämän sivun [tekijä](/overtoneflute-hugo/tekijasta/).
