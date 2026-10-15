@@ -17,7 +17,6 @@ Ojajärvi, Janne: <a href="https://kansanmusiikkiliitto.fi/tuote/ojajarvi-janne-
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Äänitteet</h3>
 
 <p style="line-height: 1.8; margin-bottom: 1.5rem; font-size: 0.95rem;">
-  {{ range sort site.Data.albums }}
-    {{ . }}<br />
-  {{ end }}
+{{< albumlist >}}
+
 </p>
