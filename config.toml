@@ -25,12 +25,12 @@ theme = 'ananke'
     site_description = "Overtone Flute & Pitkähuilu"
     tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
-[languages.ja]
+[languages.jp]
   languageCode = 'ja-jp'
   languageName = '日本語'
   weight = 3
   title = 'Overtoneflute.fi'
-  [languages.ja.params]
+  [languages.jp.params]
     site_description = "Overtone Flute & Pitkähuilu"
     tagline = "Overtone Flute & Pitkähuilu | Tutorials, Sheet Music and Resources"
 
