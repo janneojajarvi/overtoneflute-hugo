@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilun asteikko"
+description: "Pitkähuilun asteikko sanoin, kuvin ja ääninäytteenä."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Pitkähuilun asteikko pohjautuu harmoniseen yläsävelsarjaan. Sävelten tarkkaan vireeseen vaikuttavat muun muassa soittimen osien rakenne ja soittajan suuontelon tilavuus. Yläsävelasteikkoa kuulee myös esim. kurkkulaulussa ja munniharpun soitossa. Pitkähuilumelodiat liikkuvat yleensä kahdeksannen yläsävelen (kerrannaisen) paikkeilla. Teoriassa yläsävelsarjan voisi soittaa pelkällä avotekniikalla sulkematta putken päätä, mutta tällöin mm. kahdeksas yläsävel soisi huilussa epämiellyttävän korkealta. Tukkotekniikalla saatavassa asteikossa soi vain joka toinen yläsävel. Tukkotekniikkaa ja avotekniikkaa yhdistelemällä saadaan korvalle miellyttävältä korkeudelta soiva yläsävelasteikko. Asteikkoa voidaan laajentaa entisestään sulkemalla putken pää vain osittain esim. 1/2 tai 3/4.
