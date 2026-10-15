@@ -1,5 +1,9 @@
 ---
 title: "Hengitys"
+description: "Ohjeita pitkähuilun soiton hengitystekniikasta."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Hyvä pitkä hengitys lähtee palleasta asti kohti keuhkojen yläosaa. Ulos hengitettäessä ilma pusketaan ulos keuhkojen alaosasta alkaen. Tehokasta hengitystekniikkaa voi harjoitella esimerkiksi soittamalla pitkiä ääniä keskittyneesti tarkkaillen. Soiton lomassa keuhkot tietysti lopulta vääjäämättä tyhjenevät, jolloin soittajan täytyy hengittää sisään. Tehokas sisäänhengitys opitaan toiston kautta harjouksia ja ohjelmistoa soittaessa. Aluksi voit kokeilla kuinka pitkälle kappaletta ilma riittää. Luontevia paikkoja hengitykselle ovat melodian fraasien loput tai taitekohdat, mutta soittajalla on toki vapaus pitää hengitystauko missä hän itse haluaa.
