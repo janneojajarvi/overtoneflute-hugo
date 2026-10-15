@@ -7,7 +7,7 @@ Pitkähuilut voidaan jakaa äänenmuodostukseltaan kahteen eri tyyppiin: tulppak
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
   <div>
     <img src="/overtoneflute-hugo/images/sivupuhalteinen.jpg" alt="Sivupuhalteinen tulppakanavahuilu" style="max-width: 100%; height: auto;" />
-    <p style="text-align: center; font-size: 0.9rem;">Sivupuhaltinen tulppakanavahuilu (kuvasta Ying Ming Zhang)</p>
+    <p style="text-align: center; font-size: 0.9rem;">Sivupuhalteinen tulppakanavahuilu (kuvasta Ying Ming Zhang)</p>
   </div>
   <div>
     <img src="/overtoneflute-hugo/images/reunahuilu.jpg" alt="Reunahuilu" style="max-width: 100%; height: auto;" />
@@ -17,7 +17,7 @@ Pitkähuilut voidaan jakaa äänenmuodostukseltaan kahteen eri tyyppiin: tulppak
 
 Pitkähuilun rakentaminen on melko yksinkertaista. Putken pituus vaikuttaa huilun vireeseen, paksuus sointiin ja voimakkuuteen. Rakennusmateriaalilla on vaikutusta mm. huilun sointiin sekä soittotuntumaan.
 
-Pitkähuilujen putken materiaalina käytetään yhä enenevässä määrin PVC-muovia. Puhalluspään peittävän tulpan materiaalina käytetään mm. puuta ja muuvia. Huilun toimintakykyä parantamaan voi tulpan jatkeeksi laittaa putken sisälle myös palan muovia, joka ei turpoa kosteudesta ja siten tuki huilun puhalluspäätä.
+Pitkähuilujen putken materiaalina käytetään yhä enenevässä määrin PVC-muovia. Puhalluspään peittävän tulpan materiaalina käytetään mm. puuta ja muovia. Huilun toimintakykyä parantamaan voi tulpan jatkeeksi laittaa putken sisälle myös palan muovia, joka ei turpoa kosteudesta ja siten tuki huilun puhalluspäätä.
 
 Myös puiset sesonkimateriaalit ovat käteviä, joskin lyhytikäisiä. Raitapaju ja harmaapaju ovat erinomaisia pitkähuilun rakennusmateriaaleja, koska kuoriosa ei hajoa helposti sitä irrotettaessa.
 
