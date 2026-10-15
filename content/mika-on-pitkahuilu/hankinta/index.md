@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilun hankinta"
+description: "Vinkkejä ja linkkejä pitkähuilun hankintaan."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Koska sekä soitin että soittaja ovat yksilöitä, pitkähuilua hankkiessa on suositeltavaa kokeilla soitinta ennen ostopäätöksen tekemistä. Osa soittimista soi paremmin matalalta, osa korkealta, ja sopivan soittimen valintaan vaikuttavat soitettava ohjelmisto sekä omat soittotekniikat. Ensimmäisen huilun hankkiminen on usein kokeilua ja hakemista, ja valintaa helpottaa huomattavasti, jos rakentaja tarjoaa ääninäytteitä soittimistaan.
