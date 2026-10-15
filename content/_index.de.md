@@ -1,6 +1,8 @@
 ---
 title: "Obertonflöte"
+description: "Entdecken Sie die finnische Obertonflöte und Weidenflöte (pitkähuilu). Erfahren Sie mehr über Naturtöne, Spieltechniken, Übungen und Noten für dieses traditionelle nordische Instrument."
 ---
+
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
   <img src="/overtoneflute-hugo/images/banner.jpg" alt="Obertonflöte Detail" style="max-width: 100%; height: auto; border-radius: 2px;">
