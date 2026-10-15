@@ -1,5 +1,9 @@
 ---
 title: "Yläsävelsarja"
+description: "Tietoa harmonisesta yläsävelsarjasta, johon pitkähuilun asteikko perustuu."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Akustinen ääni koostuu perustaajuudesta sekä sen yläpuolelle syntyvistä ylä-äänistä eli yläsävelistä, joiden keskinäiset voimakkuudet vaikuttavat suoraan äänen sointiväriin. Perustaajuus määrittää kuultavan äänen varsinaisen sävelkorkeuden.
