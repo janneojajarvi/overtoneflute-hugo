@@ -1,5 +1,9 @@
 ---
 title: "Pitkähuilumusiikki"
+description: "Pitkähuilulla soitettavan musiikin ja melodiikan erityispiirteet."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 ![Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen](/overtoneflute-hugo/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg)
