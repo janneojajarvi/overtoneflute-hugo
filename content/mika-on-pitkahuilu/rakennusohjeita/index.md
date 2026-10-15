@@ -3,7 +3,7 @@ title: "Rakennusohjeita"
 ---
 
 <p style="font-size: 0.9rem; color: #a0aec0; margin-bottom: 1.5rem;">
-Tässä muutama ohje pitkähuilun rakennukseen. <em>Overtoneflute.fi ei ota kantaa tai vastuuta verkosta löytyvien ohjeiden oikeellisuuteen</em> tai laatuun.
+Tässä muutama ohje pitkähuilun rakentamiseen. <em>Overtoneflute.fi ei ota kantaa tai vastuuta verkosta löytyvien ohjeiden oikeellisuuteen</em> tai laatuun.
 </p>
 
 <p style="font-weight: bold; margin-top: 1.5rem; margin-bottom: 1rem;">
