@@ -1,6 +1,8 @@
 ---
 title: "柳笛"
+description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛（柳笛 / Pitkähuilu）的演奏教程、乐谱、音频及自学资料，带你探索天然倍音的音乐世界。"
 ---
+
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
   <img src="/overtoneflute-hugo/images/banner.jpg" alt="柳笛细节" style="max-width: 100%; height: auto; border-radius: 2px;">
