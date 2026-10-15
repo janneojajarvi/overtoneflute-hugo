@@ -1,5 +1,9 @@
 ---
 title: "Mikä on pitkähuilu"
+description: "Tietoa suomalaisesta yläsävelhuilusta, pitkähuilusta."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 ---
 
 Pitkähuilu on puhalluspäästä suljettu ja loppupäästä avoin huilu, jossa ei ole sormiaukkoja. Huilulla on perinteisesti ollut useita eri kutsumanimiä. Suomessa sitä on kutsuttu mm. lötköksi, pajuhuiluksi, pajupilliksi, kävelykepiksi, leppäpilliksi, soropilliksi, putkipilliksi, yläsävelhuiluksi, luonnonsävelhuiluksi ja pitkähuiluksi. Tällä sivustolla kutsun sitä pitkähuiluksi, johtuen termin laajasta vakiintumisesta suomalaisen kansanmusiikin kentällä.
