@@ -1,8 +1,11 @@
 ---
 title: "OBO kollektiivi - Muamo (live)"
 date: "2025-06-02"
+description: "Live performance of 'Muamo' by OBO kollektiivi recorded at Musiikkitalo, Helsinki featuring willow flutes, cittern, cello, bass, and jaw harp."
+tags: ["OBO kollektiivi", "Live", "Pitkähuilu", "Willow Flute", "Musiikkitalo"]
+categories: ["Live"]
+draft: false
 ---
-
 
 <div style="margin: 20px 0;">
   <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/duKuMZ_5kx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
