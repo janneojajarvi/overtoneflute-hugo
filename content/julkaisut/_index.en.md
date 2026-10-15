@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-Here is a continuously updating list of publications related to overtone flute. If you notice that some publication is missing, please let me know :)
+Here is a list of publications related to the overtone flute and recordings featuring overtone flute playing, updated with irregular regularity. If you notice that a publication is missing, please let me know :)
 </p>
 
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Sheet music</h3>
