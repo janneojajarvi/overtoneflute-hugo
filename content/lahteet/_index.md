@@ -1,5 +1,9 @@
 ---
 title: "Lähteet"
+description: "Lista tämän sivuston laatimiseen käytetyistä tietolähteistä."
+images:
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
+draft: false
 type: "page"
 ---
 
