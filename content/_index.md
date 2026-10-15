@@ -2,7 +2,7 @@
 title: "Etusivu"
 description: "Tietoa, oppimateriaalia, nuotteja ja ääninäytteitä pitkähuilusta (willow flute, sälgflöjt, seljefløyte, overtone flute). Tervetuloa oppimaan!"
 images:
-  - "/overtoneflute-hugo/images/banner.jpg"
+  - "/overtoneflute-hugo/images/huiluukko.jpg"
 draft: false
 ---
 
