@@ -1,6 +1,8 @@
 ---
 title: "Flûte Harmonique – Flûtes artisanales de Finlande"
+description: "Découvrez la flûte harmonique scandinave et la flûte en saule (pitkähuilu). Apprenez les techniques de jeu, explorez les harmoniques, les exercices et les partitions pour ce magnifique instrument traditionnel."
 ---
+
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
   <img src="/overtoneflute-hugo/images/banner.jpg" alt="Flûte harmonique détail" style="max-width: 100%; height: auto; border-radius: 2px;">
