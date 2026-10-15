@@ -22,9 +22,7 @@ Sweden: Jonas Simonson (Göteborg).
 Norway: Steinar Ofsdal.
 </p>
 
-<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-New! -> <a href="#" style="color: #ed8936; text-decoration: underline;">Online lessons</a> by Janne Ojajärvi (Skype or something similar).
-</p>
+
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
 If you are a willow flute teacher and want to be mentioned on this site please contact me.
