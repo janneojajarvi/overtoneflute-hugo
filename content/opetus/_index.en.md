@@ -7,7 +7,7 @@ Overtone flute teachers are presently quite rare, but here is some.
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-Finland: Janne Ojajärvi (Joensuu/Online lessons), Mimmi Laaksonen (Helsinki), Kirsi Ojala (Helsinki), Leena Joutsenlahti (Helsinki), Tapani Varis (Helsinki) & Rauno Nieminen (Ikaalinen).
+Finland: Janne Ojajärvi (Helsinki/Online lessons), Mimmi Laaksonen (Helsinki), Kirsi Ojala (Helsinki), Leena Joutsenlahti (Helsinki), Tapani Varis (Helsinki) & Rauno Nieminen (Ikaalinen).
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
