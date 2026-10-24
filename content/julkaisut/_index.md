@@ -24,3 +24,23 @@ Ojajärvi, Janne: <a href="https://kansanmusiikkiliitto.fi/tuote/ojajarvi-janne-
 {{< albumlist >}}
 
 </p>
+
+<h3 style="margin-top: 2rem; margin-bottom: 1rem;">Kirjallisuus</h3>
+
+<ul style="line-height: 1.8;">
+  <li>Erkeus, A., Gustafsson, R., Kåll, M., Näslund, Å. &amp; Oijens, K. 1979. <em>Instrument att bygga och spela på – Ljudlekslänken</em>. S. 22.</li>
+  <li>Goss, Catherine. 2023. <em>Tunes for Willow Flutes</em>.</li>
+  <li>Joutsenlahti, Riitta-Liisa. 2000. <em>Sormireiätön pilli – Kokemuksia ja näkemyksiä pitkähuilusta</em>.</li>
+  <li>Joutsenlahti, Riitta-Liisa. 1996. <em>Pedipaketti: Pitkähuilu - soitto-opas</em>.</li>
+  <li>Leisiö, Timo. 1983. <em>Suomen ja Karjalan vanhankantaiset torvi- ja pillisoittimet</em>.</li>
+  <li>Lund, Cajsa S. 2003. <em>Den gröna musiken</em>. s. 5-6.</li>
+  <li>Nieminen, Rauno. 2000. Styrbjörn Bergelt – pitkähuilun taitaja, <em>Friiti</em> 3/2000, 10–11.</li>
+  <li>Nieminen, Rauno. 2000. Soittimia Rakentamaan, Pitkähuilu, <em>Friiti</em> 3/2000, 8–10.</li>
+  <li>Nieminen Rauno. 2006. <em>Kansansoittimet. Tekniset Käden taidot</em>.</li>
+  <li>Ojajärvi, Janne. 2022. <em>Pitkähuilu - Opas sormireiättömien yläsävelhuilujen soittamiseen ja rakentamiseen</em>.</li>
+  <li>Yvert, Jean-Pierre. 1996. <em>Spela sälgflöjt – Playing the willow flute</em>.</li>
+</ul>
+
+<p style="margin-top: 3rem; color: #a0aec0; font-size: 0.9rem;">
+© Janne Ojajärvi
+</p>
