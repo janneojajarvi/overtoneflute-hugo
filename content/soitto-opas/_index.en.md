@@ -26,11 +26,11 @@ Listening closely to the overtone scale helps your ear adapt to its characterist
   <p style="color: #a0aec0; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.25rem;">
     Stay updated with the latest willow flute tutorials, sheet music releases, and stories from the Finnish woods. Subscribe to the newsletter to receive resources directly in your inbox.
   </p>
-  <form style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-    <input type="email" placeholder="Type your email..." style="flex: 1; min-width: 200px; padding: 0.75rem; border-radius: 4px; border: 1px solid #4a5568; background-color: #111827; color: #ffffff;" required>
-    <button type="submit" style="padding: 0.75rem 1.25rem; background-color: #e2e8f0; color: #1a202c; border: none; border-radius: 4px; font-weight: 600; cursor: pointer;">Join the Global Community</button>
-  </form>
-</div>
+ <!-- Formspree-lomake -->
+<form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 400px; margin: 2rem auto; display: flex; flex-direction: column; gap: 1rem;">
+  <input type="email" name="email" placeholder="Sähköpostiosoitteesi" required style="padding: 10px; font-size: 1rem; border-radius: 4px; border: 1px solid #ccc;">
+  <button type="submit" style="padding: 10px 20px; font-size: 1rem; background-color: #ed8936; color: white; border: none; border-radius: 4px; cursor: pointer;">Join the Global Community</button>
+</form>
 
 <p style="font-size: 0.95rem; color: #a0aec0; margin-top: 3rem; border-top: 1px solid #2d3748; padding-top: 1rem;">
 &copy; Janne Ojajärvi
