@@ -2,7 +2,7 @@
 title: "Pitkähuilun opetus"
 ---
 
-Pitkähuilun opetusta tarjoaa toistaiseksi harva opettaja. Ajoittain on tarjolla pitkähuilun alkeiskursseja Käpylän musiikkiopistossa (www.kmo.fi) Helsingissä. Yksityisopetusta tarjoaa ajoittain aikataulujensa salliessa tämän sivun laatija [Janne Ojajärvi](https://janneojajarvi.com/) (Joensuu/etäopetus) lisäksi mm. seuraavat opettajat:
+Pitkähuilun opetusta tarjoaa toistaiseksi harva opettaja. Ajoittain on tarjolla pitkähuilun alkeiskursseja Käpylän musiikkiopistossa (www.kmo.fi) Helsingissä. Yksityisopetusta tarjoaa ajoittain aikataulujensa salliessa tämän sivun laatija [Janne Ojajärvi](https://janneojajarvi.com/) (Helsinki/etäopetus) lisäksi mm. seuraavat opettajat:
 
 Suomi: Mimmi Laaksonen (Helsinki), Kirsi Ojala (Helsinki), Leena Joutsenlahti (Helsinki), Tapani Varis (Helsinki) & Rauno Nieminen (Ikaalinen).  
 Viro: Hann-Liis Lao (Tallinna).  
