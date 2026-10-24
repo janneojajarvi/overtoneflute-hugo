@@ -1,44 +1,35 @@
 ---
-title: "Exercises"
+title: "Exercises & Audio"
+date: 2026-04-24
+draft: false
 ---
 
-<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-This section provides a variety of exercises designed to develop your overtone flute technique through both sheet music and audio samples. Sheet music reading proficiency is not strictly required if you listen to the audio examples while playing a D-tuned overtone flute (or by adjusting the sample pitch to match your instrument's key). All exercises and tunes are transposed one octave higher in the notation compared to the overtone scale diagram found on the previous page, ensuring cleaner reading while preserving the correct interval structures.
-</p>
+From this site you can find some exercises to help developing your playing technic with overtone flute. All exercises can be found both as music sheets and as audio samples. Note reading skills are not necessary if you listen the audio samples and play D-tuned overtone flute (or if you change sample’s pitch to the key of your flute). I have written all exercises and tunes one octave higher than described in the diagram on page “Overtone flute scale”. In the diagram below the overtone flute scale is represented in the key of D and in the same octave than in the exercises and in the songs. The accidentals of the music sheets are shown in a way that makes it easier to read overtone flute tune notes. Remember that the tuning and intonation of the overtone flute is not the same than e.g. piano’s equal tuning. To keep it clear I have written all tunes by using basic stave, basic notes and basic accidentals. Some of the music sheets are written to overtone flutes with different keys to ensure that they can be comfortably played with chosen flute keys. Some songs may be unpleasantly high for basic D-tunes flute (high D).
 
-<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-Natural harmonic scales differ slightly from equal temperament systems like the piano. To maintain clarity, all tunes are written using standard staff lines and basic accidentals. Some pieces are adapted for different flute keys to ensure comfortable playability.
-</p>
+{{< figure src="https://overtoneflute.files.wordpress.com/2022/01/d-overtone-flute-scale.webp?w=1010" alt="A scale of D-tuned overtone flute in exercises and tunes" >}}
 
-<div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/scale.jpg" alt="A scale of D-tuned overtone flute in exercises and tunes" style="max-width: 100%; height: auto; border-radius: 2px;">
-  <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">A scale of D-tuned overtone flute in exercises and tunes</p>
+<div style="margin: 20px 0;">
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://api.soundcloud.com/playlists/1382946964&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </div>
 
-<div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/soundcloud-player.jpg" alt="Audio playlist preview" style="max-width: 100%; height: auto; border-radius: 2px;">
-</div>
-
-<h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.2rem;">Exercise Sheet Music (PDF)</h3>
+## Harjoitukset / Exercises
 
 <div style="display: flex; flex-direction: column; gap: 12px; margin: 20px 0;">
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-1.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 1: The first breath (Harjoitus 1)</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-2.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 2: Two open tones</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-3.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 3: Vowel color</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-4.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 4: Closed tones</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-5.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 5: Scale exercise & a new tone</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-6.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 6: A new tone</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-7.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 7: A new low tone</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-8.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 8: Octave scale</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-9.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 9: New challenges</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-10.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 10: Exercises for scale and breathing</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-11.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 11: Ornaments and grace notes</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-12.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 12: Partly closed flute end</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-13.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 13: Tying closed and/or open tones</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-14.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 14: FX</a></div>
-  <div>📄 <a href="/overtoneflute-hugo/pdf/exercise-15.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Exercise 15: Special FX</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_1.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 1: Ensimmäinen henkäys</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_2.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 2: Kaksi säveltä avotekniikalla</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_3.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 3: Vokaalisävyt</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_4.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 4: Tukkotekniikka</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_5.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 5: Skaalaharjoitus & uusi sävel</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_6.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 6: Uusi sävel</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_7.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 7: Uusi sävel matalalta</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_8.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 8: Oktaavin skaala</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_9.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 9: Uusia haasteita</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_10.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 10: Skaala- ja hengitystekniikkaharjoitus</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_11.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 11: Korut ja etuheleet</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_12.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 12: Osittain peitetty huilun pää</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_13.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 13: Tukko- tai avotekn. sävelen sitominen</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_14.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 14: Tehosteita</a></div>
+  <div>📄 <a href="/overtoneflute-hugo/pdf/harjoitus_15.pdf" target="_blank" style="color: #ed8936; text-decoration: underline;">Harjoitus 15: Erikoistehosteita</a></div>
 </div>
 
-<p style="font-size: 0.95rem; color: #a0aec0; margin-top: 3rem; border-top: 1px solid #2d3748; padding-top: 1rem;">
-&copy; Janne Ojajärvi
-</p>
+© Janne Ojajärvi
