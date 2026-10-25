@@ -26,8 +26,11 @@ description: "フィンランドの伝統楽器「柳の笛（ピトカフイル
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/infograph.png" alt="インフォグラフィック" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  <a href="/overtoneflute-hugo/jp/">
+    <img src="/overtoneflute-hugo/images/infograph.png" alt="インフォグラフィック" style="max-width: 100%; height: auto; border-radius: 2px;" />
+  </a>
 </div>
+
 
 <h3 style="color: #ffffff; font-size: 1.4rem; margin-top: 2rem; margin-bottom: 1rem;">伝統的な楽器との比較</h3>
 
