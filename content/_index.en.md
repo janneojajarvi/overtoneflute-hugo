@@ -6,13 +6,19 @@ images:
 draft: false
 ---
 
+<div class="tc pv2" style="margin-bottom: 2rem;">
+  <img src="/overtoneflute-hugo/images/ead7c2_ef5f8a78b68748049bd662018dd39c26_mv27e26050358053213285229..jpg" alt="Handcrafted wooden overtone flute showing the labium and mouthpiece detail." style="max-width: 100%; height: auto; border-radius: 2px;">
+</div>
+
 ## Your Online Resource for Overtone and Willow Flutes
  
 Learn to play the overtone flute (willow flute) with our free tutorials, sheet music, and guides. Explore the ancient Scandinavian sound and harmonic music today.
 
-_“Overtone flute, willow flute, pitkähuilu, sälgflöjt, seljefløyte, pikkvile, obertonflöte, flûte harmonique, koncovka, калюка...”_
+<div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
+  "Overtone flute, willow flute, pitkähuilu, sälgflöjt, seljefløyte, pikkvile, obertonflöte,  flûte harmonique, koncovka, kалюка..."
+</div>
 
-The objective of this site is to offer as much information, self-study material, repertoire (sheets & audio) and listening tips on the Scandinavian overtone flute, in one place. This site focuses especially on side-blown overtone flutes with no finger holes, though all the exercises and tunes can be played with most of the overtone flutes (with no finger holes).
+The objective of this site is to offer as much information, self-study material, repertoire (sheets & audio) and listening tips on the Scandinavian overtone flute, in one place. This site focuses especially on side-blown overtone flutes with no tone holes, though all the exercises and tunes can be played with most of the overtone flutes (with no tone holes).
 
 Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerkinnat/) here.
 
@@ -21,7 +27,7 @@ Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerki
 </div>
 
 <script>
-  // Lista YouTube-videoiden ID:istä (voit lisätä tähän niin paljon videoita kuin haluat)
+  // Lista YouTube-videoiden ID:istä
   const weeklyVideos = [
       "sQxQA46WuaY",
     "i54uu2Lc7jk",
@@ -71,12 +77,8 @@ Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerki
     "Z8Z51no1TD0",
     "B0guALHZg30",
     "jad2oY7elzA"
-    // Lisää tähän halutessasi lisää video-ID:itä pilkulla erotettuna, esim:
-    // "TOINEN_VIDEO_ID",
-    // "KOLMAS_VIDEO_ID"
   ];
 
-  // Apufunktio viikkonumeron laskemiseen, jotta video vaihtuu aina kerran viikossa
   function getWeekNumber(d) {
     d = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
     d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
@@ -85,24 +87,21 @@ Check out our [free fingering charts for willow flute](soitto-opas/sormitusmerki
     return weekNo;
   }
 
-  // Valitaan video viikkonumeron perusteella
   const now = new Date();
   const weekIndex = getWeekNumber(now) % weeklyVideos.length;
   const selectedVideoId = weeklyVideos[weekIndex];
 
-  // Upotetaan iframe sivulle dynaamisesti
   const container = document.getElementById('weekly-video-container');
   container.innerHTML = `
     <iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/${selectedVideoId}" title="Viikon video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   `;
 </script>
 
-
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the week</h3>
-
 
 Most of the exercises and tunes on this site are written for a flute tuned in D, but you can anyway play them with a flute of any key, though most of the audio samples are played with a D-flute. Congratulations to you that you have reached to this page and are perhaps willing to learn to play this ancient instrument. You are warmly welcome!
 
 If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](https://payhip.com/b/n04oe).
 
-© Janne Ojajärvi
+<div class="tc pv2" style="margin-top: 2rem; margin-bottom: 1.5rem;">
+  <img src="/overtoneflute-hugo/images/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24
