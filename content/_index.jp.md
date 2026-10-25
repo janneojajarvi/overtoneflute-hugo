@@ -41,13 +41,13 @@ draft: false
 自然な音色: 柳の笛は「自然の音階」を奏でます。その音色は、北欧の森や静かな湖畔を連想させる、素朴で神秘的な響きを持っています。  
 なぜ「柳の笛」と呼ばれるのか？
 
-{{< figure src="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" >}}
+{{< gallery >}}
+  {{< figure src="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" >}}
+  {{< figure src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" >}}
+  {{< figure src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" >}}
+  {{< figure src="/overtoneflute-hugo/images/image_editor_output_image-738131230-17680005122427206288715027356293.jpg" alt="" >}}
+{{< /gallery >}}
 
-{{< figure src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" >}}
-
-{{< figure src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" >}}
-
-{{< figure src="/overtoneflute-hugo/images/image_editor_output_image-738131230-17680005122427206288715027356293.jpg" alt="" >}}
 
 伝統的には、春に樹液が回り始めた柳の枝から皮をきれいに剥ぎ取って作られていました。現在では、一年中演奏を楽しめるように、木製やプラスチック製のモダンな柳の笛も広く普及しています。
 
