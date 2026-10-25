@@ -42,7 +42,7 @@ draft: false
 なぜ「柳の笛」と呼ばれるのか？
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <!-- Kuva 1 (Linkillä) -->
+  <!-- Kuva 1 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
     <a href="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" target="_blank" rel="noopener">
       <img src="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" style="width: 100%; height: auto; border-radius: 4px;" />
@@ -50,17 +50,24 @@ draft: false
   </div>
   <!-- Kuva 2 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <img src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" target="_blank" rel="noopener">
+      <img src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    </a>
   </div>
   <!-- Kuva 3 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <img src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" target="_blank" rel="noopener">
+      <img src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    </a>
   </div>
-  <!-- Kuva 4 (Päivitetty tiedostonimi) -->
+  <!-- Kuva 4 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <img src="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" target="_blank" rel="noopener">
+      <img src="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    </a>
   </div>
 </div>
+
 
 
 
