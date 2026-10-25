@@ -41,20 +41,24 @@ draft: false
 自然な音色: 柳の笛は「自然の音階」を奏でます。その音色は、北欧の森や静かな湖畔を連想させる、素朴で神秘的な響きを持っています。  
 なぜ「柳の笛」と呼ばれるのか？
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-  <div style="flex: 1 1 200px; max-width: 48%;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <!-- Kuva 1 (Linkillä) -->
+  <div style="flex: 1 1 45%; max-width: 48%;">
     <a href="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" target="_blank" rel="noopener">
       <img src="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" style="width: 100%; height: auto; border-radius: 4px;" />
     </a>
   </div>
-  <div style="flex: 1 1 200px; max-width: 48%;">
+  <!-- Kuva 2 -->
+  <div style="flex: 1 1 45%; max-width: 48%;">
     <img src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
   </div>
-  <div style="flex: 1 1 200px; max-width: 48%;">
+  <!-- Kuva 3 -->
+  <div style="flex: 1 1 45%; max-width: 48%;">
     <img src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
   </div>
-  <div style="flex: 1 1 200px; max-width: 48%;">
-    <img src="/overtoneflute-hugo/images/image_editor_output_image-738131230-17680005122427206288715027356293.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+  <!-- Kuva 4 (Päivitetty tiedostonimi) -->
+  <div style="flex: 1 1 45%; max-width: 48%;">
+    <img src="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
   </div>
 </div>
 
