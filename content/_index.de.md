@@ -57,7 +57,7 @@ Die meisten Übungen und Melodien auf dieser Website sind für Flöten in D gesc
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-Wenn Sie die Pflege dieser Seite unterstützen möchten, können Sie hier das PDF-Notenheft „Traditional Folk Tunes for Willow Flute“ (Traditionelle Volksweisen für Weidenflöte) <a href="#" target="_blank" style="color: #ed8936; text-decoration: underline;">erwerben</a>.
+Wenn Sie die Pflege dieser Seite unterstützen möchten, können Sie hier das PDF-Notenheft „Traditional Folk Tunes for Willow Flute“ (Traditionelle Volksweisen für Weidenflöte) <a href="https://payhip.com/b/n04oe" target="_blank" style="color: #ed8936; text-decoration: underline;">erwerben</a>.
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
