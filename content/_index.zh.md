@@ -24,8 +24,11 @@ description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛�
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/infograph_chn2.png" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <a href="/overtoneflute-hugo/zh/">
+    <img src="/overtoneflute-hugo/images/infograph_chn2.png" alt="芬兰传统乐器：柳笛" style="max-width: 100%; height: auto; border-radius: 2px;">
+  </a>
 </div>
+
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
 本网站上的大多数练习和曲目都是为 D 调笛子编写的，但你仍然可以用任何调子的笛子演奏它们，尽管大多数音频示例都是用 D 调笛子演奏的。恭喜你来到这个页面，也许你正渴望学习演奏这种古老的乐器。热烈欢迎你！
