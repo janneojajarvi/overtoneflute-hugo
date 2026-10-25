@@ -34,7 +34,7 @@ La plupart des exercices et des morceaux proposés sur site sont écrits pour de
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 2rem;">
-Si vous souhaitez soutenir la maintenance de cette page, vous pouvez acheter ici un livre de partitions au format PDF intitulé <a href="#" target="_blank" style="color: #ed8936; text-decoration: underline;">« Traditional Folk Tunes for Willow Flute »</a> (Mélodies folkloriques traditionnelles pour flûte en saule).
+Si vous souhaitez soutenir la maintenance de cette page, vous pouvez acheter ici un livre de partitions au format PDF intitulé <a href="https://payhip.com/b/n04oe" target="_blank" style="color: #ed8936; text-decoration: underline;">« Traditional Folk Tunes for Willow Flute »</a> (Mélodies folkloriques traditionnelles pour flûte en saule).
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
