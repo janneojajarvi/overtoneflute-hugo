@@ -120,14 +120,14 @@ Unlike the Native American flute, which uses a block and finger holes to create 
 Our overtone flutes share the same acoustic soul as the South African Umtshingo or Igemfe.
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_fbbe08cc653d4d079ac02f60ebd8706a_mv2525022060976011245.jpg?w=490" alt="A collection of various Scandinavian overtone flutes and willow flutes in different sizes." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="A collection of various Scandinavian overtone flutes and willow flutes in different sizes." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">A pile of overtone flutes.</figcaption>
 </figure>
 
 If you enjoy the meditative and earthy qualities of world flutes like the Bansuri or the Quena, the overtone flute’s ability to produce haunting, ethereal melodies with just a breath will feel both familiar and refreshingly different. It is the perfect instrument for those looking to explore harmonic music and intuitive playing.
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_aba7ff69d13449d883e992b2082e658b_mv2_d_3743_1602_s_21869388273137486250.jpg?w=490" alt="Professional bass overtone flute crafted by Vladiswar Nadishana." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Professional bass overtone flute crafted by Vladiswar Nadishana." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">Bass overtone flute (Builder: Vladiswar Nadishana)</figcaption>
 </figure>
 
