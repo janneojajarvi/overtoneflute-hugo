@@ -37,25 +37,25 @@ Nowadays it is common to use PVC plastic as a building material of overtone flut
 Also wooden season materials are handy, though short-lived. Willow species are good materials for overtone flute (willow flute) because the bark doesn't break easily when detached.
 </p>
 
-### A willow flute with solid tone
+### Solid-toned overtone flute
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/overtoneflute-hugo/audio/huilu_rauno.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
 </audio>
 
-### A willow flute with windy tone
+### Airy-toned overtone flute
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/overtoneflute-hugo/audio/huilu_steinar.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
 </audio>
 
-### A bass overtone flute with key of A
+### Bass overtone flute in A
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/overtoneflute-hugo/audio/huilu_bassopitkisa.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
 </audio>
 
-### A bass overtone flute with key of AD
+### Bass overtone flute in D
 <audio controls style="width: 100%; margin-bottom: 20px;">
   <source src="/overtoneflute-hugo/audio/huilu_bassopitkisd.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
