@@ -19,7 +19,6 @@ Tähän on koottuna lista pitkähuiluja ja vastaavia yläsävelhuiluja valmistav
 * **Shop Nadishana (overtone flute):** [http://shop.nadishana.com](http://shop.nadishana.com)
 * **Steinar Ofsdal (vårfløyta / seljefløyta):** [https://www.ofsdal.no/](https://www.ofsdal.no/)
 * **Fujara.sk (overtone flute / koncovka):** [http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm](http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm)
-* **Folk.ee (Pikkvile):** [https://www.folk.ee/pood/toode/364-pikkvile](https://www.folk.ee/pood/toode/364-pikkvile)
 * **Afolk.hu (Tilinko):** [http://www.afolk.hu/bolt/index.php/en/Tilinko/View-all-products.html](http://www.afolk.hu/bolt/index.php/en/Tilinko/View-all-products.html)
 * **Fredmansmusik.com (sålgflöjt):** [http://www.fredmansmusik.com](http://www.fredmansmusik.com)
 * **Thomann (overtone flute):** [Thomannin verkkokauppa](https://www.thomann.de/fi/auris_overtone_flute_d.htm?ref=search_rslt_auris_389330_9)
