@@ -50,10 +50,6 @@ An ideal flute choice depends heavily on your intended repertoire, personal play
     <a href="http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm" target="_blank" style="color: #ed8936; text-decoration: underline;">http://fujara.sk/instruments/folkart_slovakia/shepherd_pipes/overtone_flute.htm</a>
   </li>
   <li style="margin-bottom: 0.75rem;">
-    <strong>Folk.ee</strong> (Pikkvile / Estonian side-blown overtone flute)<br>
-    <a href="https://www.folk.ee/pood/toode/364-pikkvile" target="_blank" style="color: #ed8936; text-decoration: underline;">https://www.folk.ee/pood/toode/364-pikkvile</a>
-  </li>
-  <li style="margin-bottom: 0.75rem;">
     <strong>Afolk.hu</strong> (Tilinko)<br>
     <a href="https://www.afolk.hu/bolt/index.php/en/Tilinko/View-all-products.html" target="_blank" style="color: #ed8936; text-decoration: underline;">https://www.afolk.hu/bolt/index.php/en/Tilinko/View-all-products.html</a>
   </li>
