@@ -26,7 +26,7 @@ Kesällä 2022 julkaistiin Ojajärven kirja ”Pitkähuilu – opas sormireiätt
 [http://www.janneojajarvi.com](http://www.janneojajarvi.com)
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/janneojajarvi.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
+  <img src="/overtoneflute-hugo/images/janneojajarvi_web.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">Kuva: Liisa Haapanen</p>
 </div>
 
