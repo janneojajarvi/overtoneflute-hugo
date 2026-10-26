@@ -17,7 +17,7 @@ While varying breath pressure alone can theoretically traverse the harmonic scal
 
 <div style="margin-bottom: 1.5rem; text-align: center;">
   <audio controls style="width: 100%; max-width: 500px;">
-    <source src="/audio/d-overtone-flute-scale.mp3" type="audio/mpeg">
+    <source src="/overtoneflute-hugo/audio/pitkahuilunsavelet.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">D overtone flute scale</p>
