@@ -28,7 +28,7 @@ Listening closely to the overtone scale helps your ear adapt to its characterist
   </p>
  <!-- Formspree-lomake -->
 <form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 400px; margin: 2rem auto; display: flex; flex-direction: column; gap: 1rem;">
-  <input type="email" name="email" placeholder="Sähköpostiosoitteesi" required style="padding: 10px; font-size: 1rem; border-radius: 4px; border: 1px solid #ccc;">
+  <input type="email" name="email" placeholder="Your email address" required style="padding: 10px; font-size: 1rem; border-radius: 4px; border: 1px solid #ccc;">
   <button type="submit" style="padding: 10px 20px; font-size: 1rem; background-color: #ed8936; color: white; border: none; border-radius: 4px; cursor: pointer;">Join the Global Community</button>
 </form>
 
