@@ -7,7 +7,7 @@ draft: false
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/ead7c2_ef5f8a78b68748049bd662018dd39c26_mv27e26050358053213285229..jpg" alt="Handcrafted wooden overtone flute showing the labium and mouthpiece detail." style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/overtoneflute-hugo/images/ead7c2_ef5f8a78b68748049bd662018dd39c26_mv27e26050358053213285229.jpg" alt="Handcrafted wooden overtone flute showing the labium and mouthpiece detail." style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 ## Your Online Resource for Overtone and Willow Flutes
