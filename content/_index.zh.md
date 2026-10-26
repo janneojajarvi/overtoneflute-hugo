@@ -23,7 +23,7 @@ description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛�
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <a href="/overtoneflute-hugo/zh/">
+  <a href="https://payhip.com/b/n04oe">
     <img src="/overtoneflute-hugo/images/infograph_chn2.png" alt="图像描述：一张关于芬兰传统乐器“柳笛”的介绍信息图。内容分为四个部分：首先介绍了柳笛是一种基于物理规律和自然泛音、无指孔的极简长笛。其次将柳笛与中国笛子和箫进行了对比，强调了其独特的呼吸控制法。第三部分列出了适合人群，包括：无音乐经验的初学者、追求深度冥想的人，以及热爱大自然的音色探索者。最后提供了官方网站的链接信息和《柳笛传统民谣》乐谱包的购买指南。" style="max-width: 100%; height: auto; border-radius: 2px;">
   </a>
 </div>
