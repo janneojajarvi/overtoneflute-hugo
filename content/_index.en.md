@@ -104,7 +104,7 @@ Most of the exercises and tunes on this site are written for a flute tuned in D,
 If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](https://payhip.com/b/n04oe).
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src=/overtoneflute-hugo/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">D-tuned overtone flute (Made by Ying Ming Zhang)</figcaption>
 </figure>
 
@@ -128,12 +128,5 @@ If you enjoy the meditative and earthy qualities of world flutes like the Bansur
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">Bass overtone flute (Builder: Vladiswar Nadishana)</figcaption>
 </figure>
 
-
----
-
-**Social Links:**
-* [Facebook](https://m.facebook.com/overtoneflute.fi/)
-* [Instagram](https://www.instagram.com/overtoneflutefi/)
-* [YouTube Playlist](https://youtube.com/playlist?list=PL0Va2uaJA9VfhP4fuNZLHOzGAWW3Q335y&si=645P1_AY9nZxmfiE)
 
 © Janne Ojajärvi
