@@ -105,3 +105,13 @@ If you'd like to support the maintenance of this page, you can purchase a PDF sh
 
 <div class="tc pv2" style="margin-top: 2rem; margin-bottom: 1.5rem;">
   <img src="/overtoneflute-hugo/images/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24
+
+Exploring the World of Flutes: Overtone Flutes vs. Native American Flutes
+While many world music enthusiasts are familiar with the soulful sound of the Native American flute or the woody timbre of the Japanese Shakuhachi, the Scandinavian overtone flute (or willow flute) offers a unique, minimalist approach to melody.
+
+Unlike the Native American flute, which uses a block and finger holes to create specific notes, the overtone flute often has no tone holes at all. Instead of moving your fingers to cover holes, you play by varying your breath pressure and opening or closing the end of the tube. This allows you to tap into the natural harmonic series—the same ”pure” intervals found in nature.
+
+Our overtone flutes share the same acoustic soul as the South African Umtshingo or Igemfe.
+
+
+If you enjoy the meditative and earthy qualities of world flutes like the Bansuri or the Quena, the overtone flute’s ability to produce haunting, ethereal melodies with just a breath will feel both familiar and refreshingly different. It is the perfect instrument for those looking to explore harmonic music and intuitive playing.
