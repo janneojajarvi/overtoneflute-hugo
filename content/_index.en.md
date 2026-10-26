@@ -107,7 +107,7 @@ If you'd like to support the maintenance of this page, you can purchase a PDF sh
   <img src="/overtoneflute-hugo/images/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24161397861744056984.jpg?w=490" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src=/overtoneflute-hugo/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">D-tuned overtone flute (Made by Ying Ming Zhang)</figcaption>
 </figure>
 
@@ -131,7 +131,6 @@ If you enjoy the meditative and earthy qualities of world flutes like the Bansur
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">Bass overtone flute (Builder: Vladiswar Nadishana)</figcaption>
 </figure>
 
-Overtoneflute.fi in other languages: [Auf Deutsch](https://overtoneflute.fi/deutsch/) | [En Français](https://overtoneflute.fi/francais/) | [柳笛](https://overtoneflute.fi/chin/) | [Suomeksi](https://overtoneflute.fi/) | [日本語](https://overtoneflute.fi/jp/)
 
 ---
 
