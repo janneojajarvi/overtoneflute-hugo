@@ -103,9 +103,6 @@ Most of the exercises and tunes on this site are written for a flute tuned in D,
 
 If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](https://payhip.com/b/n04oe).
 
-<div class="tc pv2" style="margin-top: 2rem; margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24
-
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
   <img src=/overtoneflute-hugo/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">D-tuned overtone flute (Made by Ying Ming Zhang)</figcaption>
