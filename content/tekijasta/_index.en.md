@@ -24,7 +24,7 @@ With a Master's degree in Folk Music and a background in sound design, I perform
 </div>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-With years of experience in performing and teaching the <strong>willow flute</strong> (pitkähuilu), I created this platform to be a global home for enthusiasts—especially for the growing community of world music lovers.
+With years of experience in performing and teaching the <strong>willow flute</strong> (pitkähuilu/overtone flute), I created this platform to be a global home for enthusiasts—especially for the growing community of world music lovers.
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
