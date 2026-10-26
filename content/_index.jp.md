@@ -81,7 +81,7 @@ draft: false
 楽器の選び方: 初心者からプロフェッショナルまで。  
 北欧の風を感じるような、柳の笛の美しい響きを一緒に体験してみませんか？
 
-[フィンランドの柳の笛の楽譜を見る](/overtoneflute-hugo/jp/how-to-play/overtone-flute-tunes/)
+[フィンランドの柳の笛の楽譜を見る](/overtoneflute-hugo/en/how-to-play/overtone-flute-tunes/)
 
 【クイックスタートガイド】5分で最初の一歩を。 持ち方から基本の吹き方、厳選した3つの練習曲までを凝縮したPDFガイド（全3ページ）。
 
