@@ -19,7 +19,7 @@ An ideal flute choice depends heavily on your intended repertoire, personal play
   </li>
   <li style="margin-bottom: 0.75rem;">
     <strong>Juhana Nyrhinen</strong> (Finnish side-blown overtone flute)<br>
-    <a href="http://uulu.fi/product/pitkahuilu/" target="_blank" style="color: #ed8936; text-decoration: underline;">http://uulu.fi/product/pitkahuilu/</a>
+    <a href="http://uulu.fi/" target="_blank" style="color: #ed8936; text-decoration: underline;">https://uulu.fi/101/pitkahuilu</a>
   </li>
   <li style="margin-bottom: 0.75rem;">
     <strong>Kirsi Vinkki</strong> (Finnish side-blown overtone flute)<br>
