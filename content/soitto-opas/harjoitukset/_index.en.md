@@ -15,8 +15,7 @@ Natural harmonic scales differ slightly from equal temperament systems like the 
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">A scale of D-tuned overtone flute in exercises and tunes</p>
 </div>
 
-<div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/images/soundcloud-player.jpg" alt="Audio playlist preview" style="max-width: 100%; height: auto; border-radius: 2px;">
+"/images/soundcloud-player.jpg" alt="Audio playlist preview" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.2rem;">Exercise Sheet Music (PDF)</h3>
