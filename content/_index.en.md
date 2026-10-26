@@ -106,12 +106,38 @@ If you'd like to support the maintenance of this page, you can purchase a PDF sh
 <div class="tc pv2" style="margin-top: 2rem; margin-bottom: 1.5rem;">
   <img src="/overtoneflute-hugo/images/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24
 
-Exploring the World of Flutes: Overtone Flutes vs. Native American Flutes
+<figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
+  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_374038f582794e3e9a84e42e4a2ae605_mv2_d_2449_1633_s_24161397861744056984.jpg?w=490" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">D-tuned overtone flute (Made by Ying Ming Zhang)</figcaption>
+</figure>
+
+### Exploring the World of Flutes: Overtone Flutes vs. Native American Flutes
+
 While many world music enthusiasts are familiar with the soulful sound of the Native American flute or the woody timbre of the Japanese Shakuhachi, the Scandinavian overtone flute (or willow flute) offers a unique, minimalist approach to melody.
 
-Unlike the Native American flute, which uses a block and finger holes to create specific notes, the overtone flute often has no tone holes at all. Instead of moving your fingers to cover holes, you play by varying your breath pressure and opening or closing the end of the tube. This allows you to tap into the natural harmonic series—the same ”pure” intervals found in nature.
+Unlike the Native American flute, which uses a block and finger holes to create specific notes, the overtone flute often has no tone holes at all. Instead of moving your fingers to cover holes, you play by varying your breath pressure and opening or closing the end of the tube. This allows you to tap into the natural harmonic series—the same "pure" intervals found in nature.
 
 Our overtone flutes share the same acoustic soul as the South African Umtshingo or Igemfe.
 
+<figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
+  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_fbbe08cc653d4d079ac02f60ebd8706a_mv2525022060976011245.jpg?w=490" alt="A collection of various Scandinavian overtone flutes and willow flutes in different sizes." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">A pile of overtone flutes.</figcaption>
+</figure>
 
 If you enjoy the meditative and earthy qualities of world flutes like the Bansuri or the Quena, the overtone flute’s ability to produce haunting, ethereal melodies with just a breath will feel both familiar and refreshingly different. It is the perfect instrument for those looking to explore harmonic music and intuitive playing.
+
+<figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
+  <img src="https://overtoneflute.files.wordpress.com/2022/01/ead7c2_aba7ff69d13449d883e992b2082e658b_mv2_d_3743_1602_s_21869388273137486250.jpg?w=490" alt="Professional bass overtone flute crafted by Vladiswar Nadishana." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">Bass overtone flute (Builder: Vladiswar Nadishana)</figcaption>
+</figure>
+
+Overtoneflute.fi in other languages: [Auf Deutsch](https://overtoneflute.fi/deutsch/) | [En Français](https://overtoneflute.fi/francais/) | [柳笛](https://overtoneflute.fi/chin/) | [Suomeksi](https://overtoneflute.fi/) | [日本語](https://overtoneflute.fi/jp/)
+
+---
+
+**Social Links:**
+* [Facebook](https://m.facebook.com/overtoneflute.fi/)
+* [Instagram](https://www.instagram.com/overtoneflutefi/)
+* [YouTube Playlist](https://youtube.com/playlist?list=PL0Va2uaJA9VfhP4fuNZLHOzGAWW3Q335y&si=645P1_AY9nZxmfiE)
+
+© Janne Ojajärvi
