@@ -24,6 +24,8 @@ An ideal flute choice depends heavily on your intended repertoire, personal play
   <li style="margin-bottom: 0.75rem;">
     <strong>Kirsi Vinkki</strong> (Finnish side-blown overtone flute)<br>
     <a href="https://kirsivinkki.wordpress.com/" target="_blank" style="color: #ed8936; text-decoration: underline;">https://kirsivinkki.wordpress.com/</a>
+* **Nicolas Bras (overtone flute):**
+[https://instrumentsbybras.com/products/overtone-flute-20mm-by-bras?variant=53115579531528](https://instrumentsbybras.com/products/overtone-flute-20mm-by-bras?variant=53115579531528)
   </li>
   <li style="margin-bottom: 0.75rem;">
     <strong>Soundwell</strong> (overtonsflöjt)<br>
