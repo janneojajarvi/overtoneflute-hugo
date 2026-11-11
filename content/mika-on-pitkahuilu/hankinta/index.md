@@ -15,7 +15,7 @@ Tähän on koottuna lista pitkähuiluja ja vastaavia yläsävelhuiluja valmistav
 * **Juhana Nyrhinen (pitkähuilu):** [http://uulu.fi/](https://uulu.fi/101/pitkahuilu)
 * **Max Brumberg (overtone flute):** [http://maxbrumbergflutes.eu/](http://maxbrumbergflutes.eu/)
 * **Nicolas Bras (overtone flute):**
-[https://instrumentsbybras.com/products/overtone-flute-20mm-by-bras?variant=53115579531528](https://instrumentsbybras.com/products/overtone-flute-20mm-by-bras?variant=53115579531528)
+[https://instrumentsbybras.com/](https://instrumentsbybras.com/products/overtone-flute-20mm-by-bras?variant=53115579531528)
 * **Soundwell (övertonsflöjt):** [https://soundwell.com/produkt-kategori/overtonsflojter/](https://soundwell.com/produkt-kategori/overtonsflojter/)
 * **Winne Clement (overtone flute):** [http://www.fujaraflutes.com/overtone-flutes/](http://www.fujaraflutes.com/overtone-flutes/)
 * **Shop Nadishana (overtone flute):** [http://shop.nadishana.com](http://shop.nadishana.com)
