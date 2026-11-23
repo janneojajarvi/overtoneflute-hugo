@@ -28,7 +28,7 @@ Because natural harmonic tunings differ slightly from equal temperament systems 
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
-You can also explore interactive tones using the <a href="/overtoneflute-hugo/oflutepiano_en/" style="color: #63b3ed; text-decoration: underline;">virtual player</a>.
+You can also explore interactive tones using the <a href="/overtoneflute-hugo/en/oflutepiano/" style="color: #63b3ed; text-decoration: underline;">virtual player</a>.
 </p>
 
 
