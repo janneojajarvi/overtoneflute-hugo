@@ -1,29 +1,27 @@
 <style>
-/* Eristetyt tyylit pianosovellukselle, jotta ne eivät riko muuta Hugo-sivustoa */
 .piano-app-wrapper {
     background-color: #121212;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; /* Muutettu keskeltä alkavaksi, jotta yläreuna ei leikkaannu */
     width: 100%;
-    padding: 20px 0;
+    padding: 20px 10px;
     box-sizing: border-box;
     font-family: sans-serif;
 }
 
 #piano-app-container {
     background: #1a1a1a;
-    width: 95%;
+    width: 100%;
     max-width: 450px;
-    height: 80vh;
-    min-height: 520px;
+    /* Poistettu kiinteä height, käytetään max-heightia ja flexiä */
+    max-height: 85vh;
     display: flex;
     flex-direction: column;
     padding: 15px;
     border-radius: 15px;
     border: 2px solid #333;
     box-sizing: border-box;
-    touch-action: pan-y;
 }
 
 .app-header {
@@ -38,7 +36,6 @@
     font-size: 1.1rem;
 }
 
-/* Sävellajin valitsimen tyylit */
 #key-selector {
     background: #252525;
     color: #fff;
@@ -73,10 +70,9 @@
     overscroll-behavior: contain;
     padding: 5px;
     padding-bottom: 20px;
-    scroll-snap-type: y mandatory;
+    min-height: 250px; /* Varmistaa että gridiin mahtuu rullattavaa tilaa */
 }
 
-/* Näppäinten tyylit */
 .piano-btn {
     aspect-ratio: 1 / 0.8;
     border-radius: 8px;
@@ -89,7 +85,6 @@
     cursor: pointer;
     font-size: 16px;
     padding: 4px;
-    scroll-snap-align: start;
 }
 
 .piano-btn span {
@@ -138,165 +133,4 @@
 .swatch-open { background: #fff; }
 .swatch-closed { background: #333; border: 1px solid #666; }
 .swatch-half { background: linear-gradient(135deg, #724b27, #ae7744); }
-
-#wp-piano-grid::-webkit-scrollbar {
-    width: 8px;
-}
-
-#wp-piano-grid::-webkit-scrollbar-track {
-    background: #252525;
-    border-radius: 10px;
-}
-
-#wp-piano-grid::-webkit-scrollbar-thumb {
-    background: #555;
-    border-radius: 10px;
-}
-
-#wp-piano-grid::-webkit-scrollbar-thumb:active {
-    background: #888;
-}
 </style>
-
-<div class="piano-app-wrapper">
-    <div id="piano-app-container">
-        <header class="app-header">
-            <h3>Overtone Flute: All Keys / Pitkähuilu: Kaikki otteet</h3>
-            <select id="key-selector"></select>
-        </header>
-
-        <div id="wp-piano-grid"></div>
-
-        <footer class="info-section">
-            <h4>Information / Merkkiselitys</h4>
-            <div class="info-list">
-                <div class="info-item">
-                    <span class="swatch swatch-open"></span>
-                    <span>Open / Avoin: Even harmonics</span>
-                </div>
-                <div class="info-item">
-                    <span class="swatch swatch-closed"></span>
-                    <span>Closed / Suljettu: Odd harmonics</span>
-                </div>
-                <div class="info-item">
-                    <span class="swatch swatch-half"></span>
-                    <span>Half-closed / Puolisulku</span>
-                </div>
-            </div>
-        </footer>
-    </div>
-</div>
-
-<script>
-(function() {
-    let audioCtx;
-    const grid = document.getElementById('wp-piano-grid');
-    const keySelector = document.getElementById('key-selector');
-
-    const fluteKeys = [
-        { id: "G2", name: "Korkea G / High G", freq: 98.00 },
-        { id: "D2", name: "D (Ojajärvi vire / Default)", freq: 74.50 },
-        { id: "C2", name: "C", freq: 65.41 },
-        { id: "B1", name: "B", freq: 61.74 },
-        { id: "Bb1", name: "Bb", freq: 58.27 },
-        { id: "A1", name: "A", freq: 55.00 },
-        { id: "G#1", name: "G#", freq: 51.91 },
-        { id: "G1", name: "G", freq: 49.00 },
-        { id: "F#1", name: "F#", freq: 46.25 },
-        { id: "F1", name: "F", freq: 43.65 },
-        { id: "E1", name: "E", freq: 41.20 },
-        { id: "D#1", name: "D#", freq: 38.89 },
-        { id: "D1", name: "Matala D / Low D", freq: 36.71 },
-        { id: "C#1", name: "C#", freq: 34.65 },
-        { id: "C1", name: "Matala C / Low C", freq: 32.70 }
-    ];
-
-    const harmonics = [
-        {h: 2.00, t: 0}, {h: 3.00, t: 1}, {h: 4.01, t: 0},
-        {h: 4.95, t: 1}, {h: 5.71, t: 2}, {h: 6.00, t: 0},
-        {h: 7.00, t: 1}, {h: 7.63, t: 2}, {h: 8.02, t: 0}, 
-        {h: 9.00, t: 1}, {h: 9.42, t: 2}, {h: 9.90, t: 0}, 
-        {h: 10.85, t: 1}, {h: 12.00, t: 0}, {h: 13.00, t: 1}, 
-        {h: 14.00, t: 0}, {h: 15.00, t: 1}, {h: 16.00, t: 0}, 
-        {h: 17.00, t: 1}, {h: 18.00, t: 0}
-    ];
-
-    fluteKeys.forEach(fk => {
-        const option = document.createElement('option');
-        option.value = fk.freq;
-        option.textContent = fk.name;
-        if (fk.id === "D2") option.selected = true;
-        keySelector.appendChild(option);
-    });
-
-    function getNoteName(frequency) {
-        const noteNames = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "Bb", "B"];
-        let midi = Math.round(12 * Math.log2(frequency / 440) + 69);
-        let noteStr = noteNames[midi % 12];
-        let octave = Math.floor(midi / 12) - 1;
-        return noteStr + octave;
-    }
-
-    function renderPiano(fund) {
-        grid.innerHTML = "";
-        
-        harmonics.forEach(note => {
-            const btn = document.createElement('button');
-            btn.classList.add('piano-btn');
-            
-            const noteFreq = fund * note.h;
-            const dynamicNoteName = getNoteName(noteFreq);
-
-            if(note.t === 0) { 
-                btn.style.background = "#fff"; btn.style.color = "#222"; btn.style.boxShadow = "0 5px 0 #bbb";
-            } else if(note.t === 1) { 
-                btn.style.background = "#333"; btn.style.color = "#fff"; btn.style.boxShadow = "0 5px 0 #000"; btn.style.border = "1px solid #444";
-            } else { 
-                btn.style.background = "linear-gradient(135deg, #724b27 0%, #ae7744 100%)"; btn.style.color = "#fff"; btn.style.boxShadow = "0 5px 0 #4a311a";
-            }
-
-            btn.innerHTML = `<span>${note.h}</span><small>${dynamicNoteName}</small>`;
-
-            const play = (e) => {
-                e.preventDefault();
-                if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
-                if (audioCtx.state === 'suspended') audioCtx.resume();
-
-                const osc = audioCtx.createOscillator();
-                const gain = audioCtx.createGain();
-                const filter = audioCtx.createBiquadFilter();
-
-                osc.type = 'triangle';
-                osc.frequency.setValueAtTime(noteFreq, audioCtx.currentTime);
-
-                filter.type = "lowpass";
-                let filterMult = note.t === 0 ? 4 : (note.t === 2 ? 2.2 : 1.6);
-                filter.frequency.setValueAtTime(noteFreq * filterMult, audioCtx.currentTime);
-
-                gain.gain.setValueAtTime(0, audioCtx.currentTime);
-                gain.gain.linearRampToValueAtTime(0.3, audioCtx.currentTime + 0.05);
-                gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.9);
-
-                osc.connect(filter); filter.connect(gain); gain.connect(audioCtx.destination);
-                osc.start(); osc.stop(audioCtx.currentTime + 0.9);
-                
-                btn.style.transform = "translateY(4px)"; btn.style.boxShadow = "none";
-                setTimeout(() => { 
-                    btn.style.transform = "translateY(0)"; 
-                    btn.style.boxShadow = note.t === 0 ? "0 5px 0 #bbb" : (note.t === 1 ? "0 5px 0 #000" : "0 5px 0 #4a311a");
-                }, 100);
-            };
-
-            btn.onmousedown = play; btn.ontouchstart = play;
-            grid.appendChild(btn);
-        });
-    }
-
-    keySelector.addEventListener('change', (e) => {
-        const newFund = parseFloat(e.target.value);
-        renderPiano(newFund);
-    });
-
-    renderPiano(74.50);
-})();
-</script>
