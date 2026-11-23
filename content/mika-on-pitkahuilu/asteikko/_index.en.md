@@ -27,7 +27,10 @@ While varying breath pressure alone can theoretically traverse the harmonic scal
 Because natural harmonic tunings differ slightly from equal temperament systems (such as a standard piano), higher register notes will exhibit natural tuning variations when played alongside fixed-pitch instruments. However, the distinct timbre of the flute often blends harmoniously regardless, leaving room for artistic preference and accompaniment experimentation using the resources available on this site.
 </p>
 
-You can also explore interactive tones using the [virtual player]({{< relref "/oflutepiano_en" >}}).
+<p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
+You can also explore interactive tones using the <a href="/overtoneflute-hugo/oflutepiano_en/" style="color: #63b3ed; text-decoration: underline;">virtual player</a>.
+</p>
+
 
 
 <h3 style="color: #ffffff; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.1rem;">Sources:</h3>
