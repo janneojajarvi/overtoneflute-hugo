@@ -20,7 +20,8 @@ Pitkähuilun asteikko pohjautuu harmoniseen yläsävelsarjaan. Sävelten tarkkaa
 
 Koska pitkähuilun asteikko perustuu harmoniseen yläsävelsarjaan, ei sen intonaatio ole sama kuin esim. tasavireeseen viritetyssä pianossa. Vaikka huilun perussävel viritettäisiinkin pianon kanssa samaan vireeseen, niin korkeammalle asteikkoa mentäessä muut sävelet eivät ole aivan samassa vireessä. Toki pitkähuilun soittoa voi säestää pianolla sillä erilaisen sointivärin omaavana soittimena se ei välttämättä riitele liikaa pitkähuilun koko asteikon kanssa. Tämä on tietysti myös makukysymys. Vireiden eron huomaat selvästi jos soitat tämän sivuston harjoituksien säveliä samaan aikaan pitkähuilulla ja pianolla.
 
-Voit kokeilla D-pitkähuilun asteikkoa tietokoneella/kännykällä täällä [virtuaalisella soittimella]("/overtoneflute-hugo/oflutepiano/).
+Voit kokeilla D-pitkähuilun asteikkoa tietokoneella/kännykällä täällä [virtuaalisella soittimella](../oflutepiano/).
+
 
 **Lähteet:**  
 Joutsenlahti, R.-L. 2000.  
