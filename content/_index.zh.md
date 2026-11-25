@@ -4,7 +4,7 @@ description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛�
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banner.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/banner.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem; text-align: center; font-style: italic; color: #cbd5e0;">
@@ -24,7 +24,7 @@ description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛�
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
   <a href="https://payhip.com/b/n04oe">
-    <img src="/overtoneflute-hugo/images/infograph_chn2.png" alt="图像描述：一张关于芬兰传统乐器“柳笛”的介绍信息图。内容分为四个部分：首先介绍了柳笛是一种基于物理规律和自然泛音、无指孔的极简长笛。其次将柳笛与中国笛子和箫进行了对比，强调了其独特的呼吸控制法。第三部分列出了适合人群，包括：无音乐经验的初学者、追求深度冥想的人，以及热爱大自然的音色探索者。最后提供了官方网站的链接信息和《柳笛传统民谣》乐谱包的购买指南。" style="max-width: 100%; height: auto; border-radius: 2px;">
+    <img src="/images/infograph_chn2.png" alt="图像描述：一张关于芬兰传统乐器“柳笛”的介绍信息图。内容分为四个部分：首先介绍了柳笛是一种基于物理规律和自然泛音、无指孔的极简长笛。其次将柳笛与中国笛子和箫进行了对比，强调了其独特的呼吸控制法。第三部分列出了适合人群，包括：无音乐经验的初学者、追求深度冥想的人，以及热爱大自然的音色探索者。最后提供了官方网站的链接信息和《柳笛传统民谣》乐谱包的购买指南。" style="max-width: 100%; height: auto; border-radius: 2px;">
   </a>
 </div>
 
@@ -33,15 +33,15 @@ description: "欢迎来到 overtoneflute.fi！这里提供关于北欧泛音笛�
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/bassopitkahuilu.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">低音泛音笛（制作者：Vladiswar Nadishana）</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/d-pitkahuilu.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/d-pitkahuilu.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">D 调柳笛（制作者：Kirsi Vinkki）</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/erilaisia-pitkahuiluja.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.
