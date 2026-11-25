@@ -70,7 +70,7 @@ While the musical soul is the same, the materials reflect their respective envir
 
 At **overtoneflute.fi**, we celebrate this global connection. Whether you call it an willow flute, *seljefløyte*, *pitkähuilu*, *koncovka* or an *umtshingo*, the language of the harmonic series is universal. It is a reminder that despite the distance, we all play the same song of nature.
 
-**Universal Melody:** Because Nordic overtone flute melodies (which you can find on this website) follow the [harmonic series](https://overtoneflute.fi/what-is-overtone-flute/overtone-flute-scale/) (overtones), they can also be played on the Umtshingo and other similar instruments. Both instruments utilize the same natural scale overtones (partials 4–12), making them perfectly compatible.
+**Universal Melody:** Because Nordic overtone flute melodies (which you can find on this website) follow the [harmonic series](https://overtoneflute.fi/en/mika-on-pitkahuilu/asteikko/) (overtones), they can also be played on the Umtshingo and other similar instruments. Both instruments utilize the same natural scale overtones (partials 4–12), making them perfectly compatible.
 
 Listening tips (umtshingo): [Dizu Plaatjies](https://www.youtube.com/watch?v=OrDl-FkVwZk)
 
