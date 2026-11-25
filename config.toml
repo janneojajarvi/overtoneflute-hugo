@@ -9,7 +9,7 @@ theme = 'ananke'
 
 [languages.fi]
   languageCode = 'fi-fi'
-  languageName = 'Suomeksi'
+  languageName = 'Suomi'
   weight = 1
   title = 'Overtoneflute.fi'
   [languages.fi.params]
