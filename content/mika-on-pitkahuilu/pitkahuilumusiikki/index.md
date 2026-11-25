@@ -2,11 +2,11 @@
 title: "Pitkähuilumusiikki"
 description: "Pitkähuilulla soitettavan musiikin ja melodiikan erityispiirteet."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
-![Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen](/overtoneflute-hugo/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg)
+![Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen](/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg)
 *Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen. Kuvaaja: Sasoha Kajic*
 
 Pitkähuilun erikoisuus on siitä saatava asteikko, harmoninen yläsävelsarja. Asteikko soitetaan alhaalta ylöspäin puhalluksen voimakkuutta lisäten (puhalletaan "nopeammin") ja putken loppupäätä vuoroin avaamalla (avotekniikka) ja sulkemalla (tukkotekniikka).
@@ -17,15 +17,15 @@ Sulkemalla huilun pään vain osittain on mahdollista soittaa säveliä portaatt
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
   <div>
-    <img src="/overtoneflute-hugo/images/avotekniikka.jpg" alt="Avotekniikka" style="max-width: 100%; height: auto;" />
+    <img src="/images/avotekniikka.jpg" alt="Avotekniikka" style="max-width: 100%; height: auto;" />
     <p style="text-align: center; font-size: 0.9rem;">Avotekniikka</p>
   </div>
   <div>
-    <img src="/overtoneflute-hugo/images/sulkutekniikka.jpg" alt="Tukkotekniikka" style="max-width: 100%; height: auto;" />
+    <img src="/images/sulkutekniikka.jpg" alt="Tukkotekniikka" style="max-width: 100%; height: auto;" />
     <p style="text-align: center; font-size: 0.9rem;">Tukkotekniikka</p>
   </div>
   <div>
-    <img src="/overtoneflute-hugo/images/puolisulku.jpg" alt="Puoliksi suljettu putken pää" style="max-width: 100%; height: auto;" />
+    <img src="/images/puolisulku.jpg" alt="Puoliksi suljettu putken pää" style="max-width: 100%; height: auto;" />
     <p style="text-align: center; font-size: 0.9rem;">Puoliksi suljettu putken pää</p>
   </div>
 </div>
@@ -44,7 +44,7 @@ Sulkemalla huilun pään vain osittain on mahdollista soittaa säveliä portaatt
 **Chile:** Nano Stern.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/extrahole.jpg" alt="Lisäsormiaukollinen pitkähuilun soitto-ote" style="max-width: 100%; height: auto;" />
+  <img src="/images/extrahole.jpg" alt="Lisäsormiaukollinen pitkähuilun soitto-ote" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">Lisäsormiaukollisen pitkähuilun soitto-ote.</p>
 </div>
 
