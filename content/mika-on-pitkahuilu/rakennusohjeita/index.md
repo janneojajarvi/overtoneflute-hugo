@@ -2,7 +2,7 @@
 title: "Rakennusohjeita"
 description: "Vinkkejä pitkähuilun rakentamisesta kiinnostuneille."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
