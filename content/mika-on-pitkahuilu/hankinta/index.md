@@ -2,7 +2,7 @@
 title: "Pitkähuilun hankinta"
 description: "Vinkkejä ja linkkejä pitkähuilun hankintaan."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
