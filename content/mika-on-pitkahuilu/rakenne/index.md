@@ -61,4 +61,7 @@ Suurin osa Suomessa nykyään rakennettavista pitkähuiluista on sivupuhalteisia
   <p style="font-size: 0.9rem; color: #a0aec0;">Pitkähuilun kaaviokuva (Riitta-Liisa Joutsenlahden mukaan)</p>
 </div>
 
+**Lähteet:**    
+Joutsenlahti, R.-L. 2000 Joutsenlahti, R.-L. 2000.  
+
 © Janne Ojajärvi
