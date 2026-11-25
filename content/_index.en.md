@@ -2,12 +2,12 @@
 title: "Home"
 description: "Your Online Resource for Overtone Flutes."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banner.jpg" alt="Handcrafted wooden overtone flute showing the labium and mouthpiece detail." style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/banner.jpg" alt="Handcrafted wooden overtone flute showing the labium and mouthpiece detail." style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 ## Your Online Resource for Overtone and Willow Flutes
@@ -102,7 +102,7 @@ Most of the exercises and tunes on this site are written for a flute tuned in D,
 If you'd like to support the maintenance of this page, you can purchase a PDF sheet music book 'Traditional Folk Tunes for Willow Flute' [here](https://payhip.com/b/n04oe).
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/images/soittoasento.jpg" alt="D-tuned overtone flute handmade by instrument builder Ying Ming Zhang. Musician in the photo: Janne Ojajärvi." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">D-tuned overtone flute (Made by Ying Ming Zhang)</figcaption>
 </figure>
 
@@ -115,14 +115,14 @@ Unlike the Native American flute, which uses a block and finger holes to create 
 Our overtone flutes share the same acoustic soul as the South African Umtshingo or Igemfe.
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="A collection of various Scandinavian overtone flutes and willow flutes in different sizes." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/images/erilaisia-pitkahuiluja.jpg" alt="A collection of various Scandinavian overtone flutes and willow flutes in different sizes." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">A pile of overtone flutes.</figcaption>
 </figure>
 
 If you enjoy the meditative and earthy qualities of world flutes like the Bansuri or the Quena, the overtone flute’s ability to produce haunting, ethereal melodies with just a breath will feel both familiar and refreshingly different. It is the perfect instrument for those looking to explore harmonic music and intuitive playing.
 
 <figure class="wp-block-image size-large" style="text-align: center; margin: 30px 0;">
-  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Professional bass overtone flute crafted by Vladiswar Nadishana." style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/images/bassopitkahuilu.jpg" alt="Professional bass overtone flute crafted by Vladiswar Nadishana." style="max-width: 100%; height: auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9rem; color: #666; margin-top: 8px;">Bass overtone flute (Builder: Vladiswar Nadishana)</figcaption>
 </figure>
 
