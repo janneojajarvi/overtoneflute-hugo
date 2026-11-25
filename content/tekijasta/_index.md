@@ -2,7 +2,7 @@
 title: "Tekijästä & kontakti"
 description: "Tietoa ovetoneflute.fi-sivuston luojasta Janne Ojajärvestä."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
@@ -26,7 +26,7 @@ Kesällä 2022 julkaistiin Ojajärven kirja ”Pitkähuilu – opas sormireiätt
 [http://www.janneojajarvi.com](http://www.janneojajarvi.com)
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/janneojajarvi2024_web7406719843632418577.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
+  <img src="/images/janneojajarvi2024_web7406719843632418577.jpg" alt="Janne Ojajärvi" style="max-width: 100%; height: auto;" />
   <p style="font-size: 0.9rem; color: #a0aec0;">Kuvaaja: Liisa Haapanen</p>
 </div>
 
