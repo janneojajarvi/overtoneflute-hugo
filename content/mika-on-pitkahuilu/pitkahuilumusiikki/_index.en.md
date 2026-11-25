@@ -3,7 +3,7 @@ title: "Overtone flute music"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/extrahole.jpg" alt="Playing position for a flute with an extra hole" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/extrahole.jpg" alt="Playing position for a flute with an extra hole" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Playing position for a flute with an extra hole</p>
 </div>
 
@@ -12,7 +12,7 @@ The speciality of the overtone flute is the characteristic scale, harmonic overt
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg" alt="Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/pitkacc88huilutrio_malmocc88-by-sascha-kajic.jpg" alt="Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Jonas Simonson, Kirsi Ojala & Kristiina Ilmonen. Photo by Sascha Kajic</p>
 </div>
 
@@ -22,15 +22,15 @@ It is possible to play any tone between the closed and open note with same kind 
 
 <div style="display: flex; gap: 1rem; justify-content: center; margin-bottom: 2rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="/overtoneflute-hugo/images/avotekniikka.jpg" alt="Open tone" style="max-width: 100%; height: auto; border-radius: 2px;">
+    <img src="/images/avotekniikka.jpg" alt="Open tone" style="max-width: 100%; height: auto; border-radius: 2px;">
     <p style="font-size: 0.85rem; color: #a0aec0; margin-top: 0.25rem;">Open tone</p>
   </div>
   <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="/overtoneflute-hugo/images/sulkutekniikka.jpg" alt="Closed tone" style="max-width: 100%; height: auto; border-radius: 2px;">
+    <img src="/images/sulkutekniikka.jpg" alt="Closed tone" style="max-width: 100%; height: auto; border-radius: 2px;">
     <p style="font-size: 0.85rem; color: #a0aec0; margin-top: 0.25rem;">Closed tone</p>
   </div>
   <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="/overtoneflute-hugo/images/puolisulku.jpg" alt="Half-closed tone" style="max-width: 100%; height: auto; border-radius: 2px;">
+    <img src="/images/puolisulku.jpg" alt="Half-closed tone" style="max-width: 100%; height: auto; border-radius: 2px;">
     <p style="font-size: 0.85rem; color: #a0aec0; margin-top: 0.25rem;">Half-closed tone</p>
   </div>
 </div>
