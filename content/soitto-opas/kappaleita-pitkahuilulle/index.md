@@ -6,7 +6,7 @@ images:
 draft: false
 ---
 
-Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä sävelmistä pitkähuilulle sovitettuja versioita ja osa sävellettyjä kappaleita pitkähuilun soittajilta, jotka ovat antaneet luvan kappaleidensay käyttöön tällä oppimateriaalisivustolla. Kaikki ääj98ninäytteet on soittanut ja äänittänyt tämän sivun [tekijä](/tekijasta/).
+Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä sävelmistä pitkähuilulle sovitettuja versioita ja osa sävellettyjä kappaleita pitkähuilun soittajilta, jotka ovat antaneet luvan kappaleidensa käyttöön tällä oppimateriaalisivustolla. Kaikki ääninäytteet on soittanut ja äänittänyt tämän sivun [tekijä](/tekijasta/).
 
 
 
