@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fi">
+<html lang="{{ .Site.Language.Lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -45,20 +45,34 @@
   
   {{ partial "site-footer.html" . }}
 
-  <!-- 3. Evästeilmoitus (piilotettu oletuksena, näytetään JS:llä jos valintaa ei ole tehty) -->
+  <!-- 3. Evästeilmoitus (suomeksi fi-sivuilla, englanniksi kaikilla muilla) -->
   <div id="cookie-banner" style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background-color: #1a202c; border-top: 1px solid #4a5568; padding: 1rem 1.5rem; z-index: 9999; box-shadow: 0 -4px 6px rgba(0,0,0,0.3);">
     <div style="max-width: 960px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
-      <p style="margin: 0; font-size: 0.9rem; line-height: 1.5; color: #e2e8f0; flex: 1 1 300px;">
-        Käytämme sivustolla evästeitä kävijäliikenteen tilastointiin (Google Analytics), jotta voimme kehittää sivuston oppimateriaaleja.
-      </p>
-      <div style="display: flex; gap: 0.75rem;">
-        <button id="cookie-reject" style="background: transparent; color: #cbd5e0; border: 1px solid #718096; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
-          Vain välttämättömät
-        </button>
-        <button id="cookie-accept" style="background: #ed8936; color: #1a202c; font-weight: bold; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
-          Hyväksy
-        </button>
-      </div>
+      {{ if eq .Site.Language.Lang "fi" }}
+        <p style="margin: 0; font-size: 0.9rem; line-height: 1.5; color: #e2e8f0; flex: 1 1 300px;">
+          Käytämme sivustolla evästeitä kävijäliikenteen tilastointiin (Google Analytics), jotta voimme kehittää sivuston oppimateriaaleja.
+        </p>
+        <div style="display: flex; gap: 0.75rem;">
+          <button id="cookie-reject" style="background: transparent; color: #cbd5e0; border: 1px solid #718096; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
+            Vain välttämättömät
+          </button>
+          <button id="cookie-accept" style="background: #ed8936; color: #1a202c; font-weight: bold; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
+            Hyväksy
+          </button>
+        </div>
+      {{ else }}
+        <p style="margin: 0; font-size: 0.9rem; line-height: 1.5; color: #e2e8f0; flex: 1 1 300px;">
+          We use cookies for visitor analytics (Google Analytics) to help us improve the learning resources on this site.
+        </p>
+        <div style="display: flex; gap: 0.75rem;">
+          <button id="cookie-reject" style="background: transparent; color: #cbd5e0; border: 1px solid #718096; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
+            Essential only
+          </button>
+          <button id="cookie-accept" style="background: #ed8936; color: #1a202c; font-weight: bold; border: none; padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer; font-size: 0.85rem;">
+            Accept
+          </button>
+        </div>
+      {{ end }}
     </div>
   </div>
 
@@ -68,7 +82,6 @@
       const banner = document.getElementById('cookie-banner');
       const consent = localStorage.getItem('ga_consent');
 
-      // Näytetään ilmoitus vain, jos valintaa ei ole vielä tallennettu
       if (!consent) {
         banner.style.display = 'block';
       }
