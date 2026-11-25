@@ -1,5 +1,5 @@
 ---
-title: "D-Pitkähuilu-piano"
+title: "Pitkähuilu-piano"
 ---
 
 {{< piano >}}
