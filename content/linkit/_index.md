@@ -2,7 +2,7 @@
 title: "Linkit"
 description: "Linkkejä, jotka liittyvät pitkähuiluun tai sen ympärillä oleviin ilmiöihin."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
