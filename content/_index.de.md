@@ -5,7 +5,7 @@ description: "Entdecken Sie die finnische Obertonflöte und Weidenflöte (pitkä
 
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banner.jpg" alt="Obertonflöte Detail" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/banner.jpg" alt="Obertonflöte Detail" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <h2 style="color: #ffffff; font-size: 1.8rem; margin-bottom: 0.5rem;">Die finnische Obertonflöte und Weidenflöte</h2>
@@ -22,7 +22,7 @@ Im Gegensatz zu herkömmlichen Flöten hat eine Obertonflöte keine Grifflöcher
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="D-gestimmte Obertonflöte" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/soittoasento.jpg" alt="D-gestimmte Obertonflöte" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">D-gestimmte Obertonflöte (Hersteller: Ying Ming Zhang)</p>
 </div>
 
@@ -31,7 +31,7 @@ Das Ziel dieser Website ist es, möglichst viele Informationen, Materialien zum 
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Bass-Obertonflöte" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/bassopitkahuilu.jpg" alt="Bass-Obertonflöte" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Bass-Obertonflöte (Hersteller: Vladiswar Nadishana)</p>
 </div>
 
@@ -61,7 +61,7 @@ Wenn Sie die Pflege dieser Seite unterstützen möchten, können Sie hier das PD
 </p>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="Ein Stapel Obertonflöten" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/erilaisia-pitkahuiluja.jpg" alt="Ein Stapel Obertonflöten" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Ein Stapel Obertonflöten.</p>
 </div>
 
