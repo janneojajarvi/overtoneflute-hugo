@@ -6,18 +6,18 @@ draft: false
 
 <h2 style="font-size:28px">柳の笛 (Pitkähuilu / Overtone Flute)</h2>
 
-{{< figure src="/overtoneflute-hugo/images/janneojajarvi2024_web7406719843632418577.jpg" alt="​柳の笛を演奏するヤンネ・オヤヤルヴィ（撮影：リーサ・ハーパネン）/ Janne Ojajärvi plays willow flute (photo by Liisa Haapanen)" >}}
+{{< figure src="/images/janneojajarvi2024_web7406719843632418577.jpg" alt="​柳の笛を演奏するヤンネ・オヤヤルヴィ（撮影：リーサ・ハーパネン）/ Janne Ojajärvi plays willow flute (photo by Liisa Haapanen)" >}}
 
 柳の笛（オーバートーン・フルート）の世界へようこそ。  
 柳の笛（芬: Pitkähuilu）は、北欧の伝統的な楽器で、自然の倍音を利用して演奏する非常にユニークな笛です。フィンランドをはじめとする北欧諸国では、古くから羊飼いや子供たちが春の訪れとともにこの笛を作って楽しんできました。
 
 フィンランドの伝統楽器「柳の笛」の特徴
 
-{{< figure src="/overtoneflute-hugo/images/huilu-kirsivinkki_med.jpg" alt="" >}}
+{{< figure src="/images/huilu-kirsivinkki_med.jpg" alt="" >}}
 
 指穴がない: 一般的なリコーダーやフルートとは異なり、この笛には音階を決めるための指穴がありません。
 
-{{< figure src="/overtoneflute-hugo/images/infograph.png" alt="フィンランドの伝統的な倍音笛、柳の笛（ピトカフイル）についてのインフォグラフィック" link="/overtoneflute-hugo/jp/" >}}
+{{< figure src="/images/infograph.png" alt="フィンランドの伝統的な倍音笛、柳の笛（ピトカフイル）についてのインフォグラフィック" link="/jp/" >}}
 
 **伝統的な楽器との比較**
 
@@ -44,26 +44,26 @@ draft: false
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
   <!-- Kuva 1 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <a href="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" target="_blank" rel="noopener">
-      <img src="/overtoneflute-hugo/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/images/d-overtoneflutescalejap2141018713469552964.jpg" target="_blank" rel="noopener">
+      <img src="/images/d-overtoneflutescalejap2141018713469552964.jpg" alt="​柳の笛（オーバートーン・フルート）の音階と倍音列の仕組みを説明する図解。" style="width: 100%; height: auto; border-radius: 4px;" />
     </a>
   </div>
   <!-- Kuva 2 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <a href="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" target="_blank" rel="noopener">
-      <img src="/overtoneflute-hugo/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" target="_blank" rel="noopener">
+      <img src="/images/image_editor_output_image-2053375371-17680003247013544815552835204661.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
     </a>
   </div>
   <!-- Kuva 3 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <a href="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" target="_blank" rel="noopener">
-      <img src="/overtoneflute-hugo/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" target="_blank" rel="noopener">
+      <img src="/images/ead7c2_1c4ccbf6c27e449385f6611543ae0eb3_mv27652924492409729774.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
     </a>
   </div>
   <!-- Kuva 4 -->
   <div style="flex: 1 1 45%; max-width: 48%;">
-    <a href="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" target="_blank" rel="noopener">
-      <img src="/overtoneflute-hugo/images/pitkc3a4huilu4739336284139122242.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
+    <a href="/images/pitkc3a4huilu4739336284139122242.jpg" target="_blank" rel="noopener">
+      <img src="/images/pitkc3a4huilu4739336284139122242.jpg" alt="" style="width: 100%; height: auto; border-radius: 4px;" />
     </a>
   </div>
 </div>
@@ -81,17 +81,17 @@ draft: false
 楽器の選び方: 初心者からプロフェッショナルまで。  
 北欧の風を感じるような、柳の笛の美しい響きを一緒に体験してみませんか？
 
-[フィンランドの柳の笛の楽譜を見る](/overtoneflute-hugo/en/soitto-opas/kappaleita-pitkahuilulle/)
+[フィンランドの柳の笛の楽譜を見る](/en/soitto-opas/kappaleita-pitkahuilulle/)
 
 【クイックスタートガイド】5分で最初の一歩を。 持ち方から基本の吹き方、厳選した3つの練習曲までを凝縮したPDFガイド（全3ページ）。
 
 [今すぐダウンロードして始める](https://payhip.com/b/gBN8Q)
 
-[![柳の笛クイックスタートガイドの表紙](/overtoneflute-hugo/images/pikkuoppaan-neliokansi.jpg)](https://payhip.com/b/gBN8Q)
+[![柳の笛クイックスタートガイドの表紙](/images/pikkuoppaan-neliokansi.jpg)](https://payhip.com/b/gBN8Q)
 
 **[PDF版] 北欧の倍音笛（ピトカフイル）完全ガイド・楽譜集はこちら** >
 
-[![北欧の倍音笛ガイド](/overtoneflute-hugo/images/pohjaempty2jpg5410723801058770814.jpg)](https://payhip.com/b/YGVUH)
+[![北欧の倍音笛ガイド](/images/pohjaempty2jpg5410723801058770814.jpg)](https://payhip.com/b/YGVUH)
 
 [[PDF版] 北欧の倍音笛ガイド（Payhipで購入）](https://payhip.com/b/YGVUH)
 
