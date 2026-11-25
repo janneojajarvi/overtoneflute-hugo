@@ -2,7 +2,7 @@
 title: "Hengitys"
 description: "Ohjeita pitkähuilun soiton hengitystekniikasta."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
