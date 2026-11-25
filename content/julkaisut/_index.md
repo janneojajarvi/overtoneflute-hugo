@@ -2,7 +2,7 @@
 title: "Pitkähuilujulkaisut"
 description: "Lista pitkähuilua sisältävistä äänite- ja kirjajulkaisuista"
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
