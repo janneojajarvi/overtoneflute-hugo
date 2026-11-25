@@ -2,18 +2,18 @@
 title: "Pitkähuilun asteikko"
 description: "Pitkähuilun asteikko sanoin, kuvin ja ääninäytteenä."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
 Pitkähuilun asteikko pohjautuu harmoniseen yläsävelsarjaan. Sävelten tarkkaan vireeseen vaikuttavat muun muassa soittimen osien rakenne ja soittajan suuontelon tilavuus. Yläsävelasteikkoa kuulee myös esim. kurkkulaulussa ja munniharpun soitossa. Pitkähuilumelodiat liikkuvat yleensä kahdeksannen yläsävelen (kerrannaisen) paikkeilla. Teoriassa yläsävelsarjan voisi soittaa pelkällä avotekniikalla sulkematta putken päätä, mutta tällöin mm. kahdeksas yläsävel soisi huilussa epämiellyttävän korkealta. Tukkotekniikalla saatavassa asteikossa soi vain joka toinen yläsävel. Tukkotekniikkaa ja avotekniikkaa yhdistelemällä saadaan korvalle miellyttävältä korkeudelta soiva yläsävelasteikko. Asteikkoa voidaan laajentaa entisestään sulkemalla putken pää vain osittain esim. 1/2 tai 3/4.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/overtoneflute-hugo/images/Dpitkiksenskaala2.jpg" alt="Pitkähuilun asteikon kaavio" style="max-width: 100%; height: auto;" />
+  <img src="/images/Dpitkiksenskaala2.jpg" alt="Pitkähuilun asteikon kaavio" style="max-width: 100%; height: auto;" />
 </div>
 
 <audio controls style="width: 100%; margin: 20px 0;">
-  <source src="/overtoneflute-hugo/audio/pitkahuilunsavelet.mp3" type="audio/mpeg">
+  <source src="/audio/pitkahuilunsavelet.mp3" type="audio/mpeg">
   Selaimesi ei tue äänisoitinta.
 </audio>
 <p style="text-align: center; font-size: 0.9rem; color: #a0aec0;">D-pitkähuilun sävelet</p>
