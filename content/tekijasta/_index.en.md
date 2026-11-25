@@ -2,7 +2,7 @@
 title: "About me and contact"
 description: "About Janne Ojajärvi, the author of overtoneflute.fi."
 images:
-  - "/overtoneflute-hugo/images/huiluukko.jpg"
+  - "/images/huiluukko.jpg"
 draft: false
 ---
 
