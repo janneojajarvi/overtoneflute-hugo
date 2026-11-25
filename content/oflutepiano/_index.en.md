@@ -1,5 +1,5 @@
 ---
-title: "D Overtone Flute Piano"
+title: "Overtone Flute Piano"
 ---
 
 {{< piano_en >}}
