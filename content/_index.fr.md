@@ -5,7 +5,7 @@ description: "Découvrez la flûte harmonique scandinave et la flûte en saule (
 
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/banner.jpg" alt="Flûte harmonique détail" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/banner.jpg" alt="Flûte harmonique détail" style="max-width: 100%; height: auto; border-radius: 2px;">
 </div>
 
 <h2 style="color: #ffffff; font-size: 1.8rem; margin-bottom: 0.5rem;">La Flûte Harmonique Scandinave : L'Art de la Flûte en Saule</h2>
@@ -38,17 +38,17 @@ Si vous souhaitez soutenir la maintenance de cette page, vous pouvez acheter ici
 </p>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/bassopitkahuilu.jpg" alt="Flûte à harmoniques basse" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/bassopitkahuilu.jpg" alt="Flûte à harmoniques basse" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Flûte à harmoniques basse (fabricant : Vladiswar Nadishana)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 1.5rem;">
-  <img src="/overtoneflute-hugo/images/soittoasento.jpg" alt="Flûte à harmoniques accordée en ré" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/soittoasento.jpg" alt="Flûte à harmoniques accordée en ré" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Flûte à harmoniques accordée en ré (fabriquée par Ying Ming Zhang)</p>
 </div>
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
-  <img src="/overtoneflute-hugo/images/erilaisia-pitkahuiluja.jpg" alt="Une pile de flûtes à harmoniques" style="max-width: 100%; height: auto; border-radius: 2px;">
+  <img src="/images/erilaisia-pitkahuiluja.jpg" alt="Une pile de flûtes à harmoniques" style="max-width: 100%; height: auto; border-radius: 2px;">
   <p style="font-size: 0.9rem; color: #a0aec0; margin-top: 0.5rem; font-style: italic;">Une pile de flûtes à harmoniques.</p>
 </div>
 
