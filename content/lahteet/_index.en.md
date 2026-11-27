@@ -1,7 +1,7 @@
 ---
 title: "Sources"
 aliases:
-  - /sources/
+  - "/sources/"
 ---
 
 <ul style="line-height: 1.8; margin-bottom: 3rem; padding-left: 1.2rem; font-size: 0.95rem;">
