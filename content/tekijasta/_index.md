@@ -68,6 +68,9 @@ Voit ottaa yhteyttä lähettämällä sähköpostia osoitteeseen tai täyttämä
       <option value="Googlesta">Googlesta</option>
       <option value="YouTubesta">YouTubesta</option>
       <option value="Facebookista">Facebookista</option>
+<option value="Maxbrumberg">Maxbrumberg.eu</option><option value="Kirsivinkkiflutes">Kirsi Vinkki website</option>
+<option value="Flutetunesdotcom">Flutetunes.com</option>
+<option value="Folkfluteworld">Folkfluteworld.com</option>
       <option value="Muuta kautta">Muuta kautta</option>
     </select>
   </div>
