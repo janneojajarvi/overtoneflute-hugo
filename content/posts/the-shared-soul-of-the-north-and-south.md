@@ -7,6 +7,8 @@ categories: ["Blogi"]
 images:
   - "https://overtoneflute.wordpress.com/wp-content/uploads/2026/02/file_00000000c75c71f496d60abdb9d44de17174662840698293524.png"
 draft: false
+aliases:
+  - /2026/02/05/the-shared-soul-of-the-north-and-south/
 ---
 
 
