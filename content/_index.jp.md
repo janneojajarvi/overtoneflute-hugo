@@ -3,7 +3,7 @@ title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 date: 2026-04-24
 draft: false
 aliases:
-  - /tag/%E4%BC%9D%E7%B5%B1%E9%9F%B3%E6%A5%BD/
+  - "/tag/%E4%BC%9D%E7%B5%B1%E9%9F%B3%E6%A5%BD/"
 ---
 
 <h2 style="font-size:28px">柳の笛 (Pitkähuilu / Overtone Flute)</h2>
