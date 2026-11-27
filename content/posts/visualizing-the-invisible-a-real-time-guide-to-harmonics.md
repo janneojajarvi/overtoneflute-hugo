@@ -13,17 +13,17 @@ Have you ever wondered what makes the sound of an overtone flute so hauntingly b
 While our ears perceive these frequencies as a single rich tone, our new Harmonic Visualizer allows you to see them with scientific precision. By using your device's microphone, this tool transforms sound waves into a live spectral graph, revealing the "DNA" of your instrument’s voice.
 
 **What to Look For:**
-* **The Fundamental**: The first and strongest peak on the left represents the basic pitch of the note[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).
-* **Overtones**: The smaller peaks to the right are the harmonics. On an overtone flute, you can watch these peaks shift as you change your blowing pressure[span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span).
-* **Sound Color** (Timbre): A "pure" sound like a whistle will show fewer peaks, while a rich, buzzy sound will create a dense forest of harmonics[span_7](start_span)[span_7](end_span)[span_8](start_span)[span_8](end_span).
+* **The Fundamental**: The first and strongest peak on the left represents the basic pitch of the note.
+* **Overtones**: The smaller peaks to the right are the harmonics. On an overtone flute, you can watch these peaks shift as you change your blowing pressure.
+* **Sound Color** (Timbre): A "pure" sound like a whistle will show fewer peaks, while a rich, buzzy sound will create a dense forest of harmonics.
 
 **How to Use the Tool:**
-1. Click "Start Microphone" and grant your browser permission to access audio[span_9](start_span)[span_9](end_span)[span_10](start_span)[span_10](end_span).
-2. Play a steady note on your flute, harmonica, or even sing into the mic[span_11](start_span)[span_11](end_span)[span_12](start_span)[span_12](end_span).
-3. Observe how the peaks react to different playing techniques[span_13](start_span)[span_13](end_span)[span_14](start_span)[span_14](end_span).
-4. To get the most accurate reading, try practicing in a quiet room to minimize background noise[span_15](start_span)[span_15](end_span)[span_16](start_span)[span_16](end_span).
+1. Click "Start Microphone" and grant your browser permission to access audio.
+2. Play a steady note on your flute, harmonica, or even sing into the mic.
+3. Observe how the peaks react to different playing techniques.
+4. To get the most accurate reading, try practicing in a quiet room to minimize background noise.
 
-Ready to visualize your music? Kokeile työkalua suoraan alta[span_17](start_span)[span_17](end_span)!
+Ready to visualize your music? Kokeile työkalua suoraan alta!
 
 <style>
 .analyzer-container {
