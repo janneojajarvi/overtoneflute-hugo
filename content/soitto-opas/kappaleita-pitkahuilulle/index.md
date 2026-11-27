@@ -4,6 +4,11 @@ description: "Ohjelmistoa pitkähuilulle nuotteina ja ääninäytteinä sormitus
 images:
   - "/images/huiluukko.jpg"
 draft: false
+aliases:
+  - /soitto-opas/kappaleita-pitkahuilulle/helpot/
+  - /soitto-opas/kappaleita-pitkahuilulle/keski-vaikeat/
+  - /soitto-opas/kappaleita-pitkahuilulle/puolisulkuja-sisaltavat/
+  - /soitto-opas/kappaleita-pitkahuilulle/vaikeat/
 ---
 
 Seuraavista kappaleista osa on perinteisiä kansansävelmiä, osa perinteisistä sävelmistä pitkähuilulle sovitettuja versioita ja osa sävellettyjä kappaleita pitkähuilun soittajilta, jotka ovat antaneet luvan kappaleidensa käyttöön tällä oppimateriaalisivustolla. Kaikki ääninäytteet on soittanut ja äänittänyt tämän sivun [tekijä](/tekijasta/).
