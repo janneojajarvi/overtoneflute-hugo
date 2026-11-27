@@ -4,6 +4,8 @@ description: "About Janne Ojajärvi, the author of overtoneflute.fi."
 images:
   - "/images/huiluukko.jpg"
 draft: false
+aliases:
+  - /about-me-and-contact/
 ---
 
 <h2 style="color: #ffffff; margin-bottom: 1.5rem; font-size: 1.5rem;">About Janne Ojajärvi</h2>
