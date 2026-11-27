@@ -24,3 +24,57 @@
     &copy; {{ now.Year }} Janne Ojajärvi
   </p>
 </footer>
+
+<!-- Strukturoitu data (Schema.org JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://overtoneflute.fi/#website",
+      "url": "https://overtoneflute.fi/",
+      "name": "{{ .Site.Title }}",
+      "description": "{{ with .Site.Params.description }}{{ . }}{{ else }}{{ .Site.Params.site_description }}{{ end }}",
+      "inLanguage": "{{ .Site.Language.Lang }}",
+      "publisher": {
+        "@id": "https://janneojajarvi.com/#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://janneojajarvi.com/#person",
+      "name": "Janne Ojajärvi",
+      "url": "https://janneojajarvi.com/",
+      "jobTitle": "Musician, Overtone Flute Player, Educator",
+      "sameAs": [
+        "https://janneojajarvi.com/",
+        "https://overtoneflute.fi/",
+        "https://www.instagram.com/overtoneflutefi/",
+        "https://facebook.com/overtoneflute.fi/"
+      ]
+    }
+    {{- if .IsPage }},
+    {
+      "@type": "Article",
+      "headline": {{ .Title | jsonify }},
+      "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | jsonify }}{{ end }},
+      "inLanguage": "{{ .Site.Language.Lang }}",
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {
+        "@id": "https://janneojajarvi.com/#person"
+      },
+      "publisher": {
+        "@id": "https://janneojajarvi.com/#person"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      },
+      "image": "{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}https://overtoneflute.fi/images/huiluukko.jpg{{ end }}"
+    }
+    {{- end }}
+  ]
+}
+</script>
