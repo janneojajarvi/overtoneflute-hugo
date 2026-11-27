@@ -1,5 +1,7 @@
 ---
 title: "How to play"
+aliases:
+  - /how-to-play/
 ---
 
 <h3 style="margin-bottom: 1rem; color: #ffffff;">How the overtone flute works?</h3>
