@@ -1,5 +1,8 @@
 ---
 title: "Fingering chart and tabs"
+aliases:
+  - /how-to-play/fingering-chart-and-tabs/
+  - /fingering-chart-and-tabs/
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
