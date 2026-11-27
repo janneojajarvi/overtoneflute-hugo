@@ -4,6 +4,8 @@ description: "Your Online Resource for Overtone Flutes."
 images:
   - "/images/huiluukko.jpg"
 draft: false
+aliases:
+  - /home/
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
