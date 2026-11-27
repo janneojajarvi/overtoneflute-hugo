@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://overtoneflute.fi/#website",
+      "url": "https://overtoneflute.fi/",
+      "name": "{{ .Site.Title }}",
+      "description": "{{ with .Site.Params.description }}{{ . }}{{ else }}{{ .Site.Params.site_description }}{{ end }}",
+      "inLanguage": "{{ .Site.Language.Lang }}"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://overtoneflute.fi/#person",
+      "name": "Janne Ojajärvi",
+      "jobTitle": "Musician, Overtone Flute Player",
+      "url": "https://overtoneflute.fi/"
+    }
+    {{ if .IsPage }},
+    {
+      "@type": "Article",
+      "headline": "{{ .Title }}",
+      "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      "author": {
+        "@id": "https://overtoneflute.fi/#person"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Permalink }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
