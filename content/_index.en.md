@@ -8,7 +8,7 @@ aliases:
   - /home/
   - /2026/07/01/video-of-the-month-07-2026/
   - /blog/
-  - /tag/%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BB%D0%B5%D0%B9%D1%82%D0%B0/
+  - "/tag/%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BB%D0%B5%D0%B9%D1%82%D0%B0/"
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
