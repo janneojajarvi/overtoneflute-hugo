@@ -5,6 +5,8 @@ description: "An interactive virtual D-overtone flute tool and keyboard designed
 tags: ["Virtual Flute", "Composition", "Pitkähuilu", "Harmonic Series"]
 categories: ["Blogi"]
 draft: false
+aliases:
+  - /2026/03/17/virtual-d-overtone-flute-a-tool-for-composition-and-practice/
 ---
 
 ### **Exploring the D Overtone Flute Scale**
