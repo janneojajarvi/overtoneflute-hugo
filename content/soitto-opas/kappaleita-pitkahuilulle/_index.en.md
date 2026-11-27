@@ -1,5 +1,7 @@
 ---
 title: "Overtone flute tunes"
+aliases:
+  - /how-to-play/overtone-flute-tunes/
 ---
 
 
