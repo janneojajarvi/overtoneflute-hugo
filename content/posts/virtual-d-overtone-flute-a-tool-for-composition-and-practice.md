@@ -19,4 +19,4 @@ This virtual keyboard is a tool for composers and students to visualize the avai
 
 - **Dark Keys (Closed):** These represent notes played with the end of the tube closed. This changes the acoustic properties of the pipe, producing the odd harmonics (3,5,7...).
 
-Use this piano to experiment with melodies and to hear the unique "natural" intervals that define the archaic sound of the overtone flute. If you want to use also half-closed tones, you can try the virtual D-overtone flute from [this link](https://janneojajarvi.github.io/overtoneflutepiano/).
+Use this piano to experiment with melodies and to hear the unique "natural" intervals that define the archaic sound of the overtone flute. If you want to use also half-closed tones, you can try the virtual D-overtone flute from [this link](/en/oflutepiano/).
