@@ -1,6 +1,7 @@
 ---
 title: "Breathing"
 aliases:
+  - /how-to-play/breathing/
   - /breathing/
 ---
 
