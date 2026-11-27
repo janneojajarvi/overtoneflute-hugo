@@ -1,6 +1,7 @@
 ---
 title: "Home"
 description: "Your Online Resource for Overtone Flutes."
+description: "Learn to play the overtone flute (willow flute) with our free tutorials, sheet music, and guides. Explore the ancient Scandinavian sound and harmonic music today."
 images:
   - "/images/huiluukko.jpg"
 draft: false
