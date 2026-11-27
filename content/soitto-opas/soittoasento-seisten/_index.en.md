@@ -1,5 +1,8 @@
 ---
 title: "Posture and playing position"
+aliases:
+  - /how-to-play/posture-and-playing-position/
+  - /posture-and-playing-position/
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
