@@ -1,5 +1,7 @@
 ---
 title: "Links"
+aliases:
+  - /links/
 ---
 
 <p style="line-height: 1.8; margin-bottom: 1.5rem;">
