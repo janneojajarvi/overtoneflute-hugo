@@ -1,6 +1,8 @@
 ---
 title: "What is overtone flute"
 description: "Discover the history, tradition, and acoustic principles of the Finnish overtone flute (pitkähuilu) and its global equivalents like the seljefløyte."
+aliases:
+  - /what-is-overtone-flute/
 ---
 
 
