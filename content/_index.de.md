@@ -1,6 +1,8 @@
 ---
 title: "Obertonflöte"
 description: "Entdecken Sie die finnische Obertonflöte und Weidenflöte (pitkähuilu). Erfahren Sie mehr über Naturtöne, Spieltechniken, Übungen und Noten für dieses traditionelle nordische Instrument."
+aliases:
+  - /deutsch/
 ---
 
 
