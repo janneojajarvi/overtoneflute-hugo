@@ -1,5 +1,8 @@
 ---
 title: "Buying an overtone flute"
+aliases:
+  - /what-is-overtone-flute/buying-an-overtone-flute/
+
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
