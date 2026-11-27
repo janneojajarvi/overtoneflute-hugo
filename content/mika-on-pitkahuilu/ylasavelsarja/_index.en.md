@@ -4,6 +4,7 @@ aliases:
   - /tag/harmonic-series/
   - /harmonic-series/
   - /overtones-2/
+  - /what-is-overtone-flute/overtones-2/
   - /overtones-1/
   - /overtones/
   - /tag/music-theory/
