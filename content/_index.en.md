@@ -6,6 +6,7 @@ images:
 draft: false
 aliases:
   - /home/
+  - /2026/07/01/video-of-the-month-07-2026/
 ---
 
 <div class="tc pv2" style="margin-bottom: 2rem;">
