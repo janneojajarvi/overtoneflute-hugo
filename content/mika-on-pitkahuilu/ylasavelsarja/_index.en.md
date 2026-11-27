@@ -4,6 +4,7 @@ aliases:
   - /tag/harmonic-series/
   - /harmonic-series/
   - /overtones/
+  - /tag/music-theory/
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
