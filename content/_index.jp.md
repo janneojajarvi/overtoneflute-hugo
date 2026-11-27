@@ -2,6 +2,9 @@
 title: "柳の笛 (Pitkähuilu / Overtone Flute)"
 date: 2026-04-24
 draft: false
+description: "​フィンランドの伝統楽器「柳の笛」（オーバートーン・フルート）の紹介。指穴のない不思議な笛の仕組みや演奏法、北欧の豊かな倍音の魅力を解説します。"
+images:
+  - "/images/huiluukko.jpg"
 aliases:
   - "/tag/%E4%BC%9D%E7%B5%B1%E9%9F%B3%E6%A5%BD/"
 ---
