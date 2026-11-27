@@ -8,6 +8,7 @@ aliases:
   - /overtones-1/
   - /overtones/
   - /tag/music-theory/
+  - "/2026/03/24/visualizing-the-invisible-a-real-time-guide-to-harmonics/"
 ---
 
 <p style="font-size: 1.05rem; line-height: 1.6; margin-bottom: 1.5rem;">
